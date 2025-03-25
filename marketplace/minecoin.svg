@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M16.0001 1.9989H5.99995V3.99894H3.99991V5.99897H1.99988V15.9992H3.99991V17.9992H5.99995V19.9992H16.0001V17.9992H18.0002V15.9992H20.0002V5.99897H18.0002V3.99894H16.0001V1.9989Z" fill="#FFDC16"/>
+	<rect x="5.99951" width="10.0002" height="2.00004" fill="#402A00"/>
+	<rect width="10.0002" height="2.00004" transform="matrix(1 0 0 -1 5.99951 22)" fill="#3C2400"/>
+	<rect x="20.0001" y="15.9987" width="10.0002" height="2.00004" transform="rotate(-90 20.0001 15.9987)" fill="#3F2704"/>
+	<rect y="15.9987" width="10.0002" height="2.00004" transform="rotate(-90 0 15.9987)" fill="#3F2704"/>
+	<rect x="16.0023" y="1.9989" width="2.00004" height="2.00004" fill="#402A00"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(1 0 0 -1 16.0023 20.0011)" fill="#3C2400"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(-1 0 0 1 5.99951 1.9989)" fill="#402A00"/>
+	<rect x="5.99951" y="20.0011" width="2.00004" height="2.00004" transform="rotate(180 5.99951 20.0011)" fill="#3C2400"/>
+	<rect x="18.0004" y="4.00232" width="2.00004" height="2.00004" fill="#402A00"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(1 0 0 -1 18.0004 17.9985)" fill="#3C2400"/>
+	<rect width="10.0002" height="2.00004" transform="matrix(1 0 0 -1 5.99951 20.0011)" fill="#B17818"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(1 0 0 -1 16.0023 17.9985)" fill="#B17818"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(1 0 0 -1 18.0004 15.9987)" fill="#B17818"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(-1 0 0 1 4.00146 4.00232)" fill="#402A00"/>
+	<rect x="5.99951" y="1.9989" width="10.0002" height="2.00004" fill="#FFFCCD"/>
+	<rect x="9.99915" y="4.00232" width="8.00014" height="2.00004" fill="#FFE263"/>
+	<rect x="16.0023" y="6.00134" width="2.00004" height="2.00004" fill="#FFE263"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(-1 0 0 1 5.99951 4.00232)" fill="#FFFED9"/>
+	<rect width="2.00004" height="2.00004" transform="matrix(-1 0 0 1 4.00146 6.00134)" fill="#FFFED9"/>
+	<rect x="4.00146" y="17.9985" width="2.00004" height="2.00004" transform="rotate(180 4.00146 17.9985)" fill="#3C2400"/>
+	<rect x="5.99951" y="6.00134" width="2.00004" height="10.0002" fill="#CC9915"/>
+	<rect x="14.0006" y="6.00134" width="2.00004" height="10.0002" fill="#CC9915"/>
+	<rect x="9.99915" y="10.0001" width="2.00004" height="4.00007" fill="#CC9915"/>
+	<rect x="12.0009" y="8.0011" width="2.00004" height="2.00004" fill="#CC9915"/>
+	<rect x="7.99939" y="8.0011" width="2.00004" height="2.00004" fill="#CC9915"/>
+</svg>

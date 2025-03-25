@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <meta property="og:title" content="Bedrock Item Viewer" />
+    <meta name="description" content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags." />
+    <meta property="og:description" content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags." />
+    <meta property="twitter:description" content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags." />
+    <meta property="theme-color" content="#fc523b" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/merch/Creator_CreatorPromo_Blog_1170x500.jpg" />
+    <meta property="og:image" content="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/merch/Creator_CreatorPromo_Blog_1170x500.jpg" />
+    <meta property="og:image:width" content="1170" />
+    <meta property="og:image:height" content="500" />
+    <meta name="keywords" content="Minecraft, Bedrock, Marketplace, Character Creator, Item Viewer, Persona Pieces">
+    <link rel="canonical" href="https://github.com/BehaviorPack/Bedrock-Item-Viewer/">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bedrock Item Viewer</title>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+    <style>
+      /* General styling */
+      body {
+        font-family: "Poppins", sans-serif;
+        background-color: #0e0e0e;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+
+      h1 {
+        padding: 20px;
+        background: linear-gradient(45deg, #6a11cb, #2575fc);
+        border-radius: 5px;
+        display: inline-block;
+      }
+
+      /* File upload */
+      #file-input {
+        display: block;
+        margin: 20px auto;
+        padding: 10px;
+        font-size: 1.1em;
+        border: none;
+        border-radius: 5px;
+        background: #333;
+        color: white;
+        cursor: pointer;
+        transition: 0.3s ease;
+      }
+
+      #file-input:hover {
+        background: #444;
+      }
+
+      /* Container for persona items */
+      #personas-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 20px;
+      }
+
+      /* Persona Item Styling */
+      .persona {
+        width: 220px;
+        margin: 15px;
+        background: #1b1b1b;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.5);
+        cursor: pointer;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        display: flex;
+  flex-direction: column;
+      }
+
+      .persona:hover {
+        transform: scale(1.08);
+        box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.7);
+      }
+
+      .persona img {
+        width: 100%;
+        height: auto;
+      }
+
+      .persona-title {
+        font-weight: bold;
+        padding: 10px;
+        background: linear-gradient(to right, #444, #222);
+      }
+
+      .persona-details {
+        padding: 10px;
+        font-size: 0.9em;
+      }
+
+      .common {
+        background: linear-gradient(to bottom, #e2e2e2, #6e6e6e);
+      }
+
+      .uncommon {
+        background: linear-gradient(to bottom, #b1fec7, #53a86b);
+      }
+
+      .rare {
+        background: linear-gradient(to bottom, #b6d2ff, #1a409b);
+      }
+
+      .epic {
+        background: linear-gradient(to bottom, #c596d0, #5c2e67);
+      }
+
+      .legendary {
+        background: linear-gradient(to bottom, #eea87b, #833d11);
+      }
+
+      /* Modal Styling */
+      .modal {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+      }
+
+      .modal-content {
+        background-color: #2c2c2c;
+        border-radius: 10px;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        width: 80%;
+        max-width: 900px;
+        position: relative;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.7);
+      }
+      
+      .modal-left {
+        width: 40%;
+        padding-left: 20px;
+        /* text-align: left; */
+      }
+
+      .modal-middle {
+        width: 35%;
+        padding-left: 80px;
+        padding-right: 80px;
+      }
+
+      .modal-right {
+        width: 35%;
+        padding-left: 60px;
+        padding-right: 60px;
+        display: flex; /* Ensures the image stretches properly */
+        align-items: center; /* Centers the image if it's smaller */
+        justify-content: center; /* Centers the image horizontally */
+        height: 100%; /* Makes sure it takes the full height of the modal */
+      }
+
+      #modal-render-right {
+        width: auto; /* Ensures aspect ratio is maintained */
+        height: 100%; /* Makes the image stretch to the container height */
+        object-fit: cover; /* Ensures it fills the container without distortion */
+      }
+
+      .modal img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      h3 {
+        border-radius: 10px;
+        border: 2px solid #1e2124;
+        box-shadow: 0 4px 8px #1e2124;
+        padding: 20px;
+      }
+
+      .close-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: #ff4747;
+        color: white;
+        padding: 10px;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+
+      .view-ingame-btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 12px 25px;
+        background-color: #6a6fcd;
+        color: white;
+        font-size: 1em;
+        border-radius: 5px;
+        cursor: pointer;
+        text-decoration: none;
+        transition: 0.3s ease;
+      }
+
+      .view-ingame-btn:hover {
+        background-color: #4a4f9b;
+      }
+
+      /* Tag filter styles */
+      #filters {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin: 20px;
+      }
+
+      select,
+      input {
+        padding: 12px;
+        border-radius: 5px;
+        border: none;
+        font-size: 1em;
+        background-color: #333;
+        color: #fff;
+        transition: 0.3s ease;
+      }
+
+      select:hover,
+      input:hover {
+        background-color: #444;
+      }
+
+      /* Scroll Behavior */
+      body.modal-open {
+        overflow: hidden;
+      }
+
+      #key-art-image {
+  width: 50px;
+  height: auto;
+  border-radius: 10px;
+}
+    </style>
+  </head>
+  <body>
+    <h1>Bedrock Item Viewer</h1>
+    <input type="file" id="file-input" accept=".json" />
+    <p id="loaded-items">Loaded Items: 0</p>
+
+    <div id="key-art-section" style="display: none; text-align: center; padding: 20px;">
+      <img id="key-art-image" src="" alt="DLC Key Art" style="max-width: 100%; height: auto; border-radius: 10px;">
+      <p id="key-art-description"></p>
+      <a id="key-art-link" href="#" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #6a6fcd; color: white; border-radius: 5px; text-decoration: none; margin-top: 10px;">
+        Learn More
+      </a>
+    </div>
+
+    <div id="filters">
+      <input type="text" id="search-box" placeholder="Search by name..." />
+      <select id="tag-selector">
+          <option value="">Select a DLC</option>
+          <option value="hidden_offer">🔎 Hidden Offer</option>
+          <option value="redeemable_only">🎟️ Redeemable Only</option>
+          <option value="is_achievement">🏆 Achievement</option>
+          <option value="vanilla_achievement">🍦🏆 Vanilla Achievement</option>
+          <option value="earth_achievement">🌎🏆 Earth Achievement</option>
+          <option value="limited.lgbtqplus">⏱🏳‍🌈 Limited LGBTQ+</option>
+          <option value="cannot_be_bought">🚫 Cannot Be Bought</option>
+          <option value="non_hidden_offers">✔ Non-Hidden-Offers</option>
+          <option value="custom.angrybirds">🐦💥 Angry Birds</option>
+          <option value="custom.avatar">🔵🌿 Avatar</option>
+          <option value="custom.avatarlegends">🌊🔥🌍💨 Avatar Legends</option>
+          <option value="custom.baseball">⚾ Baseball</option>
+          <option value="custom.batman">🦇 Batman</option>
+          <option value="custom.ben10">👦 Ben 10</option>
+          <option value="custom.burberry">👜 Burberry</option>
+          <option value="custom.buzz">🚀 Buzz Lightyear</option>
+          <option value="custom.campenderwood">🏕️🔥 Camp Enderwood</option>
+          <option value="custom.crocs">🥿🐊 Crocs</option>
+          <option value="custom.disney">🏰🎠 Disney</option>
+          <option value="custom.disneyworldsofadventure">🏰✨ Disney Worlds of Adventure</option>
+          <option value="custom.drsussy">🎩📚 Dr. Seuss</option>
+          <option value="custom.dungeons&dragons">🐉🎲 Dungeons & Dragons</option>
+          <option value="custom.frozen">❄️⛄ Frozen</option>
+          <option value="custom.godzilla">🦖🔥 Godzilla</option>
+          <option value="custom.halo">👾🔫 Halo</option>
+          <option value="custom.hellokitty">🎀🐱 Hello Kitty</option>
+          <option value="custom.howtotrainyourdragon">🐉🔥 How to Train Your Dragon</option>
+          <option value="custom.iceage">🧊 Ice Age</option>
+          <option value="custom.jurassicpark">🦖🌿 Jurassic Park</option>
+          <option value="custom.kungfupanda">🥋🐼 Kung Fu Panda</option>
+          <option value="custom.mcc">🏆🎮 MCC</option>
+          <option value="custom.moana">🌺🚢 Moana</option>
+          <option value="custom.mega">💥🚀 Mega</option>
+          <option value="custom.minions">🍌😂 Minions</option>
+          <option value="custom.planetearth3">🌍📽️ Planet Earth 3</option>
+          <option value="custom.sonic">🦔💨 Sonic</option>
+          <option value="custom.spongebob">🍍🧽 SpongeBob</option>
+          <option value="custom.starwars">⭐🚀 Star Wars</option>
+          <option value="custom.theincredibles">( i ) The Incredibles</option>
+          <option value="custom.tetris">🟦🟥🟧 Tetris</option>
+          <option value="custom.transformers">🤖🚗 Transformers</option>
+          <option value="custom.theworldwarrior">🌍⚔️ The World Warrior</option>
+          <option value="custom.tmnt">🐢🍕 Teenage Mutant Ninja Turtles</option>
+          <option value="custom.universal">🌎🎬 Universal</option>
+          <option value="custom.walmart">🛒🏪 Walmart</option>
+          <option value="custom.forgot">Forgot</option>
+        </select>
+        <select id="type-selector">
+          <option value="">Select a Type</option>
+          <option value="persona_emote">Emote</option>
+          <option value="persona_top">Top</option>
+          <option value="persona_head">Headwear</option>
+          <option value="persona_hood">Outerwear / Headwear</option>
+          <option value="persona_back">Back Item</option>
+          <option value="persona_feet">Footwear</option>
+          <option value="persona_capes">Cape</option>
+          <option value="persona_face_accessory">Face Item</option>
+          <option value="persona_outerwear">Outerwear</option>
+          <option value="persona_bottom">Bottoms</option>
+          <option value="persona_hand">Gloves</option>
+          <option value="persona_high_pants">Bottoms / Top</option>
+        </select>
+      </div>
+    </div>
+    <div id="personas-container"></div>
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <button class="close-btn" id="close-btn">X</button>
+        <div class="modal-left">
+          <h2 id="modal-title">Persona Title</h2>
+          <img id="modal-img" src="" alt="Persona Image" />
+          <div id="modal-details"></div>
+          <img id="modal-render" src="" alt="Render Image" style="display: none; width: 100%; margin-top: 10px" />
+          <a href="#" id="view-ingame-btn" class="view-ingame-btn" style="display: none">View In-game</a>
+        </div>
+        <div class="modal-middle">
+          <h3 id="modal-render-container" style="width: 100%; height: 400px; text-align: center"></h3>
+        </div>
+        <div class="modal-right">
+          <img id="modal-render-right" src="" alt="Persona Render" style="max-width: 100%; height: auto" />
+        </div>
+      </div>
+    </div>
+    <script>
+
+      //New Key Art display
+    const tagData = {
+      "custom.spongebob": {
+        image: "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/58975786-96fd-4077-8d78-e687581d27b2/SpongeBob_SquarePants_packicon.jpg",
+        description: "Dive into the world of SpongeBob SquarePants with this awesome DLC!",
+        link: "https://minecraft.wiki/w/Minecraft_x_SpongeBob_SquarePants#Character_creator"
+      },
+      "custom.sonic": {
+        image: "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/35771e9e-a900-4fd4-a821-77f43ffb4d1c/Sonic_packicon.jpg",
+        description: "Step into comfort with this stylish Crocs DLC!",
+        link: "https://minecraft.wiki/w/Minecraft_x_Sonic_the_Hedgehog#Character_creator"
+      },
+      // Add more tag mappings here...
+    };
+    //New Key Art display
+    
+      let data = {};
+      let selectedTags = [];
+      let selectedPieceType = "";
+      document.getElementById("type-selector").addEventListener("change", function (event) {
+        selectedPieceType = event.target.value;
+        filterItems();
+      });
+
+      function convertPieceType(pieceType) {
+        const conversionMap = {
+          persona_emote: "Emote",
+          persona_top: "Top",
+          persona_head: "Headwear",
+          persona_hood: ["Outerwear", "Headwear"],
+          persona_back: "Back Item",
+          persona_feet: "Footwear",
+          persona_capes: "Cape",
+          persona_face_accessory: "Face Item",
+          persona_outerwear: "Outerwear",
+          persona_bottom: "Bottoms",
+          persona_hand: "Gloves",
+          persona_high_pants: ["Bottoms", "Top"],
+        };
+        return conversionMap[pieceType] || pieceType;
+      }
+
+      function getPrice(item) {
+    const priceData = item.Price?.Prices?.[0]?.Amounts?.[0]?.Amount; // Get the first price amount
+    const minecoinIcon =
+      '<img src="./marketplace/minecoin.svg" alt="Minecoin" style="width: 22px; vertical-align: middle;">'; // Use your own icon path here
+
+    if (priceData === 0) return "Free"; // Check if price is 0 and return "Free"
+    
+    return priceData ? `${priceData} ${minecoinIcon}` : "Not Available"; // If price is available, show icon and price, else show "Not Available"
+}
+
+      function openModal(item) {
+        const modal = document.getElementById("modal");
+        const modalImg = document.getElementById("modal-img");
+        const modalTitle = document.getElementById("modal-title");
+        const modalDetails = document.getElementById("modal-details");
+        const viewIngameBtn = document.getElementById("view-ingame-btn");
+        const modalRender = document.getElementById("modal-render");
+        const modalRenderRight = document.getElementById("modal-render-right");
+        const modalRenderContainer = document.getElementById("modal-render-container"); // New container
+
+        modalImg.src = item.Images[0].Url;
+        modalTitle.textContent = item.Title.NEUTRAL;
+
+        const itemName = encodeURIComponent(item.Title.NEUTRAL); // Encode to handle spaces/special characters
+        const modelUrl = `https://raw.githubusercontent.com/BehaviorPack/Bedrock-Viewer/main/marketplace/models/${itemName}.glb`;
+
+        function formatDate(date) {
+          const newDate = new Date(date);
+          return newDate.toLocaleDateString();
+        }
+
+        function filterUUIDTags(tags) {
+          const uuidPattern = /^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$/;
+          return tags
+            .filter((tag) => !uuidPattern.test(tag) && tag !== "1P") // Exclude UUIDs and "1P"
+            .map((tag) => tag.toUpperCase());
+        }
+
+        modalDetails.innerHTML = ` 
+        <strong>Piece Type:</strong> ${convertPieceType(item.DisplayProperties.pieceType)}<br>
+        <strong>Rarity:</strong> ${item.DisplayProperties.rarity}<br>
+        <strong>Creator:</strong> ${item.DisplayProperties.creatorName}<br>
+        <strong>Price:</strong> ${getPrice(item)}<br>
+        ${item.Description && item.Description.NEUTRAL !== "§" ? `<strong>Description:</strong> ${item.Description.NEUTRAL}<br>` : ""}
+        <strong>Creation Date:</strong> ${formatDate(item.CreationDate)}<br>
+        <strong>Tags:</strong> ${filterUUIDTags(item.Tags).join(", ")}<br>
+        ${item.Id}
+    `;
+    
+        // Hide the button if the item has the "hidden_offer" tag
+        if (item.Tags.includes("hidden_offer")) {
+          viewIngameBtn.style.display = "none";
+        } else if (item.DisplayProperties.purchasable) {
+          viewIngameBtn.style.display = "inline-block";
+          viewIngameBtn.href = `minecraft://showDressingRoomOffer?offerID=${item.Id}`;
+        } else {
+          viewIngameBtn.style.display = "none";
+        }
+
+        const pngUrl = `./marketplace/renders/${item.Title.NEUTRAL} Render.png`;
+        const gifUrl = `./marketplace/renders/${item.Title.NEUTRAL} Render.gif`;
+
+        function checkImageExists(url, callback) {
+          const img = new Image();
+          img.onload = () => callback(true);
+          img.onerror = () => callback(false);
+          img.src = url;
+        }
+
+        checkImageExists(pngUrl, (exists) => {
+          modalRenderRight.src = exists ? pngUrl : gifUrl;
+          modalRenderRight.style.display = "block";
+        });
+
+        modalRenderContainer.innerHTML = "";
+
+        const pieceType = item.DisplayProperties.pieceType;
+
+        // Define different camera angles for different piece types
+        const cameraAngles = {
+          persona_top: "20deg 75deg 80deg", // Slightly tilted for tops
+          persona_head: "0deg 45deg 50deg", // Closer angle for headwear
+          persona_hood: "10deg 60deg 70deg", // Adjusted for hoods
+          persona_back: "180deg 75deg 80deg", // Rear angle for back items
+          persona_feet: "0deg 90deg 40deg", // Lower angle for footwear
+          persona_capes: "180deg 80deg 90deg", // Full back view for capes
+          persona_face_accessory: "0deg 30deg 50deg", // Close-up for face accessories
+          persona_outerwear: "20deg 75deg 85deg", // Full body view for outerwear
+          persona_bottom: "20deg 75deg 60deg", // Different angle for bottoms
+          persona_hand: "0deg 60deg 50deg", // Adjusted for gloves
+          persona_high_pants: "20deg 75deg 65deg", // Unique angle for high pants
+        };
+
+        // Fallback angle if pieceType isn't in the list
+        const cameraOrbit = cameraAngles[pieceType] || "20deg 75deg 80deg";
+
+        // Create and insert <model-viewer> dynamically
+        const modelViewer = document.createElement("model-viewer");
+        modelViewer.setAttribute("src", modelUrl);
+        modelViewer.setAttribute("camera-controls", "");
+        modelViewer.setAttribute("touch-action", "pan-y");
+        modelViewer.setAttribute("shadow-intensity", "0.5");
+        modelViewer.setAttribute("shadow-softness", "0.5");
+        modelViewer.setAttribute("exposure", "0.8");
+        modelViewer.setAttribute("lighting", "neutral");
+        modelViewer.setAttribute("camera-orbit", cameraOrbit); // Set camera angle dynamically
+        modelViewer.style.width = "100%";
+        modelViewer.style.height = "400px";
+
+        modalRenderContainer.appendChild(modelViewer);
+
+        modal.style.display = "flex";
+        document.body.classList.add("modal-open");
+      }
+
+      document.getElementById("close-btn").addEventListener("click", function () {
+        document.getElementById("modal").style.display = "none";
+        document.body.classList.remove("modal-open");
+      });
+
+      document.getElementById("file-input").addEventListener("change", function (event) {
+        const file = event.target.files[0];
+        if (file) {
+          const reader = new FileReader();
+          reader.onload = function (e) {
+            try {
+              data = JSON.parse(e.target.result);
+              displayPersonas();
+            } catch (error) {
+              alert("This is for testing the (data.json) found in the repo but locally.");
+            }
+          };
+          reader.readAsText(file);
+        }
+      });
+
+      async function loadData() {
+        const url = "./marketplace/data.json";
+
+        try {
+          const response = await fetch(url);
+          if (!response.ok) throw new Error("Failed to fetch data.json");
+
+          const jsonData = await response.json(); // Parse JSON
+          console.log("Loaded Data:", jsonData); // Debugging
+          data = jsonData;
+          displayPersonas(); // Call the function to display items
+        } catch (error) {
+          console.error("Error loading data:", error);
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", loadData);
+
+      function displayPersonas() {
+        const personasContainer = document.getElementById("personas-container");
+        personasContainer.innerHTML = "";
+        const loadedItems = document.getElementById("loaded-items");
+        loadedItems.textContent = `Loaded Items: ${data.data.Items.length}`;
+
+        data.data.Items.forEach((item) => {
+          const personaDiv = document.createElement("div");
+          personaDiv.classList.add("persona");
+
+          personaDiv.innerHTML = ` 
+                    <img src="${item.Images[0].Url}" alt="${item.Title.NEUTRAL}">
+                    <div class="persona-title">${item.Title.NEUTRAL}</div>
+                `;
+          personaDiv.addEventListener("click", function () {
+            openModal(item);
+          });
+// Apply background color based on rarity
+switch (item.DisplayProperties.rarity) {
+            case "common":
+              personaDiv.classList.add("common");
+              break;
+            case "uncommon":
+              personaDiv.classList.add("uncommon");
+              break;
+            case "rare":
+              personaDiv.classList.add("rare");
+              break;
+            case "epic":
+              personaDiv.classList.add("epic");
+              break;
+            case "legendary":
+              personaDiv.classList.add("legendary");
+              break;
+          }
+          personasContainer.appendChild(personaDiv);
+        });
+      }
+
+      document.getElementById("tag-selector").addEventListener("change", function (event) {
+    const selectedTag = event.target.value;
+    selectedTags = selectedTag ? [selectedTag] : [];
+    filterItems();
+    updateKeyArt(selectedTag);
+});
+
+// Function to update the key art section
+function updateKeyArt(tag) {
+    const section = document.getElementById("key-art-section");
+    const image = document.getElementById("key-art-image");
+    const description = document.getElementById("key-art-description");
+    const link = document.getElementById("key-art-link");
+
+    if (tagData[tag]) {
+        image.src = tagData[tag].image;
+        description.textContent = tagData[tag].description;
+        link.href = tagData[tag].link;
+        section.style.display = "block";
+    } else {
+        section.style.display = "none";
+    }
+}
+// Function to update the key art section
+
+      function filterItems() {
+    const selectedType = document.getElementById("type-selector").value;
+    const searchQuery = document.getElementById("search-box").value.toLowerCase();
+
+    const filteredItems = data.data.Items.filter((item) => {
+        const itemTags = item.Tags || [];
+        const itemType = item.DisplayProperties.pieceType;
+        const itemName = item.Title.NEUTRAL.toLowerCase();
+        const isPurchasable = item.DisplayProperties.purchasable; // True or False
+
+        const tagMatch = selectedTags.length === 0 || selectedTags.every((tag) => {
+            if (tag === "redeemable_only") return item.DisplayProperties.requiresRedeem === true;
+            if (tag === "cannot_be_bought") return isPurchasable === false;
+            if (tag === "non_hidden_offers") return !itemTags.includes("hidden_offer") && isPurchasable; // Ensure correct tag value
+            return itemTags.includes(tag);
+        });
+
+        const typeMatch = !selectedType || itemType === selectedType;
+        const searchMatch = !searchQuery || itemName.includes(searchQuery);
+
+        return tagMatch && typeMatch && searchMatch;
+    });
+
+    const personasContainer = document.getElementById("personas-container");
+    personasContainer.innerHTML = "";
+
+    filteredItems.forEach((item) => {
+        const personaDiv = document.createElement("div");
+        personaDiv.classList.add("persona");
+
+        personaDiv.innerHTML = ` 
+            <img src="${item.Images[0].Url}" alt="${item.Title.NEUTRAL}">
+            <div class="persona-title">${item.Title.NEUTRAL}</div>
+        `;
+        personaDiv.addEventListener("click", function () {
+            openModal(item);
+        });
+
+        personasContainer.appendChild(personaDiv);
+    });
+}
+
+document.getElementById("search-box").addEventListener("input", function () {
+    filterItems(); // Calls the filtering function as you type
+});
+
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+name: Update persona pieces
+run-name: Update
+on:
+  push:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+env:
+  CUSTOM_ID: ${{ secrets.CUSTOM_ID }}
+  PLAYER_SECRET: ${{ secrets.PLAYER_SECRET }}
+  TITLE_ID: ${{ secrets.TITLE_ID }}
+  TITLE_SHARED_SECRET: ${{ secrets.TITLE_SHARED_SECRET }}
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests colorama pycryptodome
+      - name: Run fm.py script
+        run: |
+          python marketplace/fm.py
+      - uses: EndBug/add-and-commit@v9.1.0
+        with:
+          message: "Updated Persona Pieces"
