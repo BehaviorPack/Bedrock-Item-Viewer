@@ -1,4 +1,4 @@
-import json, requests as rq, os as sys_os
+import json, requests as rq, os as sys_os, time
 from pf import LoginWithCustomId as LWC, GetEntityToken as GET
 T_C, S_K, C_T, I_L, M_I = 1, 0, 300, [], 3000
 
@@ -72,10 +72,12 @@ def process_tags_and_fetch_missing(a_t):
         tag = tag_data["tag"]
         description = tag_data["description"]
 
-        # Fetch the missing item for UUID if not already in existing_items
+         # Fetch the missing item for UUID if not already in existing_items
         if uuid not in existing_items:
             print(f"Fetching missing item for UUID: {uuid}")
             item_data = g_uuid(a_t, uuid.strip())
+            time.sleep(30)  # Wait 30 seconds before the next API call
+
             if item_data and 'data' in item_data and 'Items' in item_data['data'] and item_data['data']['Items']:
                 fetched_item = item_data['data']['Items'][0]
                 existing_items[uuid] = fetched_item

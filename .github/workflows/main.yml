@@ -3,7 +3,7 @@ run-name: Update
 on:
   push:
   schedule:
-    - cron: "30 */6 * * *"
+    - cron: "30 0 * * 1"
   workflow_dispatch:
 env:
   CUSTOM_ID: ${{ secrets.CUSTOM_ID }}
