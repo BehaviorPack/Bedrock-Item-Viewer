@@ -76,7 +76,7 @@ def process_tags_and_fetch_missing(a_t):
         if uuid not in existing_items:
             print(f"Fetching missing item for UUID: {uuid}")
             item_data = g_uuid(a_t, uuid.strip())
-            time.sleep(30)  # Wait 30 seconds before the next API call
+            time.sleep(7)  # Wait 7 seconds before the next API call
 
             if item_data and 'data' in item_data and 'Items' in item_data['data'] and item_data['data']['Items']:
                 fetched_item = item_data['data']['Items'][0]
