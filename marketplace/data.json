@@ -1,7 +1,105 @@
 {
     "data": {
-        "Count": 2625,
+        "Count": 2626,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "d174c3b3-dfcd-43ba-8e3a-7d950b0ca780",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "05e66e01-21ea-4570-827c-a18347ba52de"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Happy Ghast Pilot Coat",
+                    "neutral": "Happy Ghast Pilot Coat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "d174c3b3-dfcd-43ba-8e3a-7d950b0ca780",
+                    "b7064884-297a-cb7b-3a48-b11e46cf3d93",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2025-06-10T23:45:21.601Z",
+                "LastModifiedDate": "2025-06-13T21:16:24.588Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "5a944826-40cc-4b97-93d6-0cf5ec90f66d",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5a944826-40cc-4b97-93d6-0cf5ec90f66d/Ghast_Pilot_Jacket_Camera_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "26b1c85f-2afc-4627-be7c-2724016aa47e",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "05e66e01-21ea-4570-827c-a18347ba52de",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "b7064884-297a-cb7b-3a48-b11e46cf3d93",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_outerwear",
+                    "rarity": "rare"
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -42165,7 +42263,7 @@
                     "1P"
                 ],
                 "CreationDate": "2023-11-14T21:04:30.433Z",
-                "LastModifiedDate": "2024-01-16T20:25:19.306Z",
+                "LastModifiedDate": "2025-06-14T08:42:02.19Z",
                 "Contents": [],
                 "Images": [
                     {
