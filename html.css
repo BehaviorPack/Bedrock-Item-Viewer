@@ -14,20 +14,6 @@ body {
     display: inline-block;
   }
 
-  /* File upload */
-  #file-input {
-    display: block;
-    margin: 20px auto;
-    padding: 10px;
-    font-size: 1.1em;
-    border: none;
-    border-radius: 5px;
-    background: #333;
-    color: white;
-    cursor: pointer;
-    transition: 0.3s ease;
-  }
-
   #file-input:hover {
     background: #444;
   }
@@ -110,44 +96,26 @@ flex-direction: column;
   }
 
   .modal-content {
-    background-color: #2c2c2c;
-    border-radius: 10px;
-    padding: 20px;
-    display: flex;
-    align-items: center;
-    width: 80%;
-    max-width: 900px;
-    position: relative;
-    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.7);
-  }
-  
-  .modal-left {
-    width: 40%;
-    padding-left: 20px;
-    /* text-align: left; */
-  }
+  background-color: #2c2c2c;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column; /* Changed from row (default) to column */
+  align-items: center;     /* Centers children horizontally */
+  justify-content: center; /* Centers children vertically */
+  width: 80%;
+  max-width: 600px;        /* Adjusted to look better with single column */
+  position: relative;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.7);
+  text-align: center;
+}
 
-  .modal-middle {
-    width: 35%;
-    padding-left: 80px;
-    padding-right: 80px;
-  }
+.modal-left {
+  width: 100%;
+  max-width: 400px;        /* Optional: restrict to reasonable width */
+  padding: 0;
+}
 
-  .modal-right {
-    width: 35%;
-    padding-left: 60px;
-    padding-right: 60px;
-    display: flex; /* Ensures the image stretches properly */
-    align-items: center; /* Centers the image if it's smaller */
-    justify-content: center; /* Centers the image horizontally */
-    height: 100%; /* Makes sure it takes the full height of the modal */
-  }
-
-  #modal-render-right {
-    width: auto; /* Ensures aspect ratio is maintained */
-    height: 100%; /* Makes the image stretch to the container height */
-    object-fit: cover; /* Ensures it fills the container without distortion */
-  }
 
   .modal img {
     max-width: 100%;

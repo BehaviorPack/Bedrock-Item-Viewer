@@ -1,38 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <meta property="og:title" content="Bedrock Item Viewer" />
-    <meta name="description" content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags." />
-    <meta property="og:description" content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags." />
-    <meta property="twitter:description" content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags." />
+    <meta
+      name="description"
+      content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags."
+    />
+    <meta
+      property="og:description"
+      content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags."
+    />
+    <meta
+      property="twitter:description"
+      content="A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags."
+    />
     <meta property="theme-color" content="#fc523b" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/merch/Creator_CreatorPromo_Blog_1170x500.jpg" />
-    <meta property="og:image" content="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/merch/Creator_CreatorPromo_Blog_1170x500.jpg" />
+    <meta
+      name="twitter:image"
+      content="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/merch/Creator_CreatorPromo_Blog_1170x500.jpg"
+    />
+    <meta
+      property="og:image"
+      content="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/merch/Creator_CreatorPromo_Blog_1170x500.jpg"
+    />
     <meta property="og:image:width" content="1170" />
     <meta property="og:image:height" content="500" />
-    <meta name="keywords" content="Minecraft, Bedrock, Marketplace, Character Creator, Item Viewer, Persona Pieces">
-    <link rel="canonical" href="https://github.com/BehaviorPack/Bedrock-Item-Viewer/">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta charset="UTF-8" />
+    <meta name="keywords" content="Minecraft, Bedrock, Marketplace, Character Creator, Item Viewer, Persona Pieces" />
+    <link rel="canonical" href="https://github.com/BehaviorPack/Bedrock-Item-Viewer/" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" />
     <title>Bedrock Item Viewer</title>
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
-<style>
-  @import url("html.css");
-</style>
+    <style>
+      @import url("html.css");
+    </style>
   </head>
   <body>
     <h1>Bedrock Item Viewer</h1>
-    <input type="file" id="file-input" accept=".json" />
     <p id="loaded-items">Loaded Items: 0</p>
 
-    <div id="key-art-section" style="display: none; text-align: center; padding: 20px;">
-      <img id="key-art-image" src="" alt="DLC Key Art" style="max-width: 100%; height: auto; border-radius: 10px;">
+    <div id="key-art-section" style="display: none; text-align: center; padding: 20px">
+      <img id="key-art-image" src="" alt="DLC Key Art" style="max-width: 100%; height: auto; border-radius: 10px" />
       <p id="key-art-description"></p>
-      <a id="key-art-link" href="#" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #6a6fcd; color: white; border-radius: 5px; text-decoration: none; margin-top: 10px;">
+      <a
+        id="key-art-link"
+        href="#"
+        target="_blank"
+        style="
+          display: inline-block;
+          padding: 10px 20px;
+          background-color: #6a6fcd;
+          color: white;
+          border-radius: 5px;
+          text-decoration: none;
+          margin-top: 10px;
+        "
+      >
         Learn More
       </a>
     </div>
@@ -111,8 +135,10 @@
           <option value="persona_arms">Arms</option>
           <option value="persona_legs">Legs</option>
         </select>
+        <input type="file" id="file-input" accept=".json" />
       </div>
     </div>
+
     <div id="personas-container"></div>
     <div id="modal" class="modal">
       <div class="modal-content">
@@ -124,14 +150,9 @@
           <img id="modal-render" src="" alt="Render Image" style="display: none; width: 100%; margin-top: 10px" />
           <a href="#" id="view-ingame-btn" class="view-ingame-btn" style="display: none">View In-game</a>
         </div>
-        <div class="modal-middle">
-          <h3 id="modal-render-container" style="width: 100%; height: 400px; text-align: center"></h3>
-        </div>
-        <div class="modal-right">
-          <img id="modal-render-right" src="" alt="Persona Render" style="max-width: 100%; height: auto" />
-        </div>
       </div>
     </div>
+
     <script>
 
       //New Key Art display
@@ -177,14 +198,12 @@
       }
 
       function getPrice(item) {
-    const priceData = item.Price?.Prices?.[0]?.Amounts?.[0]?.Amount; // Get the first price amount
-    const minecoinIcon =
-      '<img src="./marketplace/minecoin.svg" alt="Minecoin" style="width: 22px; vertical-align: middle;">'; // Use your own icon path here
-
-    if (priceData === 0) return "Free"; // Check if price is 0 and return "Free"
-    
-    return priceData ? `${priceData} ${minecoinIcon}` : "Not Available"; // If price is available, show icon and price, else show "Not Available"
-}
+        const priceData = item.Price?.Prices?.[0]?.Amounts?.[0]?.Amount;
+        const minecoinIcon =
+          '<img src="./marketplace/minecoin.svg" alt="Minecoin" style="width: 22px; vertical-align: middle;">';
+        if (priceData === 0) return "Free";
+        return priceData ? `${priceData} ${minecoinIcon}` : "Not Available";
+      }
 
       function openModal(item) {
         const modal = document.getElementById("modal");
@@ -192,15 +211,9 @@
         const modalTitle = document.getElementById("modal-title");
         const modalDetails = document.getElementById("modal-details");
         const viewIngameBtn = document.getElementById("view-ingame-btn");
-        const modalRender = document.getElementById("modal-render");
-        const modalRenderRight = document.getElementById("modal-render-right");
-        const modalRenderContainer = document.getElementById("modal-render-container"); // New container
 
         modalImg.src = item.Images[0].Url;
         modalTitle.textContent = item.Title.NEUTRAL;
-
-        const itemName = encodeURIComponent(item.Title.NEUTRAL); // Encode to handle spaces/special characters
-        const modelUrl = `https://raw.githubusercontent.com/BehaviorPack/Bedrock-Viewer/main/marketplace/models/${itemName}.glb`;
 
         function formatDate(date) {
           const newDate = new Date(date);
@@ -209,23 +222,24 @@
 
         function filterUUIDTags(tags) {
           const uuidPattern = /^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$/;
-          return tags
-            .filter((tag) => !uuidPattern.test(tag) && tag !== "1P") // Exclude UUIDs and "1P"
-            .map((tag) => tag.toUpperCase());
+          return tags.filter((tag) => !uuidPattern.test(tag) && tag !== "1P").map((tag) => tag.toUpperCase());
         }
 
         modalDetails.innerHTML = ` 
-        <strong>Piece Type:</strong> ${convertPieceType(item.DisplayProperties.pieceType)}<br>
-        <strong>Rarity:</strong> ${item.DisplayProperties.rarity}<br>
-        <strong>Creator:</strong> ${item.DisplayProperties.creatorName}<br>
-        <strong>Price:</strong> ${getPrice(item)}<br>
-        ${item.Description && item.Description.NEUTRAL !== "§" ? `<strong>Description:</strong> ${item.Description.NEUTRAL}<br>` : ""}
-        <strong>Creation Date:</strong> ${formatDate(item.CreationDate)}<br>
-        <strong>Tags:</strong> ${filterUUIDTags(item.Tags).join(", ")}<br>
-        ${item.Id}
-    `;
-    
-        // Hide the button if the item has the "hidden_offer" tag
+          <strong>Piece Type:</strong> ${convertPieceType(item.DisplayProperties.pieceType)}<br>
+          <strong>Rarity:</strong> ${item.DisplayProperties.rarity}<br>
+          <strong>Creator:</strong> ${item.DisplayProperties.creatorName}<br>
+          <strong>Price:</strong> ${getPrice(item)}<br>
+          ${
+            item.Description && item.Description.NEUTRAL !== "§"
+              ? `<strong>Description:</strong> ${item.Description.NEUTRAL}<br>`
+              : ""
+          }
+          <strong>Creation Date:</strong> ${formatDate(item.CreationDate)}<br>
+          <strong>Tags:</strong> ${filterUUIDTags(item.Tags).join(", ")}<br>
+          ${item.Id}
+        `;
+
         if (item.Tags.includes("hidden_offer")) {
           viewIngameBtn.style.display = "none";
         } else if (item.DisplayProperties.purchasable) {
@@ -234,58 +248,6 @@
         } else {
           viewIngameBtn.style.display = "none";
         }
-
-        const pngUrl = `./marketplace/renders/${item.Title.NEUTRAL} Render.png`;
-        const gifUrl = `./marketplace/renders/${item.Title.NEUTRAL} Render.gif`;
-
-        function checkImageExists(url, callback) {
-          const img = new Image();
-          img.onload = () => callback(true);
-          img.onerror = () => callback(false);
-          img.src = url;
-        }
-
-        checkImageExists(pngUrl, (exists) => {
-          modalRenderRight.src = exists ? pngUrl : gifUrl;
-          modalRenderRight.style.display = "block";
-        });
-
-        modalRenderContainer.innerHTML = "";
-
-        const pieceType = item.DisplayProperties.pieceType;
-
-        // Define different camera angles for different piece types
-        const cameraAngles = {
-          persona_top: "20deg 75deg 80deg", // Slightly tilted for tops
-          persona_head: "0deg 45deg 50deg", // Closer angle for headwear
-          persona_hood: "10deg 60deg 70deg", // Adjusted for hoods
-          persona_back: "180deg 75deg 80deg", // Rear angle for back items
-          persona_feet: "0deg 90deg 40deg", // Lower angle for footwear
-          persona_capes: "180deg 80deg 90deg", // Full back view for capes
-          persona_face_accessory: "0deg 30deg 50deg", // Close-up for face accessories
-          persona_outerwear: "20deg 75deg 85deg", // Full body view for outerwear
-          persona_bottom: "20deg 75deg 60deg", // Different angle for bottoms
-          persona_hand: "0deg 60deg 50deg", // Adjusted for gloves
-          persona_high_pants: "20deg 75deg 65deg", // Unique angle for high pants
-        };
-
-        // Fallback angle if pieceType isn't in the list
-        const cameraOrbit = cameraAngles[pieceType] || "20deg 75deg 80deg";
-
-        // Create and insert <model-viewer> dynamically
-        const modelViewer = document.createElement("model-viewer");
-        modelViewer.setAttribute("src", modelUrl);
-        modelViewer.setAttribute("camera-controls", "");
-        modelViewer.setAttribute("touch-action", "pan-y");
-        modelViewer.setAttribute("shadow-intensity", "0.5");
-        modelViewer.setAttribute("shadow-softness", "0.5");
-        modelViewer.setAttribute("exposure", "0.8");
-        modelViewer.setAttribute("lighting", "neutral");
-        modelViewer.setAttribute("camera-orbit", cameraOrbit); // Set camera angle dynamically
-        modelViewer.style.width = "100%";
-        modelViewer.style.height = "400px";
-
-        modalRenderContainer.appendChild(modelViewer);
 
         modal.style.display = "flex";
         document.body.classList.add("modal-open");
@@ -347,8 +309,8 @@
           personaDiv.addEventListener("click", function () {
             openModal(item);
           });
-// Apply background color based on rarity
-switch (item.DisplayProperties.rarity) {
+          // Apply background color based on rarity
+          switch (item.DisplayProperties.rarity) {
             case "common":
               personaDiv.classList.add("common");
               break;
@@ -370,77 +332,97 @@ switch (item.DisplayProperties.rarity) {
       }
 
       document.getElementById("tag-selector").addEventListener("change", function (event) {
-    const selectedTag = event.target.value;
-    selectedTags = selectedTag ? [selectedTag] : [];
-    filterItems();
-    updateKeyArt(selectedTag);
-});
+        const selectedTag = event.target.value;
+        selectedTags = selectedTag ? [selectedTag] : [];
+        filterItems();
+        updateKeyArt(selectedTag);
+      });
 
-// Function to update the key art section
-function updateKeyArt(tag) {
-    const section = document.getElementById("key-art-section");
-    const image = document.getElementById("key-art-image");
-    const description = document.getElementById("key-art-description");
-    const link = document.getElementById("key-art-link");
+      // Function to update the key art section
+      function updateKeyArt(tag) {
+        const section = document.getElementById("key-art-section");
+        const image = document.getElementById("key-art-image");
+        const description = document.getElementById("key-art-description");
+        const link = document.getElementById("key-art-link");
 
-    if (tagData[tag]) {
-        image.src = tagData[tag].image;
-        description.textContent = tagData[tag].description;
-        link.href = tagData[tag].link;
-        section.style.display = "block";
-    } else {
-        section.style.display = "none";
-    }
-}
-// Function to update the key art section
+        if (tagData[tag]) {
+          image.src = tagData[tag].image;
+          description.textContent = tagData[tag].description;
+          link.href = tagData[tag].link;
+          section.style.display = "block";
+        } else {
+          section.style.display = "none";
+        }
+      }
+      // Function to update the key art section
 
       function filterItems() {
-    const selectedType = document.getElementById("type-selector").value;
-    const searchQuery = document.getElementById("search-box").value.toLowerCase();
+  const selectedType = document.getElementById("type-selector").value;
+  const searchQuery = document.getElementById("search-box").value.toLowerCase();
+  const personasContainer = document.getElementById("personas-container");
+  const loadedItems = document.getElementById("loaded-items");
 
-    const filteredItems = data.data.Items.filter((item) => {
-        const itemTags = item.Tags || [];
-        const itemType = item.DisplayProperties.pieceType;
-        const itemName = item.Title.NEUTRAL.toLowerCase();
-        const isPurchasable = item.DisplayProperties.purchasable; // True or False
+  personasContainer.innerHTML = ""; // Clear current display
 
-        const tagMatch = selectedTags.length === 0 || selectedTags.every((tag) => {
-            if (tag === "redeemable_only") return item.DisplayProperties.requiresRedeem === true;
-            if (tag === "cannot_be_bought") return isPurchasable === false;
-            if (tag === "non_hidden_offers") return !itemTags.includes("hidden_offer") && isPurchasable; // Ensure correct tag value
-            return itemTags.includes(tag);
-        });
+  const filteredItems = data.data.Items.filter((item) => {
+    const itemTags = item.Tags || [];
+    const itemType = item.DisplayProperties.pieceType;
+    const itemName = item.Title.NEUTRAL.toLowerCase();
+    const isPurchasable = item.DisplayProperties.purchasable;
 
-        const typeMatch = !selectedType || itemType === selectedType;
-        const searchMatch = !searchQuery || itemName.includes(searchQuery);
+    const tagMatch =
+      selectedTags.length === 0 ||
+      selectedTags.every((tag) => {
+        if (tag === "redeemable_only") return item.DisplayProperties.requiresRedeem === true;
+        if (tag === "cannot_be_bought") return isPurchasable === false;
+        if (tag === "non_hidden_offers") return !itemTags.includes("hidden_offer");
+        return itemTags.includes(tag);
+      });
 
-        return tagMatch && typeMatch && searchMatch;
+    const typeMatch = !selectedType || itemType === selectedType;
+    const nameMatch = itemName.includes(searchQuery);
+
+    return tagMatch && typeMatch && nameMatch;
+  });
+
+  loadedItems.textContent = `Loaded Items: ${filteredItems.length}`;
+
+  filteredItems.forEach((item) => {
+    const personaDiv = document.createElement("div");
+    personaDiv.classList.add("persona");
+    personaDiv.innerHTML = `
+      <img src="${item.Images[0].Url}" alt="${item.Title.NEUTRAL}">
+      <div class="persona-title">${item.Title.NEUTRAL}</div>
+    `;
+    personaDiv.addEventListener("click", function () {
+      openModal(item);
     });
 
-    const personasContainer = document.getElementById("personas-container");
-    personasContainer.innerHTML = "";
+    switch (item.DisplayProperties.rarity) {
+      case "common":
+        personaDiv.classList.add("common");
+        break;
+      case "uncommon":
+        personaDiv.classList.add("uncommon");
+        break;
+      case "rare":
+        personaDiv.classList.add("rare");
+        break;
+      case "epic":
+        personaDiv.classList.add("epic");
+        break;
+      case "legendary":
+        personaDiv.classList.add("legendary");
+        break;
+    }
 
-    filteredItems.forEach((item) => {
-        const personaDiv = document.createElement("div");
-        personaDiv.classList.add("persona");
-
-        personaDiv.innerHTML = ` 
-            <img src="${item.Images[0].Url}" alt="${item.Title.NEUTRAL}">
-            <div class="persona-title">${item.Title.NEUTRAL}</div>
-        `;
-        personaDiv.addEventListener("click", function () {
-            openModal(item);
-        });
-
-        personasContainer.appendChild(personaDiv);
-    });
+    personasContainer.appendChild(personaDiv);
+  });
 }
 
-document.getElementById("search-box").addEventListener("input", function () {
-    filterItems(); // Calls the filtering function as you type
-});
-
-
+      document.getElementById("search-box").addEventListener("input", function () {
+        filterItems(); // Calls the filtering function as you type
+      });
     </script>
   </body>
 </html>
