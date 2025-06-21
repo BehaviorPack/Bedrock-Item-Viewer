@@ -310,6 +310,14 @@ a165c03c-ec1a-4346-88c6-0bbc3775ed89=custom.howtotrainyourdragon=§
 c2fa9349-ca36-45f5-ae4f-4e164d79b2b4=custom.howtotrainyourdragon=§
 d47641f2-d3d1-4182-86a1-32515e7116b0=custom.howtotrainyourdragon=§
 ca16b7eb-dfca-4999-a35e-acf81c2519a3=custom.howtotrainyourdragon=§
+360674ff-051e-4c83-9c6d-e68b649efc9c=custom.howtotrainyourdragon=§
+902ef174-e877-4c8e-9a46-4f03673e18d0=custom.howtotrainyourdragon=§
+3a33580f-ffb0-41d2-9062-bde9b76fe80d=custom.howtotrainyourdragon=§
+716d092a-b1ff-4771-913e-d368dacca4a2=custom.howtotrainyourdragon=§
+7cf10b05-2239-447d-9191-79dbd4e51636=custom.howtotrainyourdragon=§
+ed2832fc-15af-4888-8809-200f5e964f98=custom.howtotrainyourdragon=§
+44c671ca-f680-4176-865b-70c4f0dcb7f2=custom.howtotrainyourdragon=§
+b92f1fd4-ada5-4c99-9b32-352ff2110fdf=custom.howtotrainyourdragon=§
 
 
 1648cdea-5179-474b-87c2-24ac3dbe8f79=custom.iceage=§
