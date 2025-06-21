@@ -1,7 +1,133 @@
 {
     "data": {
-        "Count": 2626,
+        "Count": 2628,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "2ab98996-4d6e-43d8-a7ef-bd6155264d02",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "bf4754ca-7a30-4f73-9a03-7c663a171f53"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Crystal Onesie",
+                    "neutral": "Crystal Onesie"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "94f1bfce-4b14-c356-8f7e-ac197d5d8c90",
+                    "hidden_offer",
+                    "1P",
+                    "2ab98996-4d6e-43d8-a7ef-bd6155264d02"
+                ],
+                "CreationDate": "2025-06-15T20:14:35.906Z",
+                "LastModifiedDate": "2025-06-19T22:34:11.494Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "1f6de807-05db-44b5-a1f9-f2590f24653d",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1f6de807-05db-44b5-a1f9-f2590f24653d/Crystal_Onesie_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "f5db0079-ba4c-4c46-9234-aa04a6ad987c",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "bf4754ca-7a30-4f73-9a03-7c663a171f53",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "94f1bfce-4b14-c356-8f7e-ac197d5d8c90",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_hood",
+                    "rarity": "rare"
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -63,14 +189,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-06-10T23:45:21.601Z",
-                "LastModifiedDate": "2025-06-13T21:16:24.588Z",
+                "LastModifiedDate": "2025-06-19T22:28:42.262Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "5a944826-40cc-4b97-93d6-0cf5ec90f66d",
+                        "Id": "4b1f0f76-4117-4731-9976-a1702dfc33b6",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5a944826-40cc-4b97-93d6-0cf5ec90f66d/Ghast_Pilot_Jacket_Camera_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/4b1f0f76-4117-4731-9976-a1702dfc33b6/Ghast_Pilot_Jacket_Camera_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -89,12 +215,40 @@
                         {
                             "type": "persona_piece",
                             "uuid": "b7064884-297a-cb7b-3a48-b11e46cf3d93",
-                            "version": "1.0.0"
+                            "version": "1.2.0"
                         }
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_outerwear",
                     "rarity": "rare"
@@ -350,6 +504,185 @@
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "60ecb429-eca6-4c60-a228-333946ac19c4",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "852e7a84-23a0-4a4e-a467-73ea3da90092"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Ghast Arm Floaties",
+                    "neutral": "Ghast Arm Floaties"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "60ecb429-eca6-4c60-a228-333946ac19c4",
+                    "5a53d17f-cc89-0506-51c3-8e40e423da8b",
+                    "is_achievement",
+                    "vanilla_achievement",
+                    "1P"
+                ],
+                "CreationDate": "2025-05-07T21:28:29.808Z",
+                "LastModifiedDate": "2025-06-17T13:58:57.01Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "290ab9c0-ee20-4d56-bfba-6b6a55e0febb",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/290ab9c0-ee20-4d56-bfba-6b6a55e0febb/ghast_floaties_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "de79b8dc-ed2a-4644-81cf-5edf0807517f",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "852e7a84-23a0-4a4e-a467-73ea3da90092",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "5a53d17f-cc89-0506-51c3-8e40e423da8b",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_hand",
+                    "rarity": "rare",
+                    "requiresRedeem": true
                 }
             },
             {
@@ -433287,6 +433620,2594 @@
                     ],
                     "pieceType": "persona_legs",
                     "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "7ef414f0-8791-46a1-8232-80c9b166c607",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "abe85751-2d60-48e1-a876-2cec85410474"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Chicken Body",
+                    "neutral": "Chicken Body"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Farming",
+                            "Animal"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Farming",
+                            "Animal"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "7ef414f0-8791-46a1-8232-80c9b166c607",
+                    "c5673bc5-bc1e-4716-757f-14552b9cfa4e",
+                    "hidden_offer",
+                    "tag.farming",
+                    "tag.animal",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:48:21.503Z",
+                "LastModifiedDate": "2023-09-13T18:37:39.156Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "a65c267a-30c7-4fdf-bb23-9e63af337ee5",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a65c267a-30c7-4fdf-bb23-9e63af337ee5/chicken_body_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "a4a04894-76bf-450d-b803-5ff06b303569",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "PixelHeads",
+                    "offerId": "abe85751-2d60-48e1-a876-2cec85410474",
+                    "originalCreatorId": "2535419319570313",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "c5673bc5-bc1e-4716-757f-14552b9cfa4e",
+                            "version": "1.0.5"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_outerwear",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "8af77db6-0a78-440a-aa87-8df2aa544587",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "17e709c0-8814-4983-89de-fac898f1eb40"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Flowery Vines",
+                    "neutral": "Flowery Vines"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Green",
+                            "Flower",
+                            "Pretty",
+                            "Nature",
+                            "Beautiful"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Green",
+                            "Flower",
+                            "Pretty",
+                            "Nature",
+                            "Beautiful"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "8af77db6-0a78-440a-aa87-8df2aa544587",
+                    "3ec8d520-c052-cb32-3d5d-8ad95e0a57d9",
+                    "tag.green",
+                    "tag.flower",
+                    "tag.pretty",
+                    "tag.nature",
+                    "tag.beautiful",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:59:36.751Z",
+                "LastModifiedDate": "2023-08-10T17:13:04.621Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "59abb503-3ac0-4061-b157-ca61cf72f7be",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/59abb503-3ac0-4061-b157-ca61cf72f7be/flowery_vines_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "a5851b04-4fe1-4128-9269-79d117d7c127",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Gamemode One",
+                    "offerId": "17e709c0-8814-4983-89de-fac898f1eb40",
+                    "originalCreatorId": "2533274941780012",
+                    "price": 80,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "3ec8d520-c052-cb32-3d5d-8ad95e0a57d9",
+                            "version": "1.0.1"
+                        }
+                    ],
+                    "pieceType": "persona_hand",
+                    "rarity": "uncommon"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "f88c073a-52bf-46f3-931a-ab21fd173182",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "01a700d2-dfda-4a31-a6bf-b0109aa56bd6"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Cowboy Pants",
+                    "neutral": "Cowboy Pants"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Farming"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Farming"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "f88c073a-52bf-46f3-931a-ab21fd173182",
+                    "5e024728-6b52-3043-e45f-f7daf94dad8c",
+                    "hidden_offer",
+                    "tag.farming",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:48:58.31Z",
+                "LastModifiedDate": "2024-10-14T15:38:33.903Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "a1999c16-77be-4fea-9de5-0c3196234269",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/a1999c16-77be-4fea-9de5-0c3196234269/cowboy_pants_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "f431f26b-8a97-49de-8fa9-32808e1e108e",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "PixelHeads",
+                    "offerId": "01a700d2-dfda-4a31-a6bf-b0109aa56bd6",
+                    "originalCreatorId": "2535419319570313",
+                    "price": 160,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "5e024728-6b52-3043-e45f-f7daf94dad8c",
+                            "version": "1.0.7"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_bottom",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "9ae56ae5-aca7-4e5c-9011-5acf8a1f9cdb",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "a7b05e78-7a65-47df-8f3f-f9be9abc11cb"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Chicken Hat",
+                    "neutral": "Chicken Hat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Animal",
+                            "Farming"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Animal",
+                            "Farming"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "9ae56ae5-aca7-4e5c-9011-5acf8a1f9cdb",
+                    "dae126f1-142a-d212-0a1f-6fcf7f58c88d",
+                    "hidden_offer",
+                    "tag.animal",
+                    "tag.farming",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:50:51.734Z",
+                "LastModifiedDate": "2023-09-13T18:37:44.331Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "98d3c450-6d11-4da7-b79c-a2aa8c8fb67a",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/98d3c450-6d11-4da7-b79c-a2aa8c8fb67a/chicken_hat_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "99d22f10-3aad-4915-bab6-17d8ba31e104",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "PixelHeads",
+                    "offerId": "a7b05e78-7a65-47df-8f3f-f9be9abc11cb",
+                    "originalCreatorId": "2535419319570313",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "dae126f1-142a-d212-0a1f-6fcf7f58c88d",
+                            "version": "1.0.3"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "57c9a08b-f3ba-4df7-8206-4b4f9ee1b8d7",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "408947fe-8670-4cb5-ad7a-413500e62015"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Cowboy Hat",
+                    "neutral": "Cowboy Hat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Farming"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Farming"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "57c9a08b-f3ba-4df7-8206-4b4f9ee1b8d7",
+                    "c7790a81-603a-55bb-5c01-7cf2df427470",
+                    "hidden_offer",
+                    "tag.farming",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:51:27.378Z",
+                "LastModifiedDate": "2023-09-13T18:37:46.108Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "73342e0d-b0c4-49d6-96d9-4c47eb8500f5",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/73342e0d-b0c4-49d6-96d9-4c47eb8500f5/cowboy_hat_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "83696a8a-f7af-4c63-8784-f710a2df38ac",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "PixelHeads",
+                    "offerId": "408947fe-8670-4cb5-ad7a-413500e62015",
+                    "originalCreatorId": "2535419319570313",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "c7790a81-603a-55bb-5c01-7cf2df427470",
+                            "version": "1.0.4"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "0814e635-b3a5-4359-a140-fb97d9197f7d",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "5885bc5d-e766-479a-9d7d-62959a509306"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Chicken Legs",
+                    "neutral": "Chicken Legs"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Farming",
+                            "Animal"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Farming",
+                            "Animal"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "0814e635-b3a5-4359-a140-fb97d9197f7d",
+                    "5795f1f1-251d-d7a9-e287-58eab45f5419",
+                    "hidden_offer",
+                    "tag.farming",
+                    "tag.animal",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:49:35.042Z",
+                "LastModifiedDate": "2023-09-13T18:37:42.411Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "2fe51cbf-335c-4e30-ab18-3919f66f4375",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/2fe51cbf-335c-4e30-ab18-3919f66f4375/chicken_legs_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "a0e3f861-5b35-4de2-9f61-0c26aa04c393",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "PixelHeads",
+                    "offerId": "5885bc5d-e766-479a-9d7d-62959a509306",
+                    "originalCreatorId": "2535419319570313",
+                    "price": 240,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "5795f1f1-251d-d7a9-e287-58eab45f5419",
+                            "version": "1.0.4"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_legs",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "2e6f4119-c652-49e7-ba93-896de0c70314",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "ea85b72f-fc51-4b2a-ba07-bf11165fe7c7"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Scarecrow Head",
+                    "neutral": "Scarecrow Head"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Farming"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Farming"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "2e6f4119-c652-49e7-ba93-896de0c70314",
+                    "9cbece23-1fa9-42d6-2c93-9a3eaef3d7cb",
+                    "hidden_offer",
+                    "tag.farming",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:52:09.697Z",
+                "LastModifiedDate": "2023-09-13T18:37:47.521Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "ffc50667-1398-4098-83f7-2a2b7aa7cf45",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ffc50667-1398-4098-83f7-2a2b7aa7cf45/scarecrow_head_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "f77e8f74-baf0-42e1-90f0-deae99b34a6a",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "PixelHeads",
+                    "offerId": "ea85b72f-fc51-4b2a-ba07-bf11165fe7c7",
+                    "originalCreatorId": "2535419319570313",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "9cbece23-1fa9-42d6-2c93-9a3eaef3d7cb",
+                            "version": "1.0.4"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "dfc1e465-0995-48c4-803f-8216f6153b54",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "90216704-e083-47a3-af74-1f03cf6b8c66"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Unicorn Helmet",
+                    "neutral": "Unicorn Helmet"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Armor",
+                            "Cartoon",
+                            "Colorful",
+                            "Cute",
+                            "Hat",
+                            "Pretty"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Armor",
+                            "Cartoon",
+                            "Colorful",
+                            "Cute",
+                            "Hat",
+                            "Pretty"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "dfc1e465-0995-48c4-803f-8216f6153b54",
+                    "a0d301bf-88cb-f05a-1ad6-15abfd9ee1fc",
+                    "hidden_offer",
+                    "tag.armor",
+                    "tag.cartoon",
+                    "tag.colorful",
+                    "tag.cute",
+                    "tag.hat",
+                    "tag.pretty",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:53:58.669Z",
+                "LastModifiedDate": "2024-07-01T00:10:23.761Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "f4f782a1-114a-4611-8215-8348fe3d229f",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f4f782a1-114a-4611-8215-8348fe3d229f/Unicorn_Helmet_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "e7c987f6-470b-4051-ac07-d2bbe2dd8974",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Noxcrew",
+                    "offerId": "90216704-e083-47a3-af74-1f03cf6b8c66",
+                    "originalCreatorId": "2535444494929832",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "a0d301bf-88cb-f05a-1ad6-15abfd9ee1fc",
+                            "version": "1.0.1"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "9cea9eee-e835-4ac2-bc1f-a9c3dfd00689",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "c2641dab-5a9c-42fe-85b7-653cc0a647ee"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Boat Shark Inflatable",
+                    "neutral": "Boat Shark Inflatable"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Aquatic",
+                            "Belt",
+                            "Cartoon",
+                            "Cute",
+                            "Funny",
+                            "Epic",
+                            "Colorful"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Aquatic",
+                            "Belt",
+                            "Cartoon",
+                            "Cute",
+                            "Funny",
+                            "Epic",
+                            "Colorful"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "9cea9eee-e835-4ac2-bc1f-a9c3dfd00689",
+                    "98836042-d822-07f5-3085-a10b5d3313f9",
+                    "tag.aquatic",
+                    "tag.belt",
+                    "tag.cartoon",
+                    "tag.cute",
+                    "tag.funny",
+                    "tag.epic",
+                    "tag.colorful",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:53:22.544Z",
+                "LastModifiedDate": "2025-06-01T00:07:47.6Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "ed0510d1-4bac-487f-bd1b-74697006103c",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ed0510d1-4bac-487f-bd1b-74697006103c/Boat_Shark_Inflatable_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "a370068e-36bb-4189-90d5-36491ff3f6d6",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Noxcrew",
+                    "offerId": "c2641dab-5a9c-42fe-85b7-653cc0a647ee",
+                    "originalCreatorId": "2535444494929832",
+                    "price": 280,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "98836042-d822-07f5-3085-a10b5d3313f9",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_outerwear",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "b029e688-8578-4076-94a7-b4b3e87432fc",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "eeab4699-c21c-4713-9bf4-5c8cfbb6fbcf"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Noxcrew Shirt 2020",
+                    "neutral": "Noxcrew Shirt 2020"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Animation",
+                            "Animated",
+                            "Sweater",
+                            "Colorful",
+                            "Jacket"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Animation",
+                            "Animated",
+                            "Sweater",
+                            "Colorful",
+                            "Jacket"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "b029e688-8578-4076-94a7-b4b3e87432fc",
+                    "e76f2b4a-a9c4-1b55-6444-bf5d49a0bb09",
+                    "hidden_offer",
+                    "tag.animation",
+                    "tag.animated",
+                    "tag.sweater",
+                    "tag.colorful",
+                    "tag.graphic_tee",
+                    "tag.jacket",
+                    "tag.t_shirt",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:52:46.165Z",
+                "LastModifiedDate": "2025-01-01T00:09:17.077Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "c04bbbc1-cbf4-4379-8991-c11baf6201d9",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c04bbbc1-cbf4-4379-8991-c11baf6201d9/Noxcrew_Shirt_2020_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "3e3cc0b6-10c4-4b5d-bc00-81fe304a1bb1",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Noxcrew",
+                    "offerId": "eeab4699-c21c-4713-9bf4-5c8cfbb6fbcf",
+                    "originalCreatorId": "2535444494929832",
+                    "price": 240,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "e76f2b4a-a9c4-1b55-6444-bf5d49a0bb09",
+                            "version": "1.0.1"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_top",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "3843e2d6-cc0f-4331-929c-e1bf22c2ce75",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "07b260b6-9e20-49d2-aa2b-a0f26ca15ef7"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Red Fox Gloves",
+                    "neutral": "Red Fox Gloves"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Beautiful",
+                            "Cute",
+                            "Fancy",
+                            "High Resolution",
+                            "Animal",
+                            "Costume"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Beautiful",
+                            "Cute",
+                            "Fancy",
+                            "High Resolution",
+                            "Animal",
+                            "Costume"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "38EF7801CFE20CC6",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "38EF7801CFE20CC6",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "3843e2d6-cc0f-4331-929c-e1bf22c2ce75",
+                    "c430aacf-6e38-fecf-6e74-02097b73447a",
+                    "hidden_offer",
+                    "tag.gloves",
+                    "tag.beautiful",
+                    "tag.cute",
+                    "tag.fancy",
+                    "tag.high_resolution",
+                    "tag.animal",
+                    "tag.costume",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2023-08-23T15:43:30.21Z",
+                "LastModifiedDate": "2023-10-01T00:21:54.65Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "505f88c1-e246-44fd-8068-d7583713c1d5",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/505f88c1-e246-44fd-8068-d7583713c1d5/vox_fox_gloves_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "36658b8d-4c79-49f4-b7c4-bb602908b3ad",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Shaliquinn's Schematics",
+                    "offerId": "07b260b6-9e20-49d2-aa2b-a0f26ca15ef7",
+                    "originalCreatorId": "2533274926228736",
+                    "price": 160,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "c430aacf-6e38-fecf-6e74-02097b73447a",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "lastUpdated": "1.20.15",
+                    "pieceType": "persona_hand",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "f10ced62-74e2-48fb-abc5-72ad9f09d22e",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "e4defc39-77f3-49e4-bc4b-e7ee13c56f9c"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "GDL Scientist Disguise",
+                    "neutral": "GDL Scientist Disguise"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Science",
+                            "Eyes",
+                            "Funny",
+                            "Human",
+                            "Cartoon"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Science",
+                            "Eyes",
+                            "Funny",
+                            "Human",
+                            "Cartoon"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "f10ced62-74e2-48fb-abc5-72ad9f09d22e",
+                    "e0f86a38-67d8-6c27-66b1-7a9ab1aab354",
+                    "hidden_offer",
+                    "tag.glasses",
+                    "tag.science",
+                    "tag.eyes",
+                    "tag.brows",
+                    "tag.funny",
+                    "tag.human",
+                    "tag.cartoon",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:55:17.31Z",
+                "LastModifiedDate": "2025-04-01T00:18:04.342Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "af6ba80d-929a-47a9-8b99-f69deef85abf",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/af6ba80d-929a-47a9-8b99-f69deef85abf/GDL_Scientist_Disguise_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "e298729a-059f-459b-b9b3-8ca89bf63940",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Noxcrew",
+                    "offerId": "e4defc39-77f3-49e4-bc4b-e7ee13c56f9c",
+                    "originalCreatorId": "2535444494929832",
+                    "price": 120,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "e0f86a38-67d8-6c27-66b1-7a9ab1aab354",
+                            "version": "1.0.2"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_face_accessory",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "68afb4a3-74fd-4e18-a14c-87c643f16493",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "885449de-ab98-4e85-b2e5-0dfb50ced73f"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "GDL Jetpack",
+                    "neutral": "GDL Jetpack"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Backpack",
+                            "Armor",
+                            "Futuristic",
+                            "Science Fiction",
+                            "Science"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Backpack",
+                            "Armor",
+                            "Futuristic",
+                            "Science Fiction",
+                            "Science"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "68afb4a3-74fd-4e18-a14c-87c643f16493",
+                    "4ab16a69-a631-ba66-b662-aac42d7ba5e4",
+                    "hidden_offer",
+                    "tag.backpack",
+                    "tag.armor",
+                    "tag.futuristic",
+                    "tag.science_fiction",
+                    "tag.science",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:55:55.106Z",
+                "LastModifiedDate": "2025-04-01T00:13:46.344Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "3d3dc593-e739-444c-92c6-bcdc96bd4f6a",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3d3dc593-e739-444c-92c6-bcdc96bd4f6a/GDL_Jetpack_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "c23db096-9a2a-47d2-bb09-4165ee18eaa5",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Noxcrew",
+                    "offerId": "885449de-ab98-4e85-b2e5-0dfb50ced73f",
+                    "originalCreatorId": "2535444494929832",
+                    "price": 240,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "4ab16a69-a631-ba66-b662-aac42d7ba5e4",
+                            "version": "1.0.2"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_back",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "ce670cb1-1838-4d9f-8dba-7d5507743374",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "ed193a46-43ba-4aca-afdf-6f621d372f8a"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "GDL Flight Suit Wings",
+                    "neutral": "GDL Flight Suit Wings"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Armor",
+                            "Cape",
+                            "Science Fiction",
+                            "Wings",
+                            "Epic",
+                            "Futuristic"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Armor",
+                            "Cape",
+                            "Science Fiction",
+                            "Wings",
+                            "Epic",
+                            "Futuristic"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "ce670cb1-1838-4d9f-8dba-7d5507743374",
+                    "c19af148-1bb3-4e67-9e00-dfb3e627c09f",
+                    "hidden_offer",
+                    "tag.armor",
+                    "tag.cape",
+                    "tag.science_fiction",
+                    "tag.wings",
+                    "tag.epic",
+                    "tag.futuristic",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:54:35.935Z",
+                "LastModifiedDate": "2025-04-01T00:15:06.836Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "37e1e8f1-2c3b-4a53-a7de-25e50eb3e5b9",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/37e1e8f1-2c3b-4a53-a7de-25e50eb3e5b9/GDL_Flight_Suit_Wings_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "1b2d3812-4d5d-489e-ad1c-a125554818a5",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Noxcrew",
+                    "offerId": "ed193a46-43ba-4aca-afdf-6f621d372f8a",
+                    "originalCreatorId": "2535444494929832",
+                    "price": 240,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "c19af148-1bb3-4e67-9e00-dfb3e627c09f",
+                            "version": "1.0.2"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_back",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "0ec22b7f-57d0-4cdd-9923-5c29214287ef",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "39638e9f-cf73-4f2f-ab78-bacaed8141a6"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Flower Pot Hat",
+                    "neutral": "Flower Pot Hat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Flower",
+                            "Hat",
+                            "Beautiful"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Flower",
+                            "Hat",
+                            "Beautiful"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "0ec22b7f-57d0-4cdd-9923-5c29214287ef",
+                    "8cb2deb9-0ad4-8a32-d9ce-b40350d71129",
+                    "tag.flower",
+                    "tag.hat",
+                    "tag.beautiful",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:57:12.714Z",
+                "LastModifiedDate": "2023-08-10T13:41:07.153Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "e84dc58f-b4f9-4183-8d32-8682ea679938",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/e84dc58f-b4f9-4183-8d32-8682ea679938/flower_pot_hat_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "fd3f892e-c427-4f33-912f-5263987f7437",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Gamemode One",
+                    "offerId": "39638e9f-cf73-4f2f-ab78-bacaed8141a6",
+                    "originalCreatorId": "2533274941780012",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "8cb2deb9-0ad4-8a32-d9ce-b40350d71129",
+                            "version": "1.0.1"
+                        }
+                    ],
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "01068fde-9049-4590-804c-fcf757cc934f",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "d299863e-fa8e-4fee-bc9f-2e2c0ad75fe1"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Buildy the Pickaxe",
+                    "neutral": "Buildy the Pickaxe"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Cartoon",
+                            "Colorful",
+                            "Cute",
+                            "Hat",
+                            "Funny",
+                            "Eyes"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Cartoon",
+                            "Colorful",
+                            "Cute",
+                            "Hat",
+                            "Funny",
+                            "Eyes"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "EBFC1BF4FAB55EFB",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "01068fde-9049-4590-804c-fcf757cc934f",
+                    "b99ab28a-ebd6-06b6-d79b-d023b867d1c2",
+                    "hidden_offer",
+                    "tag.cartoon",
+                    "tag.colorful",
+                    "tag.cute",
+                    "tag.hat",
+                    "tag.funny",
+                    "tag.eyes",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:56:37.552Z",
+                "LastModifiedDate": "2024-05-01T00:04:02.249Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "c2d5dc55-fc5a-43b2-a12a-160a92fe2478",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c2d5dc55-fc5a-43b2-a12a-160a92fe2478/Buildy_the_Pickaxe_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "28a82430-d78a-4f62-a827-1c978d989577",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Noxcrew",
+                    "offerId": "d299863e-fa8e-4fee-bc9f-2e2c0ad75fe1",
+                    "originalCreatorId": "2535444494929832",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "b99ab28a-ebd6-06b6-d79b-d023b867d1c2",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "3a6e5260-8afc-448a-9137-95066b57b6ae",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "87775549-6080-4efc-a4aa-af521d62792d"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Chicken Arms",
+                    "neutral": "Chicken Arms"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "D475FF0EFD22D079",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "3a6e5260-8afc-448a-9137-95066b57b6ae",
+                    "e4351951-53cb-f6e8-c746-85866b5bc345",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-11T21:01:34.107Z",
+                "LastModifiedDate": "2023-10-07T00:00:25.895Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "b0af4e9e-86fe-4897-a0d6-b0d828f9441f",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/b0af4e9e-86fe-4897-a0d6-b0d828f9441f/chicken_arms_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "576dfe45-300d-4768-9a4d-410663ebf790",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "PixelHeads",
+                    "offerId": "87775549-6080-4efc-a4aa-af521d62792d",
+                    "originalCreatorId": "2535419319570313",
+                    "price": 240,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "e4351951-53cb-f6e8-c746-85866b5bc345",
+                            "version": "1.0.2"
+                        }
+                    ],
+                    "pieceType": "persona_arms",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "adcceac2-5078-48ab-9529-764424fb05b2",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "3eef21d1-0a07-43d6-b027-0d3041ea243f"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Mycelium Mantle",
+                    "neutral": "Mycelium Mantle"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Mushroom",
+                            "Cool"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Mushroom",
+                            "Cool"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "adcceac2-5078-48ab-9529-764424fb05b2",
+                    "61592657-b55f-2aba-78d6-05b9f1f75850",
+                    "tag.mushroom",
+                    "tag.cool",
+                    "tag.shirt",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T01:00:55.296Z",
+                "LastModifiedDate": "2023-08-10T18:06:05.429Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "70406cbf-f1e0-49ff-957c-7b4abc60d31d",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/70406cbf-f1e0-49ff-957c-7b4abc60d31d/mycelium_mantle_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "32751f12-9aac-49ac-940a-7788cea55dc2",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Gamemode One",
+                    "offerId": "3eef21d1-0a07-43d6-b027-0d3041ea243f",
+                    "originalCreatorId": "2533274941780012",
+                    "price": 240,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "61592657-b55f-2aba-78d6-05b9f1f75850",
+                            "version": "1.0.2"
+                        }
+                    ],
+                    "pieceType": "persona_top",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "26c9d3aa-c815-42b8-84ec-f6ce572e1208",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "b6e53553-2475-4a1c-b0ea-1c76d4ac0f2d"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Mushroom Cap",
+                    "neutral": "Mushroom Cap"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Mushroom",
+                            "Hat",
+                            "Cool"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Mushroom",
+                            "Hat",
+                            "Cool"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "26c9d3aa-c815-42b8-84ec-f6ce572e1208",
+                    "443883dd-e23a-8772-0f8a-9333da67431b",
+                    "tag.mushroom",
+                    "tag.hat",
+                    "tag.cool",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T01:00:13.168Z",
+                "LastModifiedDate": "2023-08-10T14:16:27.627Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "1601d41a-7ed8-4b7f-af70-42ffd548b119",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/1601d41a-7ed8-4b7f-af70-42ffd548b119/mushroom_cap_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "80163dfa-0856-4a32-9794-84292eb93067",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Gamemode One",
+                    "offerId": "b6e53553-2475-4a1c-b0ea-1c76d4ac0f2d",
+                    "originalCreatorId": "2533274941780012",
+                    "price": 280,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "443883dd-e23a-8772-0f8a-9333da67431b",
+                            "version": "1.0.1"
+                        }
+                    ],
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "ed8e97ed-a078-48ed-a517-e031049cdceb",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "b830eafb-7d1f-49b6-9245-2a9247ccfe1a"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Sunflower Sunglasses",
+                    "neutral": "Sunflower Sunglasses"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Cute",
+                            "Flower",
+                            "Beautiful",
+                            "Pretty"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Cute",
+                            "Flower",
+                            "Beautiful",
+                            "Pretty"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "ed8e97ed-a078-48ed-a517-e031049cdceb",
+                    "bd45d0a5-b91c-a44b-61a4-da3173d70d54",
+                    "tag.cute",
+                    "tag.flower",
+                    "tag.beautiful",
+                    "tag.pretty",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:58:58.27Z",
+                "LastModifiedDate": "2023-08-10T19:46:24.045Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "ce91fdc3-0a09-41e3-a078-dc48041a23c9",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/ce91fdc3-0a09-41e3-a078-dc48041a23c9/sunflower_glasses_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "712f5532-7b8e-4ae1-a659-da9696167a3a",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Gamemode One",
+                    "offerId": "b830eafb-7d1f-49b6-9245-2a9247ccfe1a",
+                    "originalCreatorId": "2533274941780012",
+                    "price": 120,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "bd45d0a5-b91c-a44b-61a4-da3173d70d54",
+                            "version": "1.0.1"
+                        }
+                    ],
+                    "pieceType": "persona_face_accessory",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "819ea41c-4595-4152-a0a6-17a68b9b9c89",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "a9821d3d-3868-49ae-aab8-961131ea7609"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Gardening Overalls",
+                    "neutral": "Gardening Overalls"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Cute",
+                            "Flower",
+                            "Beautiful",
+                            "Pretty",
+                            "Classic"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Cute",
+                            "Flower",
+                            "Beautiful",
+                            "Pretty",
+                            "Classic"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "163AC5C76001EEB1",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "819ea41c-4595-4152-a0a6-17a68b9b9c89",
+                    "efc51f9b-08da-bcbe-b9c9-c51c9dcc1b4e",
+                    "tag.cute",
+                    "tag.flower",
+                    "tag.beautiful",
+                    "tag.pretty",
+                    "tag.classic",
+                    "3P",
+                    "custom.forgot"
+                ],
+                "CreationDate": "2020-12-05T00:58:12.02Z",
+                "LastModifiedDate": "2023-08-10T16:59:05.106Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "6d998ad8-1a6b-4f2c-a0be-24929933ad43",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-title-b63a0803d3653643-20ca2/6d998ad8-1a6b-4f2c-a0be-24929933ad43/gardeners_overalls_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "47b04708-f1b6-4fa2-af61-ca9813702006",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Gamemode One",
+                    "offerId": "a9821d3d-3868-49ae-aab8-961131ea7609",
+                    "originalCreatorId": "2533274941780012",
+                    "price": 140,
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "efc51f9b-08da-bcbe-b9c9-c51c9dcc1b4e",
+                            "version": "1.0.2"
+                        }
+                    ],
+                    "pieceType": "persona_outerwear",
+                    "rarity": "uncommon"
                 }
             }
         ]
