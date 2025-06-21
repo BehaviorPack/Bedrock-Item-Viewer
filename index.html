@@ -167,6 +167,11 @@
         description: "Step into comfort with this stylish Crocs DLC!",
         link: "https://minecraft.wiki/w/Minecraft_x_Sonic_the_Hedgehog#Character_creator"
       },
+      "custom.howtotrainyourdragon": {
+        image: "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/0be26190-4f53-4d4f-8a35-37dc817af185/HTTYD_packicon.jpg",
+        description: "Step into comfort with this stylish Crocs DLC!",
+        link: "https://minecraft.wiki/w/Minecraft_x_Sonic_the_Hedgehog#Character_creator"
+      }
       // Add more tag mappings here...
     };
     //New Key Art display
@@ -237,7 +242,15 @@
           }
           <strong>Creation Date:</strong> ${formatDate(item.CreationDate)}<br>
           <strong>Tags:</strong> ${filterUUIDTags(item.Tags).join(", ")}<br>
-          ${item.Id}
+          <strong>UUID:</strong> 
+<span 
+  class="uuid-container" 
+  onclick="copyToClipboard(this, '${item.Id}')"
+>
+  <code>${item.Id}</code>
+  <span class="copied-tooltip">Copied!</span>
+</span>
+
         `;
 
         if (item.Tags.includes("hidden_offer")) {
@@ -423,6 +436,14 @@
       document.getElementById("search-box").addEventListener("input", function () {
         filterItems(); // Calls the filtering function as you type
       });
+
+      function copyToClipboard(el, uuid) {
+  navigator.clipboard.writeText(uuid).then(() => {
+    el.classList.add('copied');
+    setTimeout(() => el.classList.remove('copied'), 1500);
+  });
+}
+
     </script>
   </body>
 </html>

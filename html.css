@@ -191,3 +191,44 @@ width: 50px;
 height: auto;
 border-radius: 10px;
 }
+
+.uuid-container {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  color: #8ecae6;
+  font-family: monospace;
+}
+
+.uuid-container code {
+  background-color: #222;
+  padding: 6px 10px;
+  border-radius: 6px;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+
+.uuid-container:hover code {
+  background-color: #333;
+}
+
+.copied-tooltip {
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #4caf50;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  white-space: nowrap;
+}
+
+.uuid-container.copied .copied-tooltip {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-5px);
+}
