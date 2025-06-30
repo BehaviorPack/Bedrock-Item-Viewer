@@ -1,7 +1,116 @@
 {
     "data": {
-        "Count": 2631,
+        "Count": 2632,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "c677350b-8310-4134-86a9-f0629de21621",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "40ec881e-1081-424f-b995-3fee17aa1695"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Flag Runner Headband",
+                    "neutral": "Flag Runner Headband"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Hat"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Hat"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla"
+                ],
+                "Tags": [
+                    "c677350b-8310-4134-86a9-f0629de21621",
+                    "96dc845b-43d1-5e4a-acde-c31a4a9ab102",
+                    "hidden_offer",
+                    "tag.hat",
+                    "1P"
+                ],
+                "CreationDate": "2025-06-26T18:42:33.738Z",
+                "LastModifiedDate": "2025-06-26T19:40:22.861Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "7a16eeab-1809-4329-b60a-f9cc3ab83e6c",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7a16eeab-1809-4329-b60a-f9cc3ab83e6c/flag_hat_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "05752f40-b956-4af7-a1b1-e6a89f27a67e",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "40ec881e-1081-424f-b995-3fee17aa1695",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "96dc845b-43d1-5e4a-acde-c31a4a9ab102",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -171,14 +280,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-06-23T23:41:47.222Z",
-                "LastModifiedDate": "2025-06-24T20:09:08.106Z",
+                "LastModifiedDate": "2025-06-26T20:47:09.884Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "e229280f-0f08-4a72-8fc0-8bfd4ad93b45",
+                        "Id": "f85b7c24-1b75-4470-8f2f-fb17a331e7a0",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e229280f-0f08-4a72-8fc0-8bfd4ad93b45/Happy_Ghast_Pilot_Gear_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f85b7c24-1b75-4470-8f2f-fb17a331e7a0/Happy_Ghast_Pilot_Gear_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -348,14 +457,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-06-23T23:41:28.927Z",
-                "LastModifiedDate": "2025-06-25T07:48:45.012Z",
+                "LastModifiedDate": "2025-06-26T23:17:33.856Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "a8ce426f-aef1-49a4-a540-f9adbf115445",
+                        "Id": "54a2038d-1a9f-4bcf-812c-20734ab67e6c",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a8ce426f-aef1-49a4-a540-f9adbf115445/happyghast_floatie_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/54a2038d-1a9f-4bcf-812c-20734ab67e6c/happyghast_floatie_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -430,7 +539,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_outerwear",
                     "rarity": "rare",
