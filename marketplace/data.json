@@ -74,7 +74,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-06-26T18:42:33.738Z",
-                "LastModifiedDate": "2025-06-26T19:40:22.861Z",
+                "LastModifiedDate": "2025-07-09T02:11:27.854Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -105,7 +105,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare"
