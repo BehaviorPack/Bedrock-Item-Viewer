@@ -1,7 +1,133 @@
 {
     "data": {
-        "Count": 2632,
+        "Count": 2633,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "0c828d2c-21db-465d-8092-ea37db5a5173",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "478471cf-35f6-4884-aeda-8c3f4e16b18e"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Yellow Sunglasses",
+                    "neutral": "Yellow Sunglasses"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "0c828d2c-21db-465d-8092-ea37db5a5173",
+                    "197f9904-5fd9-bd02-4946-3cd489402906",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2025-07-02T16:51:31.556Z",
+                "LastModifiedDate": "2025-07-17T20:39:03.888Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "f3a109b5-64c3-4b51-8330-205fb78ea2ad",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/f3a109b5-64c3-4b51-8330-205fb78ea2ad/yellow_sunglasses_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "6c5e2e29-f413-4fc2-a3a7-e14f26d4859c",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "478471cf-35f6-4884-aeda-8c3f4e16b18e",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "197f9904-5fd9-bd02-4946-3cd489402906",
+                            "version": "1.2.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_face_accessory",
+                    "rarity": "uncommon"
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -622,8 +748,8 @@
                     }
                 ],
                 "Title": {
-                    "NEUTRAL": "Crystal Onesie",
-                    "neutral": "Crystal Onesie"
+                    "NEUTRAL": "Crystal Suit",
+                    "neutral": "Crystal Suit"
                 },
                 "Description": {
                     "NEUTRAL": "§",
@@ -657,13 +783,13 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "2ab98996-4d6e-43d8-a7ef-bd6155264d02",
                     "94f1bfce-4b14-c356-8f7e-ac197d5d8c90",
                     "hidden_offer",
-                    "1P",
-                    "2ab98996-4d6e-43d8-a7ef-bd6155264d02"
+                    "1P"
                 ],
                 "CreationDate": "2025-06-15T20:14:35.906Z",
-                "LastModifiedDate": "2025-06-19T22:34:11.494Z",
+                "LastModifiedDate": "2025-07-14T20:10:17.493Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -100883,7 +101009,7 @@
                     "104dcee3-8fc3-4269-85c7-7ca8f0cada10"
                 ],
                 "CreationDate": "2023-01-31T17:45:34.686Z",
-                "LastModifiedDate": "2024-06-06T20:56:40.268Z",
+                "LastModifiedDate": "2025-07-17T12:29:13.765Z",
                 "Contents": [],
                 "Images": [
                     {
