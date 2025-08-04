@@ -1,7 +1,213 @@
 {
     "data": {
-        "Count": 2633,
+        "Count": 2635,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "4f03da55-60aa-48cd-b1f9-2e48d0409424",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "d7c0e7d7-4711-4059-b892-5d7fdccde329"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Banana Hoodie",
+                    "neutral": "Banana Hoodie"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "e4b0eb23-3d41-b40d-6f50-a222694af6d0",
+                    "hidden_offer",
+                    "1P",
+                    "4f03da55-60aa-48cd-b1f9-2e48d0409424"
+                ],
+                "CreationDate": "2025-07-31T21:42:34.56Z",
+                "LastModifiedDate": "2025-07-31T21:45:50.737Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "6a6bc2e6-284f-4a79-832b-c1c6a17a8c8e",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6a6bc2e6-284f-4a79-832b-c1c6a17a8c8e/Dole_CC_Item_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "34dacccc-692f-46f0-91ad-93f0e61c9dc9",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "d7c0e7d7-4711-4059-b892-5d7fdccde329",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "e4b0eb23-3d41-b40d-6f50-a222694af6d0",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_hood",
+                    "rarity": "rare"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "b01246ce-8f8a-4f92-8aa2-1e1437129b34",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "d839c289-ab91-4774-ad69-2d2d61f3c4e7"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Flag Runner Headband Blue",
+                    "neutral": "Flag Runner Headband Blue"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla"
+                ],
+                "Tags": [
+                    "b01246ce-8f8a-4f92-8aa2-1e1437129b34",
+                    "2a186495-8730-40c8-9e2b-a73ca650171e",
+                    "hidden_offer",
+                    "1P",
+                    "gatherings",
+                    "96dc845b-43d1-5e4a-acde-c31a4a9ab102"
+                ],
+                "CreationDate": "2025-07-30T23:32:32.894Z",
+                "LastModifiedDate": "2025-07-31T23:16:13.496Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "b67a34cc-6450-4763-a013-851b12fd83c7",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b67a34cc-6450-4763-a013-851b12fd83c7/flag_hat_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "24aa95e1-356b-4fe3-a1bf-ac6934c8e075",
+                        "Amount": 1
+                    },
+                    {
+                        "Id": "05752f40-b956-4af7-a1b1-e6a89f27a67e",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "d839c289-ab91-4774-ad69-2d2d61f3c4e7",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "2a186495-8730-40c8-9e2b-a73ca650171e",
+                            "version": "1.0.0"
+                        },
+                        {
+                            "type": "persona_piece",
+                            "uuid": "96dc845b-43d1-5e4a-acde-c31a4a9ab102",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare"
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -197,10 +403,11 @@
                     "96dc845b-43d1-5e4a-acde-c31a4a9ab102",
                     "hidden_offer",
                     "tag.hat",
-                    "1P"
+                    "1P",
+                    "gatherings"
                 ],
                 "CreationDate": "2025-06-26T18:42:33.738Z",
-                "LastModifiedDate": "2025-07-09T02:11:27.854Z",
+                "LastModifiedDate": "2025-07-31T23:16:11.461Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -436936,7 +437143,6 @@
                 "Tags": [
                     "b029e688-8578-4076-94a7-b4b3e87432fc",
                     "e76f2b4a-a9c4-1b55-6444-bf5d49a0bb09",
-                    "hidden_offer",
                     "tag.animation",
                     "tag.animated",
                     "tag.sweater",
@@ -436948,14 +437154,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:52:46.165Z",
-                "LastModifiedDate": "2025-01-01T00:09:17.077Z",
+                "LastModifiedDate": "2025-08-01T00:09:49.039Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "c04bbbc1-cbf4-4379-8991-c11baf6201d9",
+                        "Id": "c180b4dc-0d0b-430f-898f-d511c158a1fd",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c04bbbc1-cbf4-4379-8991-c11baf6201d9/Noxcrew_Shirt_2020_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c180b4dc-0d0b-430f-898f-d511c158a1fd/Noxcrew_Shirt_2020_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -436964,13 +437170,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "eeab4699-c21c-4713-9bf4-5c8cfbb6fbcf",
                     "originalCreatorId": "2535444494929832",
                     "price": 240,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
