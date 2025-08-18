@@ -63,7 +63,7 @@
                     "4f03da55-60aa-48cd-b1f9-2e48d0409424"
                 ],
                 "CreationDate": "2025-07-31T21:42:34.56Z",
-                "LastModifiedDate": "2025-07-31T21:45:50.737Z",
+                "LastModifiedDate": "2025-08-16T08:07:15.461Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -94,7 +94,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_hood",
                     "rarity": "rare"
@@ -162,7 +190,7 @@
                     "96dc845b-43d1-5e4a-acde-c31a4a9ab102"
                 ],
                 "CreationDate": "2025-07-30T23:32:32.894Z",
-                "LastModifiedDate": "2025-07-31T23:16:13.496Z",
+                "LastModifiedDate": "2025-08-16T08:07:31.796Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -202,7 +230,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare"
