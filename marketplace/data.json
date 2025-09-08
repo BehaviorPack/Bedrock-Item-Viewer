@@ -1,7 +1,156 @@
 {
     "data": {
-        "Count": 2636,
+        "Count": 2637,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "d7586316-7541-4389-9143-26ce4e178c02",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "875381e3-4899-4a5d-b898-ade6b5a280aa"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Copper Collector",
+                    "neutral": "Copper Collector"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "d7586316-7541-4389-9143-26ce4e178c02",
+                    "da76864b-e79a-3f96-ef32-dbb93c5f5fe0",
+                    "1P"
+                ],
+                "CreationDate": "2025-08-27T18:58:30.708Z",
+                "LastModifiedDate": "2025-09-01T23:32:58.678Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "85a035b9-d56d-4648-8669-3149fd3beb02",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/85a035b9-d56d-4648-8669-3149fd3beb02/Copper_Collector_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "cabcb9aa-fde1-4bf8-a7c2-2ea665b148e6",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "875381e3-4899-4a5d-b898-ade6b5a280aa",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "da76864b-e79a-3f96-ef32-dbb93c5f5fe0",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "epic",
+                    "requiresRedeem": true
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -408853,7 +409002,7 @@
                     "custom.jurassicpark"
                 ],
                 "CreationDate": "2023-12-06T16:05:46.425Z",
-                "LastModifiedDate": "2024-10-17T14:41:25.667Z",
+                "LastModifiedDate": "2025-09-04T18:55:24.634Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -419949,14 +420098,14 @@
                     "custom.transformers"
                 ],
                 "CreationDate": "2024-09-23T09:37:28.033Z",
-                "LastModifiedDate": "2024-11-11T18:21:40.338Z",
+                "LastModifiedDate": "2025-09-05T15:08:02.015Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "e71b90ed-94ff-46b5-91fe-c2ee95c9df0a",
+                        "Id": "76887312-9457-4d36-8909-763062be4629",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/e71b90ed-94ff-46b5-91fe-c2ee95c9df0a/da_tf_logo_hoodie_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/76887312-9457-4d36-8909-763062be4629/da_tf_logo_hoodie_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -419973,7 +420122,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 400
+                                    "Amount": 240
                                 }
                             ]
                         },
@@ -419983,7 +420132,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 400
+                                    "Amount": 240
                                 }
                             ]
                         }
@@ -419998,7 +420147,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 400
+                                    "Amount": 240
                                 }
                             ]
                         },
@@ -420008,7 +420157,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 400
+                                    "Amount": 240
                                 }
                             ]
                         }
@@ -420020,7 +420169,7 @@
                     "creatorName": "Syclone Studios",
                     "offerId": "2cc40680-33da-4440-948f-eb3c2824a729",
                     "originalCreatorId": "2535448579972708",
-                    "price": 400,
+                    "price": 240,
                     "purchasable": true,
                     "packIdentity": [
                         {
@@ -420062,7 +420211,7 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_top",
-                    "rarity": "epic"
+                    "rarity": "rare"
                 }
             },
             {
