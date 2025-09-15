@@ -406517,20 +406517,20 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "360674ff-051e-4c83-9c6d-e68b649efc9c",
                     "d9162a9e-80ef-9d2c-c620-4701adac3736",
                     "3P",
-                    "360674ff-051e-4c83-9c6d-e68b649efc9c",
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-06T17:24:20.852Z",
-                "LastModifiedDate": "2025-06-23T14:16:16.064Z",
+                "LastModifiedDate": "2025-09-08T20:36:01.589Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "274a46aa-7e7a-4df2-a2f1-651cfa20d27d",
+                        "Id": "cf6404b7-21a7-485b-92e1-6be00e7fb6df",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/274a46aa-7e7a-4df2-a2f1-651cfa20d27d/hiccups_viking_helmet_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cf6404b7-21a7-485b-92e1-6be00e7fb6df/hiccups_viking_helmet_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -406547,7 +406547,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
@@ -406557,7 +406557,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -406572,7 +406572,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
@@ -406582,7 +406582,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -406594,7 +406594,7 @@
                     "creatorName": "Gamemode One",
                     "offerId": "b777cdd4-4ccb-4b0a-a3b4-7805d3393555",
                     "originalCreatorId": "2535448579972708",
-                    "price": 0,
+                    "price": 280,
                     "purchasable": true,
                     "packIdentity": [
                         {
@@ -406636,8 +406636,7 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare",
-                    "requiresRedeem": true
+                    "rarity": "rare"
                 }
             },
             {
