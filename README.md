@@ -14,5 +14,5 @@
    <h1>Bedrock Item Viewer</h1>
    <p style="font-size: 1.2em;">
       A Minecraft: Bedrock Item Viewer for viewing and filtering character creator items from the marketplace, with various types and tags.
-   </p>
+   </p> 
 </div>
