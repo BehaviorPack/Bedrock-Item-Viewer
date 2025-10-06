@@ -39555,10 +39555,11 @@
                 "Tags": [
                     "96bfe2f0-7ad7-4308-b070-24c3977a7b82",
                     "2a82e783-bff0-bd5f-f670-9d146f7f2513",
+                    "hidden_offer",
                     "1P"
                 ],
                 "CreationDate": "2024-03-06T03:21:52.129Z",
-                "LastModifiedDate": "2024-10-23T18:00:17.882Z",
+                "LastModifiedDate": "2025-10-01T17:30:29.47Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -39574,62 +39575,11 @@
                         "Amount": 1
                     }
                 ],
-                "Price": {
-                    "Prices": [
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
-                                }
-                            ]
-                        },
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "RealPrices": []
-                },
-                "PriceOptions": {
-                    "Prices": [
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
-                                }
-                            ]
-                        },
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
-                                }
-                            ]
-                        }
-                    ],
-                    "RealPrices": []
-                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Minecraft",
                     "offerId": "c2b2b115-22e2-4676-b30a-c3fabb57bbd4",
                     "originalCreatorId": "2535448579972708",
-                    "price": 0,
                     "purchasable": true,
                     "packIdentity": [
                         {
@@ -39671,8 +39621,7 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare",
-                    "requiresRedeem": true
+                    "rarity": "rare"
                 }
             },
             {
@@ -96660,6 +96609,15 @@
                         }
                     ],
                     "RealPrices": []
+                },
+                "Rating": {
+                    "Average": 5.0,
+                    "TotalCount": 1,
+                    "Count5Star": 1,
+                    "Count4Star": 0,
+                    "Count3Star": 0,
+                    "Count2Star": 0,
+                    "Count1Star": 0
                 },
                 "DeepLinks": [],
                 "DisplayProperties": {
