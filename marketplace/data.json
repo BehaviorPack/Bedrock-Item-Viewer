@@ -1,6 +1,6 @@
 {
     "data": {
-        "Count": 2645,
+        "Count": 2648,
         "Items": [
             {
                 "SourceEntity": {
@@ -177,6 +177,290 @@
                     "pieceType": "persona_head",
                     "rarity": "rare",
                     "requiresRedeem": true
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "765fbfd6-dc87-4272-9944-73362830064b",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "38e73252-4c85-4410-866f-4c1fe6e37270"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Copper Golem Slippers",
+                    "neutral": "Copper Golem Slippers"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "765fbfd6-dc87-4272-9944-73362830064b",
+                    "68edfafb-a51f-df79-159c-78baba7a8453",
+                    "1P"
+                ],
+                "CreationDate": "2025-09-10T17:32:44.563Z",
+                "LastModifiedDate": "2025-10-13T18:25:47.324Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "40519d9f-7e06-4e77-8df3-477d416e466b",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/40519d9f-7e06-4e77-8df3-477d416e466b/Copper_Golem_Slippers_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "aaf566c7-26f6-4b07-ad3f-69d8082c4a37",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "38e73252-4c85-4410-866f-4c1fe6e37270",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "68edfafb-a51f-df79-159c-78baba7a8453",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_feet",
+                    "rarity": "rare",
+                    "requiresRedeem": true
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "b2b7e99f-e990-47eb-a26a-791c5d6228d3",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "84680267-6f7b-4ca7-8779-341a2516b224"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Copper Cape",
+                    "neutral": "Copper Cape"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "b2b7e99f-e990-47eb-a26a-791c5d6228d3",
+                    "c092dcde-7bc1-ac79-5796-1106273398a6",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2025-09-10T17:32:32.762Z",
+                "LastModifiedDate": "2025-10-13T18:03:58.989Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "a22e78cd-9089-4849-96ec-440eaab7caed",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a22e78cd-9089-4849-96ec-440eaab7caed/copper_cape_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "749af589-f39c-4129-831e-8cdac560a6de",
+                        "Amount": 1
+                    }
+                ],
+                "Rating": {
+                    "Average": 5.0,
+                    "TotalCount": 1,
+                    "Count5Star": 1,
+                    "Count4Star": 0,
+                    "Count3Star": 0,
+                    "Count2Star": 0,
+                    "Count1Star": 0
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "84680267-6f7b-4ca7-8779-341a2516b224",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "c092dcde-7bc1-ac79-5796-1106273398a6",
+                            "version": "1.2.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary"
                 }
             },
             {
@@ -1571,6 +1855,104 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_top",
+                    "rarity": "epic"
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "03d8c325-39b2-4a1e-9d34-cfdceb2f8d26",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "d6a1e12d-fee7-4f7e-8623-55bc88a96efb"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Pig Pal Hat",
+                    "neutral": "Pig Pal Hat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "03d8c325-39b2-4a1e-9d34-cfdceb2f8d26",
+                    "4e72819d-009e-cc9a-ea5c-d6b020dbfb6b",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2025-08-15T18:06:38.282Z",
+                "LastModifiedDate": "2025-09-12T21:32:29.48Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "37b0adf0-8842-4f6e-958b-b2529cf02c5f",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/37b0adf0-8842-4f6e-958b-b2529cf02c5f/Pig_Pal_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "6e738961-f696-4b03-9c36-7a45a83f39e2",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "d6a1e12d-fee7-4f7e-8623-55bc88a96efb",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "4e72819d-009e-cc9a-ea5c-d6b020dbfb6b",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
                     "rarity": "epic"
                 }
             },
