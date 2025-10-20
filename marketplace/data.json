@@ -417,7 +417,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-09-10T17:32:32.762Z",
-                "LastModifiedDate": "2025-10-13T18:03:58.989Z",
+                "LastModifiedDate": "2025-10-16T18:44:39.084Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -457,7 +457,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_capes",
                     "rarity": "legendary"
@@ -35789,7 +35817,7 @@
                     "1P"
                 ],
                 "CreationDate": "2024-04-18T15:37:28.347Z",
-                "LastModifiedDate": "2024-05-16T23:14:01.741Z",
+                "LastModifiedDate": "2025-10-17T07:23:33.487Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -234545,7 +234573,7 @@
                     "1P"
                 ],
                 "CreationDate": "2021-05-27T16:33:37.662Z",
-                "LastModifiedDate": "2024-10-14T17:59:19.557Z",
+                "LastModifiedDate": "2025-10-17T06:01:22.105Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -438058,7 +438086,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:48:21.503Z",
-                "LastModifiedDate": "2023-09-13T18:37:39.156Z",
+                "LastModifiedDate": "2025-10-17T22:03:16.756Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -438172,6 +438200,7 @@
                 "Tags": [
                     "8af77db6-0a78-440a-aa87-8df2aa544587",
                     "3ec8d520-c052-cb32-3d5d-8ad95e0a57d9",
+                    "hidden_offer",
                     "tag.green",
                     "tag.flower",
                     "tag.pretty",
@@ -438181,7 +438210,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:59:36.751Z",
-                "LastModifiedDate": "2023-08-10T17:13:04.621Z",
+                "LastModifiedDate": "2025-10-17T22:04:03.914Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -438211,6 +438240,10 @@
                             "version": "1.0.1"
                         }
                     ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
                     "pieceType": "persona_hand",
                     "rarity": "uncommon"
                 }
@@ -438289,7 +438322,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:48:58.31Z",
-                "LastModifiedDate": "2024-10-14T15:38:33.903Z",
+                "LastModifiedDate": "2025-10-17T22:03:25.445Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -438432,7 +438465,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:50:51.734Z",
-                "LastModifiedDate": "2023-09-13T18:37:44.331Z",
+                "LastModifiedDate": "2025-10-17T22:03:25.143Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -438544,7 +438577,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:51:27.378Z",
-                "LastModifiedDate": "2023-09-13T18:37:46.108Z",
+                "LastModifiedDate": "2025-10-17T22:03:34.784Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -438659,7 +438692,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:49:35.042Z",
-                "LastModifiedDate": "2023-09-13T18:37:42.411Z",
+                "LastModifiedDate": "2025-10-17T22:03:21.241Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -438771,7 +438804,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:52:09.697Z",
-                "LastModifiedDate": "2023-09-13T18:37:47.521Z",
+                "LastModifiedDate": "2025-10-17T22:03:36.732Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -439798,6 +439831,7 @@
                 "Tags": [
                     "0ec22b7f-57d0-4cdd-9923-5c29214287ef",
                     "8cb2deb9-0ad4-8a32-d9ce-b40350d71129",
+                    "hidden_offer",
                     "tag.flower",
                     "tag.hat",
                     "tag.beautiful",
@@ -439805,7 +439839,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:57:12.714Z",
-                "LastModifiedDate": "2023-08-10T13:41:07.153Z",
+                "LastModifiedDate": "2025-10-17T22:03:58.25Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -439835,6 +439869,10 @@
                             "version": "1.0.1"
                         }
                     ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
                     "pieceType": "persona_head",
                     "rarity": "rare"
                 }
@@ -440131,6 +440169,7 @@
                 "Tags": [
                     "adcceac2-5078-48ab-9529-764424fb05b2",
                     "61592657-b55f-2aba-78d6-05b9f1f75850",
+                    "hidden_offer",
                     "tag.mushroom",
                     "tag.cool",
                     "tag.shirt",
@@ -440138,7 +440177,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T01:00:55.296Z",
-                "LastModifiedDate": "2023-08-10T18:06:05.429Z",
+                "LastModifiedDate": "2025-10-17T22:04:12.775Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -440168,6 +440207,10 @@
                             "version": "1.0.2"
                         }
                     ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
                     "pieceType": "persona_top",
                     "rarity": "rare"
                 }
@@ -440244,6 +440287,7 @@
                 "Tags": [
                     "26c9d3aa-c815-42b8-84ec-f6ce572e1208",
                     "443883dd-e23a-8772-0f8a-9333da67431b",
+                    "hidden_offer",
                     "tag.mushroom",
                     "tag.hat",
                     "tag.cool",
@@ -440251,7 +440295,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T01:00:13.168Z",
-                "LastModifiedDate": "2023-08-10T14:16:27.627Z",
+                "LastModifiedDate": "2025-10-17T22:04:11.978Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -440281,6 +440325,10 @@
                             "version": "1.0.1"
                         }
                     ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
                     "pieceType": "persona_head",
                     "rarity": "rare"
                 }
@@ -440359,6 +440407,7 @@
                 "Tags": [
                     "ed8e97ed-a078-48ed-a517-e031049cdceb",
                     "bd45d0a5-b91c-a44b-61a4-da3173d70d54",
+                    "hidden_offer",
                     "tag.cute",
                     "tag.flower",
                     "tag.beautiful",
@@ -440367,7 +440416,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:58:58.27Z",
-                "LastModifiedDate": "2023-08-10T19:46:24.045Z",
+                "LastModifiedDate": "2025-10-17T22:04:05.386Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -440397,6 +440446,10 @@
                             "version": "1.0.1"
                         }
                     ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
                     "pieceType": "persona_face_accessory",
                     "rarity": "rare"
                 }
@@ -440477,6 +440530,7 @@
                 "Tags": [
                     "819ea41c-4595-4152-a0a6-17a68b9b9c89",
                     "efc51f9b-08da-bcbe-b9c9-c51c9dcc1b4e",
+                    "hidden_offer",
                     "tag.cute",
                     "tag.flower",
                     "tag.beautiful",
@@ -440486,7 +440540,7 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:58:12.02Z",
-                "LastModifiedDate": "2023-08-10T16:59:05.106Z",
+                "LastModifiedDate": "2025-10-19T16:45:18.84Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -440516,6 +440570,10 @@
                             "version": "1.0.2"
                         }
                     ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
                     "pieceType": "persona_outerwear",
                     "rarity": "uncommon"
                 }
