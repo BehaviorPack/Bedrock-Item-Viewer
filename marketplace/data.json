@@ -3034,7 +3034,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-06-15T20:14:35.906Z",
-                "LastModifiedDate": "2025-07-22T07:33:29.912Z",
+                "LastModifiedDate": "2025-10-22T13:24:28.794Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -3160,7 +3160,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-06-10T23:45:21.601Z",
-                "LastModifiedDate": "2025-06-19T22:28:42.262Z",
+                "LastModifiedDate": "2025-10-22T02:04:40.051Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -3286,7 +3286,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-05-13T20:27:28.535Z",
-                "LastModifiedDate": "2025-05-29T19:11:52.242Z",
+                "LastModifiedDate": "2025-10-22T03:31:59.834Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -3412,7 +3412,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-05-13T20:25:31.125Z",
-                "LastModifiedDate": "2025-05-29T19:12:09.975Z",
+                "LastModifiedDate": "2025-10-22T08:49:20.032Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -3539,7 +3539,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-05-07T21:28:29.808Z",
-                "LastModifiedDate": "2025-06-17T13:58:57.01Z",
+                "LastModifiedDate": "2025-10-22T09:49:44.74Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -5455,7 +5455,7 @@
                     "99195ab2-dcfa-4119-932b-d35796cbf546"
                 ],
                 "CreationDate": "2025-02-28T17:33:32.504Z",
-                "LastModifiedDate": "2025-03-11T10:18:30.911Z",
+                "LastModifiedDate": "2025-10-22T01:50:06.185Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -5581,7 +5581,7 @@
                     "2d33a89c-2cea-4b2b-99ec-019df721192e"
                 ],
                 "CreationDate": "2025-02-25T20:26:32.486Z",
-                "LastModifiedDate": "2025-03-11T10:40:49.26Z",
+                "LastModifiedDate": "2025-10-22T06:05:30.762Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -5707,7 +5707,7 @@
                     "667890a6-6ec1-4692-b88d-bc334f318dd1"
                 ],
                 "CreationDate": "2025-02-25T20:25:50.877Z",
-                "LastModifiedDate": "2025-03-11T10:39:23.362Z",
+                "LastModifiedDate": "2025-10-22T05:52:38.973Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -5833,7 +5833,7 @@
                     "1d416f1e-1db7-4a6d-bd19-4bd9db44375d"
                 ],
                 "CreationDate": "2025-02-25T20:25:37.262Z",
-                "LastModifiedDate": "2025-03-11T11:36:42.849Z",
+                "LastModifiedDate": "2025-10-22T16:58:13.66Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -5959,7 +5959,7 @@
                     "96380e74-4bd2-4400-9d55-ab492cc6d1fb"
                 ],
                 "CreationDate": "2025-02-25T20:25:30.742Z",
-                "LastModifiedDate": "2025-03-11T10:39:51.805Z",
+                "LastModifiedDate": "2025-10-22T05:55:39.144Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -6086,7 +6086,7 @@
                     "custom.minecraftmovie"
                 ],
                 "CreationDate": "2025-02-11T00:56:36.194Z",
-                "LastModifiedDate": "2025-03-28T17:48:43.625Z",
+                "LastModifiedDate": "2025-10-22T07:11:25.435Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -6222,7 +6222,7 @@
                     "custom.minecraftmovie"
                 ],
                 "CreationDate": "2025-02-11T00:56:35.181Z",
-                "LastModifiedDate": "2025-03-28T17:50:33.43Z",
+                "LastModifiedDate": "2025-10-22T16:28:23.843Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -281761,7 +281761,7 @@
                     "1P"
                 ],
                 "CreationDate": "2020-10-23T21:08:04.714Z",
-                "LastModifiedDate": "2024-10-14T19:24:23.155Z",
+                "LastModifiedDate": "2025-10-21T15:00:58.513Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -281777,13 +281777,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Minecraft",
                     "offerId": "09794d82-2c54-4c82-8cb5-c8f978458c32",
                     "originalCreatorId": "2535448579972708",
                     "price": 0,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -408248,7 +408298,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-06T17:24:20.852Z",
-                "LastModifiedDate": "2025-09-08T20:36:01.589Z",
+                "LastModifiedDate": "2025-10-22T12:55:03.812Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -408425,7 +408475,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-09T21:28:32.306Z",
-                "LastModifiedDate": "2025-06-23T14:12:49.618Z",
+                "LastModifiedDate": "2025-10-22T16:34:52.849Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -408602,7 +408652,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-09T21:31:23.794Z",
-                "LastModifiedDate": "2025-06-23T14:13:07.943Z",
+                "LastModifiedDate": "2025-10-22T15:04:26.425Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -408779,7 +408829,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-09T21:37:35.555Z",
-                "LastModifiedDate": "2025-06-23T14:11:32.446Z",
+                "LastModifiedDate": "2025-10-22T01:58:54.923Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -408956,7 +409006,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-09T21:38:32.877Z",
-                "LastModifiedDate": "2025-06-23T14:11:51.301Z",
+                "LastModifiedDate": "2025-10-22T14:09:43.581Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -409133,7 +409183,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-10T09:54:36.005Z",
-                "LastModifiedDate": "2025-06-23T14:12:05.695Z",
+                "LastModifiedDate": "2025-10-22T15:16:02.854Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -409310,7 +409360,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-10T09:55:29.6Z",
-                "LastModifiedDate": "2025-06-23T14:12:27.533Z",
+                "LastModifiedDate": "2025-10-22T02:07:23.31Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -409487,7 +409537,7 @@
                     "custom.howtotrainyourdragon"
                 ],
                 "CreationDate": "2025-06-09T21:39:29.127Z",
-                "LastModifiedDate": "2025-06-23T14:16:36.117Z",
+                "LastModifiedDate": "2025-10-22T05:23:03.349Z",
                 "Contents": [],
                 "Images": [
                     {
