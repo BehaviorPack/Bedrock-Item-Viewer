@@ -1,6 +1,6 @@
 {
     "data": {
-        "Count": 2648,
+        "Count": 2649,
         "Items": [
             {
                 "SourceEntity": {
@@ -1203,6 +1203,104 @@
                     "pieceType": "persona_head",
                     "rarity": "epic",
                     "requiresRedeem": true
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "b1a45909-8449-4f33-b0ce-a268bcdc93e6",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "940cb37a-fc9a-491d-81ff-3e538f19b2bc"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Wall Placeholder",
+                    "neutral": "Wall Placeholder"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "cb19d2bc-73c7-7bf2-6810-0fa769b1a04d",
+                    "hidden_offer",
+                    "1P",
+                    "b1a45909-8449-4f33-b0ce-a268bcdc93e6"
+                ],
+                "CreationDate": "2025-09-03T21:39:41.081Z",
+                "LastModifiedDate": "2025-09-03T21:44:10.274Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "98be55e2-5190-4368-a630-4ee7bf16d89e",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/98be55e2-5190-4368-a630-4ee7bf16d89e/walls_item_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "964936d4-e850-41b2-9b16-4748725c6641",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "940cb37a-fc9a-491d-81ff-3e538f19b2bc",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "cb19d2bc-73c7-7bf2-6810-0fa769b1a04d",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_top",
+                    "rarity": "rare"
                 }
             },
             {
@@ -439508,7 +439606,6 @@
                 "Tags": [
                     "f10ced62-74e2-48fb-abc5-72ad9f09d22e",
                     "e0f86a38-67d8-6c27-66b1-7a9ab1aab354",
-                    "hidden_offer",
                     "tag.glasses",
                     "tag.science",
                     "tag.eyes",
@@ -439520,14 +439617,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:55:17.31Z",
-                "LastModifiedDate": "2025-04-01T00:18:04.342Z",
+                "LastModifiedDate": "2025-11-01T00:05:19.951Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "af6ba80d-929a-47a9-8b99-f69deef85abf",
+                        "Id": "2afe07c9-cd52-4dea-84c7-8b0568ec73eb",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/af6ba80d-929a-47a9-8b99-f69deef85abf/GDL_Scientist_Disguise_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2afe07c9-cd52-4dea-84c7-8b0568ec73eb/GDL_Scientist_Disguise_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -439536,13 +439633,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 120
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 120
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 120
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 120
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "e4defc39-77f3-49e4-bc4b-e7ee13c56f9c",
                     "originalCreatorId": "2535444494929832",
                     "price": 120,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -439555,7 +439702,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_face_accessory",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -439634,7 +439782,6 @@
                 "Tags": [
                     "68afb4a3-74fd-4e18-a14c-87c643f16493",
                     "4ab16a69-a631-ba66-b662-aac42d7ba5e4",
-                    "hidden_offer",
                     "tag.backpack",
                     "tag.armor",
                     "tag.futuristic",
@@ -439644,14 +439791,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:55:55.106Z",
-                "LastModifiedDate": "2025-04-01T00:13:46.344Z",
+                "LastModifiedDate": "2025-11-01T00:07:36.223Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "3d3dc593-e739-444c-92c6-bcdc96bd4f6a",
+                        "Id": "7c46d51f-3785-400e-94d7-ccf309ace708",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3d3dc593-e739-444c-92c6-bcdc96bd4f6a/GDL_Jetpack_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c46d51f-3785-400e-94d7-ccf309ace708/GDL_Jetpack_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -439660,13 +439807,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "885449de-ab98-4e85-b2e5-0dfb50ced73f",
                     "originalCreatorId": "2535444494929832",
                     "price": 240,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -439679,7 +439876,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_back",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -439760,7 +439958,6 @@
                 "Tags": [
                     "ce670cb1-1838-4d9f-8dba-7d5507743374",
                     "c19af148-1bb3-4e67-9e00-dfb3e627c09f",
-                    "hidden_offer",
                     "tag.armor",
                     "tag.cape",
                     "tag.science_fiction",
@@ -439771,14 +439968,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:54:35.935Z",
-                "LastModifiedDate": "2025-04-01T00:15:06.836Z",
+                "LastModifiedDate": "2025-11-01T00:07:00.316Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "37e1e8f1-2c3b-4a53-a7de-25e50eb3e5b9",
+                        "Id": "5b862d4f-dbec-42ce-87ca-2f73e3560428",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/37e1e8f1-2c3b-4a53-a7de-25e50eb3e5b9/GDL_Flight_Suit_Wings_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5b862d4f-dbec-42ce-87ca-2f73e3560428/GDL_Flight_Suit_Wings_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -439787,13 +439984,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "ed193a46-43ba-4aca-afdf-6f621d372f8a",
                     "originalCreatorId": "2535444494929832",
                     "price": 240,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -439806,7 +440053,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_back",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
