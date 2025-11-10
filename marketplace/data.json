@@ -62,14 +62,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-09-22T18:15:38.144Z",
-                "LastModifiedDate": "2025-10-07T00:59:42.126Z",
+                "LastModifiedDate": "2025-11-04T10:34:57.606Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "2f244bf3-17db-4179-8500-a4b9c85cd9b9",
+                        "Id": "ceb8a323-0e0c-4c98-9dbc-f85774261d88",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/2f244bf3-17db-4179-8500-a4b9c85cd9b9/cyd_sc_saiyanhair_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ceb8a323-0e0c-4c98-9dbc-f85774261d88/cyd_sc_saiyanhair_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -86,7 +86,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
@@ -96,7 +96,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -111,7 +111,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
@@ -121,7 +121,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -133,7 +133,7 @@
                     "creatorName": "Minecraft",
                     "offerId": "539202f9-15d3-4d2e-8b93-0e48d154cebd",
                     "originalCreatorId": "2535448579972708",
-                    "price": 0,
+                    "price": 280,
                     "purchasable": true,
                     "packIdentity": [
                         {
@@ -176,7 +176,7 @@
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
-                    "requiresRedeem": true
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -1266,7 +1266,7 @@
                     "b1a45909-8449-4f33-b0ce-a268bcdc93e6"
                 ],
                 "CreationDate": "2025-09-03T21:39:41.081Z",
-                "LastModifiedDate": "2025-09-03T21:44:10.274Z",
+                "LastModifiedDate": "2025-11-08T04:28:22.87Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1297,7 +1297,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_top",
                     "rarity": "rare"
@@ -40370,14 +40398,14 @@
                     "1P"
                 ],
                 "CreationDate": "2024-03-06T03:21:41.731Z",
-                "LastModifiedDate": "2025-02-10T18:20:25.821Z",
+                "LastModifiedDate": "2025-11-03T22:25:06.708Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "281fb1e6-f0e5-4f1c-8a9e-a94402bbc291",
+                        "Id": "b6396d5e-cce6-4501-a09d-b2eed29878b9",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/281fb1e6-f0e5-4f1c-8a9e-a94402bbc291/pig_sleeve_sweater_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b6396d5e-cce6-4501-a09d-b2eed29878b9/pig_sleeve_sweater_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -40396,7 +40424,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "bc7f2ba3-003a-cdc0-8962-b70149f25d80",
-                            "version": "1.0.1"
+                            "version": "1.2.0"
                         }
                     ],
                     "publicChangelog": {
@@ -40432,7 +40460,8 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_outerwear",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -239800,14 +239829,14 @@
                 "Keywords": {
                     "NEUTRAL": {
                         "Values": [
-                            "Kid",
-                            "Cartoony"
+                            "Cartoony",
+                            "Kid"
                         ]
                     },
                     "neutral": {
                         "Values": [
-                            "Kid",
-                            "Cartoony"
+                            "Cartoony",
+                            "Kid"
                         ]
                     }
                 },
@@ -239840,20 +239869,20 @@
                 "Tags": [
                     "cddc5291-a46c-4b44-83df-762391be9b5f",
                     "1d22b019-d407-4f00-97cd-df4e4c71fe7e",
-                    "tag.kid",
                     "tag.cartoony",
+                    "tag.kid",
                     "1P",
                     "custom.ben10"
                 ],
                 "CreationDate": "2021-05-17T11:09:48.312Z",
-                "LastModifiedDate": "2023-08-10T18:57:52.884Z",
+                "LastModifiedDate": "2025-11-04T18:08:43.146Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "aa089391-7e38-4a78-8ebc-ca6e4d3c3244",
+                        "Id": "8b3d1537-735b-45f4-8662-23e059f4e247",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-title-b63a0803d3653643-20ca2/aa089391-7e38-4a78-8ebc-ca6e4d3c3244/ben_10_omnitrix_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/8b3d1537-735b-45f4-8662-23e059f4e247/ben_10_omnitrix_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -239923,11 +239952,16 @@
                         {
                             "type": "persona_piece",
                             "uuid": "1d22b019-d407-4f00-97cd-df4e4c71fe7e",
-                            "version": "1.2.0"
+                            "version": "1.3.0"
                         }
                     ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
                     "pieceType": "persona_hand",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -389720,23 +389754,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "9b4cadbe-ee80-43d6-94e9-a30baad425d5",
                     "11ddfef4-97f0-1acd-ba49-be55f3dc278d",
                     "tag.martial_arts",
                     "tag.fantasy",
                     "tag.animation",
                     "3P",
-                    "9b4cadbe-ee80-43d6-94e9-a30baad425d5",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:02:01.414Z",
-                "LastModifiedDate": "2023-08-10T17:39:31.578Z",
+                "LastModifiedDate": "2025-11-04T18:07:21.707Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "fcf37eb1-8d91-4521-97d3-1a5d9be8788e",
+                        "Id": "68ac7fdb-7f19-4b0d-ab6d-c4ccbce64745",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fcf37eb1-8d91-4521-97d3-1a5d9be8788e/robes_watertribe_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/68ac7fdb-7f19-4b0d-ab6d-c4ccbce64745/robes_watertribe_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -389806,7 +389840,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "11ddfef4-97f0-1acd-ba49-be55f3dc278d",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -389814,7 +389848,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_outerwear",
-                    "rarity": "uncommon"
+                    "rarity": "uncommon",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -389887,23 +389922,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "12f3feb6-d1d0-48c3-92c9-753bd3ab9697",
                     "67c222fd-467c-acd3-9c96-7b46057fe399",
                     "tag.martial_arts",
                     "tag.animation",
                     "tag.fantasy",
                     "3P",
-                    "12f3feb6-d1d0-48c3-92c9-753bd3ab9697",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:02:04.176Z",
-                "LastModifiedDate": "2023-08-10T13:48:42.493Z",
+                "LastModifiedDate": "2025-11-04T18:06:17.101Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "20cbf691-4bbd-451a-9e6e-2ba6820c1265",
+                        "Id": "81684036-55c4-48a4-a879-2061248c49d5",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/20cbf691-4bbd-451a-9e6e-2ba6820c1265/hat_firelord_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/81684036-55c4-48a4-a879-2061248c49d5/hat_firelord_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -389973,7 +390008,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "67c222fd-467c-acd3-9c96-7b46057fe399",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -389981,7 +390016,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -390221,23 +390257,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "ef916e6f-86d5-41f9-b534-70eaa06b9e08",
                     "216bfedf-49bc-c814-7fbe-5f7d6beb7d94",
                     "tag.martial_arts",
                     "tag.animation",
                     "tag.fantasy",
                     "3P",
-                    "ef916e6f-86d5-41f9-b534-70eaa06b9e08",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:50.018Z",
-                "LastModifiedDate": "2023-08-10T19:50:19.196Z",
+                "LastModifiedDate": "2025-11-04T18:06:43.737Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "ceacef26-5cf6-465b-8c91-0a658189310a",
+                        "Id": "c6096184-7819-4cc2-b16e-b5ef2aba1789",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ceacef26-5cf6-465b-8c91-0a658189310a/robes_earthkingdom_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c6096184-7819-4cc2-b16e-b5ef2aba1789/robes_earthkingdom_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -390307,7 +390343,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "216bfedf-49bc-c814-7fbe-5f7d6beb7d94",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -390315,7 +390351,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_outerwear",
-                    "rarity": "uncommon"
+                    "rarity": "uncommon",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -390388,23 +390425,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "20383ac8-e868-4db4-8c70-206683b016d7",
                     "87a6ee5f-b141-2a84-2796-295a0291d32b",
                     "tag.martial_arts",
                     "tag.animation",
                     "tag.fantasy",
                     "3P",
-                    "20383ac8-e868-4db4-8c70-206683b016d7",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:50.223Z",
-                "LastModifiedDate": "2023-08-10T14:07:34.271Z",
+                "LastModifiedDate": "2025-11-04T18:07:49.381Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "c9396d8c-6d70-4288-9cf2-e50315b54b16",
+                        "Id": "5088362b-b829-44e5-a917-1c3e80de2a1f",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c9396d8c-6d70-4288-9cf2-e50315b54b16/robes_firenation_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5088362b-b829-44e5-a917-1c3e80de2a1f/robes_firenation_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -390474,7 +390511,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "87a6ee5f-b141-2a84-2796-295a0291d32b",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -390482,7 +390519,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_outerwear",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -390722,23 +390760,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "bdfe3377-8b4b-42c1-9bba-67624d6f77b2",
                     "435918a3-2cdb-2a4f-2302-5fa694404a69",
                     "tag.martial_arts",
                     "tag.animation",
                     "tag.fantasy",
                     "3P",
-                    "bdfe3377-8b4b-42c1-9bba-67624d6f77b2",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:45.461Z",
-                "LastModifiedDate": "2023-08-10T18:33:06.98Z",
+                "LastModifiedDate": "2025-11-04T18:07:01.756Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "a6824284-7e21-49f2-9599-475cc0fcf33c",
+                        "Id": "c33d49a4-c4a0-4c9e-8561-eb8439ecb54d",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a6824284-7e21-49f2-9599-475cc0fcf33c/onesie_pabu_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/c33d49a4-c4a0-4c9e-8561-eb8439ecb54d/onesie_pabu_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -390808,15 +390846,16 @@
                         {
                             "type": "persona_piece",
                             "uuid": "435918a3-2cdb-2a4f-2302-5fa694404a69",
-                            "version": "1.0.0"
+                            "version": "1.2.0"
                         }
                     ],
                     "publicChangelog": {
                         "neutral": "",
                         "en-US": ""
                     },
-                    "pieceType": "persona_outerwear",
-                    "rarity": "rare"
+                    "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -390889,23 +390928,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "b54bbe17-0866-4354-a65a-35023ddde703",
                     "937ec2f7-9d4d-29f8-4655-6770bb77a8ad",
                     "tag.martial_arts",
                     "tag.animation",
                     "tag.fantasy",
                     "3P",
-                    "b54bbe17-0866-4354-a65a-35023ddde703",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:44.675Z",
-                "LastModifiedDate": "2023-08-10T18:19:00.818Z",
+                "LastModifiedDate": "2025-11-04T18:06:18.159Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "64825303-e897-4fb7-a414-b979f4542a07",
+                        "Id": "b100507d-814a-4880-950f-fc38ceff24b5",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/64825303-e897-4fb7-a414-b979f4542a07/onesie_momo_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b100507d-814a-4880-950f-fc38ceff24b5/onesie_momo_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -390975,15 +391014,16 @@
                         {
                             "type": "persona_piece",
                             "uuid": "937ec2f7-9d4d-29f8-4655-6770bb77a8ad",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
                         "neutral": "",
                         "en-US": ""
                     },
-                    "pieceType": "persona_outerwear",
-                    "rarity": "rare"
+                    "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -391056,23 +391096,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "4cbd4e26-0a69-479d-9c11-2b09620e6914",
                     "12eb3a81-a0c4-f421-9350-2bc08768bae5",
                     "tag.martial_arts",
                     "tag.fantasy",
                     "tag.animation",
                     "3P",
-                    "4cbd4e26-0a69-479d-9c11-2b09620e6914",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:43.477Z",
-                "LastModifiedDate": "2023-08-10T15:30:05.892Z",
+                "LastModifiedDate": "2025-11-04T18:06:30.703Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "b56d8c64-5fe1-468c-9e5a-0a5116ea5f59",
+                        "Id": "1f80d2d2-bf95-4301-a573-e3bdcee903d7",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/b56d8c64-5fe1-468c-9e5a-0a5116ea5f59/onesie_appa_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/1f80d2d2-bf95-4301-a573-e3bdcee903d7/onesie_appa_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -391142,15 +391182,16 @@
                         {
                             "type": "persona_piece",
                             "uuid": "12eb3a81-a0c4-f421-9350-2bc08768bae5",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
                         "neutral": "",
                         "en-US": ""
                     },
-                    "pieceType": "persona_outerwear",
-                    "rarity": "rare"
+                    "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -391232,14 +391273,14 @@
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-11-09T17:02:27.891Z",
-                "LastModifiedDate": "2023-08-10T18:41:47.929Z",
+                "LastModifiedDate": "2025-11-04T18:06:37.267Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "c0bef0d3-c689-459a-9860-f00ac5bcc1ae",
+                        "Id": "5f628f25-57d3-419c-bbf3-14a8e0854e3f",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c0bef0d3-c689-459a-9860-f00ac5bcc1ae/mask_bluespirit_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5f628f25-57d3-419c-bbf3-14a8e0854e3f/mask_bluespirit_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -391309,7 +391350,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "43388819-6a03-027d-9ecb-0a53fe0aefc9",
-                            "version": "1.1.0"
+                            "version": "1.2.0"
                         }
                     ],
                     "publicChangelog": {
@@ -391317,7 +391358,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -391390,23 +391432,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "649dbd83-9ef1-4fca-bec2-7616a4907811",
                     "0aea8024-6265-7ce9-be9a-b6b5ae23acd9",
                     "tag.martial_arts",
                     "tag.fantasy",
                     "tag.animation",
                     "3P",
-                    "649dbd83-9ef1-4fca-bec2-7616a4907811",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:16.905Z",
-                "LastModifiedDate": "2023-08-10T16:10:16.497Z",
+                "LastModifiedDate": "2025-11-04T18:06:20.163Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "53343471-e7d7-435b-abeb-a82444cd96fd",
+                        "Id": "07b73288-d5f4-4499-b32e-e33a494503ca",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/53343471-e7d7-435b-abeb-a82444cd96fd/hat_kyoshiwarrior_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/07b73288-d5f4-4499-b32e-e33a494503ca/hat_kyoshiwarrior_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -391476,7 +391518,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "0aea8024-6265-7ce9-be9a-b6b5ae23acd9",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -391484,7 +391526,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -391557,23 +391600,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "bdfec619-f734-405d-b13b-e246190d3783",
                     "4ff08ea3-6c03-7bec-1058-a4c36c4ca7cd",
                     "tag.martial_arts",
                     "tag.animation",
                     "tag.fantasy",
                     "3P",
-                    "bdfec619-f734-405d-b13b-e246190d3783",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:26.086Z",
-                "LastModifiedDate": "2023-08-10T18:33:08.765Z",
+                "LastModifiedDate": "2025-11-04T18:07:47.135Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "5f21df9e-5a44-4d23-be72-202e659fe277",
+                        "Id": "45eeb735-a397-4367-a9a3-76caf53b8873",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/5f21df9e-5a44-4d23-be72-202e659fe277/hat_probendingblue_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/45eeb735-a397-4367-a9a3-76caf53b8873/hat_probendingblue_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -391643,7 +391686,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "4ff08ea3-6c03-7bec-1058-a4c36c4ca7cd",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -391651,7 +391694,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -391724,23 +391768,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "f9a60a91-9bb1-4f79-87d3-86a4a7cdbf10",
                     "a8c54a14-7ddd-e186-e9e4-aef83e207445",
                     "tag.martial_arts",
                     "tag.fantasy",
                     "tag.animation",
                     "3P",
-                    "f9a60a91-9bb1-4f79-87d3-86a4a7cdbf10",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:37.75Z",
-                "LastModifiedDate": "2023-08-10T20:07:34.531Z",
+                "LastModifiedDate": "2025-11-04T18:06:59.524Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "cb40e314-5277-4225-900d-00fe6635146f",
+                        "Id": "cb7abfbc-80cf-492c-b78f-cf7290f66723",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cb40e314-5277-4225-900d-00fe6635146f/hat_probendingred_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/cb7abfbc-80cf-492c-b78f-cf7290f66723/hat_probendingred_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -391810,7 +391854,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "a8c54a14-7ddd-e186-e9e4-aef83e207445",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -391818,7 +391862,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
@@ -391891,23 +391936,23 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "9977c560-4cd5-471b-b175-37dc9a02bb21",
                     "32fb27c1-92c1-3ea6-8ea9-36e9ef7dc197",
                     "tag.martial_arts",
                     "tag.animation",
                     "tag.fantasy",
                     "3P",
-                    "9977c560-4cd5-471b-b175-37dc9a02bb21",
                     "custom.avatarlegends"
                 ],
                 "CreationDate": "2022-12-01T01:01:41.648Z",
-                "LastModifiedDate": "2023-08-10T17:36:44.547Z",
+                "LastModifiedDate": "2025-11-04T18:07:11.334Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "19b81927-0fdb-4c74-9398-6516db693fe0",
+                        "Id": "cd36156f-a1e6-428b-9d06-73ea69fe8ef0",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/19b81927-0fdb-4c74-9398-6516db693fe0/mask_amon_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/cd36156f-a1e6-428b-9d06-73ea69fe8ef0/mask_amon_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -391977,7 +392022,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "32fb27c1-92c1-3ea6-8ea9-36e9ef7dc197",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -391985,7 +392030,8 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "uncommon"
+                    "rarity": "uncommon",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
