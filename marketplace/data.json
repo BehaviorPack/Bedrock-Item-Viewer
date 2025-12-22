@@ -1,6 +1,6 @@
 {
     "data": {
-        "Count": 2654,
+        "Count": 2656,
         "Items": [
             {
                 "SourceEntity": {
@@ -288,6 +288,184 @@
                     },
                     "pieceType": "persona_capes",
                     "rarity": "legendary",
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "1ec52c52-f47a-4cbc-98e6-a3ad59e52172",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "3ddaeb7d-ceed-4476-90d2-199e69de5065"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Zombie Horse Onesie",
+                    "neutral": "Zombie Horse Onesie"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "1ec52c52-f47a-4cbc-98e6-a3ad59e52172",
+                    "1a72d8e0-6879-ab25-0b31-a1923868294e",
+                    "1P"
+                ],
+                "CreationDate": "2025-11-19T17:45:37.653Z",
+                "LastModifiedDate": "2025-12-15T20:23:42.919Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "64eaea81-9f03-4450-bc5e-0c439c686dc6",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/64eaea81-9f03-4450-bc5e-0c439c686dc6/ZombieHorseOnesie_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "b435e9c4-0083-4191-b0eb-5c561a1d74d6",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "3ddaeb7d-ceed-4476-90d2-199e69de5065",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "1a72d8e0-6879-ab25-0b31-a1923868294e",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "requiresRedeem": true,
                     "hardwareMemoryTier": 0
                 }
             },
@@ -948,6 +1126,133 @@
                     },
                     "pieceType": "persona_back",
                     "rarity": "epic",
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "9bb3c711-7644-46a9-95a4-ae4267075c5a",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "87324260-d93e-41d2-8c69-f609a302b2a3"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Gold Zombie Mask",
+                    "neutral": "Gold Zombie Mask"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "9bb3c711-7644-46a9-95a4-ae4267075c5a",
+                    "3c01e901-5d6d-5876-2980-428905a4afd2",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2025-10-01T17:51:35.211Z",
+                "LastModifiedDate": "2025-11-19T17:47:36.072Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "a8d924c2-6f94-4dcb-a1e5-ad1c69395e55",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/a8d924c2-6f94-4dcb-a1e5-ad1c69395e55/GoldZombieMask_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "542cedad-71f6-4a44-a31d-fe7545a98483",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "87324260-d93e-41d2-8c69-f609a302b2a3",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "3c01e901-5d6d-5876-2980-428905a4afd2",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_face_accessory",
+                    "rarity": "uncommon",
                     "hardwareMemoryTier": 0
                 }
             },
