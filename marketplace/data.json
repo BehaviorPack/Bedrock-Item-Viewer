@@ -9245,7 +9245,7 @@
                     "custom.minecraftmovie"
                 ],
                 "CreationDate": "2025-03-05T21:45:23.067Z",
-                "LastModifiedDate": "2025-04-08T20:17:08.173Z",
+                "LastModifiedDate": "2026-01-01T13:02:54.054Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -9266,7 +9266,7 @@
                     "creatorName": "Minecraft",
                     "offerId": "fd0fc3b3-2d74-43ca-89c9-2018d4ef3373",
                     "originalCreatorId": "2535448579972708",
-                    "purchasable": true,
+                    "purchasable": false,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -9307,7 +9307,8 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
