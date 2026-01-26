@@ -6785,8 +6785,8 @@
                     }
                 ],
                 "Title": {
-                    "NEUTRAL": "L_DS Placeholder",
-                    "neutral": "L_DS Placeholder"
+                    "NEUTRAL": "Diamond Skullcap",
+                    "neutral": "Diamond Skullcap"
                 },
                 "Description": {
                     "NEUTRAL": "§",
@@ -6826,14 +6826,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-08-04T15:55:30.689Z",
-                "LastModifiedDate": "2025-11-19T17:38:31.884Z",
+                "LastModifiedDate": "2026-01-23T17:44:52.609Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "385790d3-878d-4109-8884-c85932982e9e",
+                        "Id": "b0ba7462-34a2-42c1-8d6e-bfd767dd1024",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/385790d3-878d-4109-8884-c85932982e9e/diamond_skullcap_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0ba7462-34a2-42c1-8d6e-bfd767dd1024/Skeleton_Helmet_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -6852,7 +6852,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "af164eeb-beb1-c33c-7663-8dd10b5b1d05",
-                            "version": "1.0.0"
+                            "version": "1.3.0"
                         }
                     ],
                     "publicChangelog": {
@@ -6860,7 +6860,7 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare",
+                    "rarity": "uncommon",
                     "hardwareMemoryTier": 0
                 }
             },
@@ -6884,8 +6884,8 @@
                     }
                 ],
                 "Title": {
-                    "NEUTRAL": "L_EDW Placeholder",
-                    "neutral": "L_EDW Placeholder"
+                    "NEUTRAL": "Ender Dragon Wings",
+                    "neutral": "Ender Dragon Wings"
                 },
                 "Description": {
                     "NEUTRAL": "§",
@@ -6925,14 +6925,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-08-04T15:55:29.357Z",
-                "LastModifiedDate": "2025-11-19T17:38:30.532Z",
+                "LastModifiedDate": "2026-01-23T17:47:02.162Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "08e5c036-6b93-41e2-9195-f178e22c433e",
+                        "Id": "e764add4-77c8-47aa-803c-309e2a8f7073",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/08e5c036-6b93-41e2-9195-f178e22c433e/Ender_Dragon_Wings_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/e764add4-77c8-47aa-803c-309e2a8f7073/Enderdragon_Wings_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -6951,7 +6951,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "525009c1-9451-5658-ba06-3452119edbb8",
-                            "version": "1.0.0"
+                            "version": "1.3.0"
                         }
                     ],
                     "publicChangelog": {
@@ -6959,7 +6959,7 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_back",
-                    "rarity": "epic",
+                    "rarity": "rare",
                     "hardwareMemoryTier": 0
                 }
             },
@@ -6983,8 +6983,8 @@
                     }
                 ],
                 "Title": {
-                    "NEUTRAL": "L_VW Placeholder",
-                    "neutral": "L_VW Placeholder"
+                    "NEUTRAL": "Vex Plumed Wings",
+                    "neutral": "Vex Plumed Wings"
                 },
                 "Description": {
                     "NEUTRAL": "§",
@@ -7024,14 +7024,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-08-04T15:54:33.77Z",
-                "LastModifiedDate": "2025-11-19T17:38:27.93Z",
+                "LastModifiedDate": "2026-01-23T17:47:06.481Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "5c7490be-b306-471d-a660-a4cccf4b7174",
+                        "Id": "6120dc76-1fbd-4780-9dbd-b38ec95257a8",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5c7490be-b306-471d-a660-a4cccf4b7174/Vex_Wings_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6120dc76-1fbd-4780-9dbd-b38ec95257a8/Vex_Wings_Plumed_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -7050,7 +7050,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "a8cc425b-50c7-9b2b-b54b-4706726424c2",
-                            "version": "1.0.0"
+                            "version": "1.3.0"
                         }
                     ],
                     "publicChangelog": {
@@ -7058,7 +7058,7 @@
                         "en-US": ""
                     },
                     "pieceType": "persona_back",
-                    "rarity": "epic",
+                    "rarity": "rare",
                     "hardwareMemoryTier": 0
                 }
             },
@@ -7082,8 +7082,8 @@
                     }
                 ],
                 "Title": {
-                    "NEUTRAL": "L_EHM Placeholder",
-                    "neutral": "L_EHM Placeholder"
+                    "NEUTRAL": "Evoker Hooded Mantle",
+                    "neutral": "Evoker Hooded Mantle"
                 },
                 "Description": {
                     "NEUTRAL": "§",
@@ -7123,14 +7123,14 @@
                     "1P"
                 ],
                 "CreationDate": "2025-08-04T15:54:31.993Z",
-                "LastModifiedDate": "2025-11-19T17:38:28.961Z",
+                "LastModifiedDate": "2026-01-23T17:45:17.885Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "31fb6fec-fa05-4a0d-ba0d-42b4d68f2f52",
+                        "Id": "58654483-65f0-4e86-a69a-4c8cb572b1bf",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/31fb6fec-fa05-4a0d-ba0d-42b4d68f2f52/Evoker_Hooded_Mantle_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/58654483-65f0-4e86-a69a-4c8cb572b1bf/Evoker_Cloak_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -7149,7 +7149,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "bb9b01b9-2bc9-dd51-ec10-f920f9445445",
-                            "version": "1.0.0"
+                            "version": "1.3.0"
                         }
                     ],
                     "publicChangelog": {
