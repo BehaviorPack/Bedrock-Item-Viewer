@@ -1,7 +1,106 @@
 {
     "data": {
-        "Count": 2683,
+        "Count": 2684,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "26b0a9ab-45b8-4ed5-b336-01ebd5ea5fa3",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "c52d8fa9-1a7a-4731-860f-0f44d433261c"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Gulal Titan",
+                    "neutral": "Gulal Titan"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "26b0a9ab-45b8-4ed5-b336-01ebd5ea5fa3",
+                    "f4b94cee-1625-c802-0bed-f59e5c48e441",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2026-01-30T20:18:35.363Z",
+                "LastModifiedDate": "2026-03-05T04:10:32.139Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "ba5c8cb2-2f16-43d1-be1e-540b7a863198",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/ba5c8cb2-2f16-43d1-be1e-540b7a863198/holi_item_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "8ab95222-3377-4079-bafa-f39b06a9ab91",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "c52d8fa9-1a7a-4731-860f-0f44d433261c",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "f4b94cee-1625-c802-0bed-f59e5c48e441",
+                            "version": "1.2.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_outerwear",
+                    "rarity": "epic",
+                    "hardwareMemoryTier": 0
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -785,7 +884,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-12-10T17:00:46.133Z",
-                "LastModifiedDate": "2026-03-01T09:06:31.011Z",
+                "LastModifiedDate": "2026-03-08T09:06:21.346Z",
                 "Contents": [],
                 "Images": [
                     {
