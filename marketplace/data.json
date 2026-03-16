@@ -1,7 +1,304 @@
 {
     "data": {
-        "Count": 2684,
+        "Count": 2687,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "3fcac6bc-23d2-4f80-a647-6541654a2870",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "62d0e0f8-6c93-4ff0-8f71-5dee0079fff8"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Baby Chick Slippers",
+                    "neutral": "Baby Chick Slippers"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "3fcac6bc-23d2-4f80-a647-6541654a2870",
+                    "3cb5876a-c538-74c4-0d79-d99c077cf453",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2026-01-30T23:11:29.827Z",
+                "LastModifiedDate": "2026-03-09T17:32:42.811Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "acf51577-161c-4043-b4c4-493a12e97d71",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/acf51577-161c-4043-b4c4-493a12e97d71/Chicken_Slippers_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "354dda22-3d92-4e7a-95d4-f07d1a7a5790",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "62d0e0f8-6c93-4ff0-8f71-5dee0079fff8",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "3cb5876a-c538-74c4-0d79-d99c077cf453",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_feet",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "3592088b-a213-4df7-9af1-f8f9408ecabd",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "829df7da-4989-4113-866c-f579695f8eb1"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Chasing Chickens",
+                    "neutral": "Chasing Chickens"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "3592088b-a213-4df7-9af1-f8f9408ecabd",
+                    "3b7a5afd-4365-27cb-2506-57bbc512a264",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2026-01-30T23:10:33.593Z",
+                "LastModifiedDate": "2026-03-09T17:47:18.54Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "066a6e5d-186a-4140-88b1-13a15bfbf19c",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/066a6e5d-186a-4140-88b1-13a15bfbf19c/chicken_chasing_emote_thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "2f38fde7-a7bc-439d-88f6-9d8d9bf7eff5",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "829df7da-4989-4113-866c-f579695f8eb1",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "3b7a5afd-4365-27cb-2506-57bbc512a264",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_emote",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "5c75044b-01ca-4c32-a536-65e2d2222618",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "c35914fb-cb12-4c8b-a503-b92e12f7e522"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Baby Chick Bucket Hat",
+                    "neutral": "Baby Chick Bucket Hat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "5c75044b-01ca-4c32-a536-65e2d2222618",
+                    "6e5b4ba6-70dc-2f88-fdfb-5ecc5b145227",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2026-01-30T23:10:31.581Z",
+                "LastModifiedDate": "2026-03-09T17:33:22.091Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "0b58729d-e2b3-4d1f-a684-9a81a9d2e233",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/0b58729d-e2b3-4d1f-a684-9a81a9d2e233/baby_chicken_bucket_hat_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "e855862a-570b-4515-b11d-8dc40f428be3",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "c35914fb-cb12-4c8b-a503-b92e12f7e522",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "6e5b4ba6-70dc-2f88-fdfb-5ecc5b145227",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -884,7 +1181,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-12-10T17:00:46.133Z",
-                "LastModifiedDate": "2026-03-08T09:06:21.346Z",
+                "LastModifiedDate": "2026-03-15T09:06:28.195Z",
                 "Contents": [],
                 "Images": [
                     {
