@@ -1,7 +1,106 @@
 {
     "data": {
-        "Count": 2687,
+        "Count": 2688,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "a8f40496-f168-4aad-86c8-af12563203dc",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "3a44ad78-1fcf-4e46-a611-949e5e2d46a1"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Dandelion Onesie",
+                    "neutral": "Dandelion Onesie"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "a8f40496-f168-4aad-86c8-af12563203dc",
+                    "ae47426d-762c-f5f9-09bb-879faa0cfbb4",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2026-02-12T23:07:32.686Z",
+                "LastModifiedDate": "2026-03-18T17:09:42.322Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "ea8386d3-7870-491d-9efa-29cee3bea093",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/ea8386d3-7870-491d-9efa-29cee3bea093/Dandelion_Onesie_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "8ba7c940-2ab0-4a05-8538-b3438367ded1",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "3a44ad78-1fcf-4e46-a611-949e5e2d46a1",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "ae47426d-762c-f5f9-09bb-879faa0cfbb4",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -1181,7 +1280,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-12-10T17:00:46.133Z",
-                "LastModifiedDate": "2026-03-15T09:06:28.195Z",
+                "LastModifiedDate": "2026-03-22T09:06:30.893Z",
                 "Contents": [],
                 "Images": [
                     {
