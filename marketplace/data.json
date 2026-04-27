@@ -2528,7 +2528,7 @@
                     "1P"
                 ],
                 "CreationDate": "2025-12-10T17:00:46.133Z",
-                "LastModifiedDate": "2026-04-19T09:07:23.249Z",
+                "LastModifiedDate": "2026-04-26T16:47:12.247Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -74045,9 +74045,9 @@
                     }
                 ],
                 "Rating": {
-                    "Average": 3.4,
-                    "TotalCount": 5,
-                    "Count5Star": 3,
+                    "Average": 3.0,
+                    "TotalCount": 4,
+                    "Count5Star": 2,
                     "Count4Star": 0,
                     "Count3Star": 0,
                     "Count2Star": 0,
