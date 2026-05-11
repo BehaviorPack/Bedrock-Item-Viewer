@@ -1,7 +1,134 @@
 {
     "data": {
-        "Count": 2699,
+        "Count": 2700,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "df78ad0a-dbe1-41a2-b5ec-f2dc9a29b609",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "4ca62910-b927-4bf7-a686-a882266266c2"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Nautilus Hat",
+                    "neutral": "Nautilus Hat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "4c0ac8a4-0742-1dde-0394-b3c561e9c432",
+                    "hidden_offer",
+                    "1P",
+                    "df78ad0a-dbe1-41a2-b5ec-f2dc9a29b609"
+                ],
+                "CreationDate": "2026-05-08T18:54:33.829Z",
+                "LastModifiedDate": "2026-05-09T06:04:12.474Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "9f5ab2b7-83df-4483-8e05-ae816e04699c",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/9f5ab2b7-83df-4483-8e05-ae816e04699c/nautilus_hat_animated_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "483b1783-b438-4ddc-91d0-f1ff4a6e3d8a",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "4ca62910-b927-4bf7-a686-a882266266c2",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "4c0ac8a4-0742-1dde-0394-b3c561e9c432",
+                            "version": "1.0.1"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "epic",
+                    "hardwareMemoryTier": 0
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -63,7 +190,7 @@
                     "1P"
                 ],
                 "CreationDate": "2026-04-03T17:11:37.053Z",
-                "LastModifiedDate": "2026-04-29T16:57:52.248Z",
+                "LastModifiedDate": "2026-05-05T03:56:29.9Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -94,7 +221,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_feet",
                     "rarity": "uncommon",
@@ -162,7 +317,7 @@
                     "1P"
                 ],
                 "CreationDate": "2026-04-03T17:11:34.007Z",
-                "LastModifiedDate": "2026-04-29T16:56:55.585Z",
+                "LastModifiedDate": "2026-05-05T04:21:19.752Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -193,7 +348,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_top",
                     "rarity": "rare",
@@ -261,7 +444,7 @@
                     "8c38c4bd-4002-44bc-b9a8-cd9ea068a764"
                 ],
                 "CreationDate": "2026-04-02T17:36:32.963Z",
-                "LastModifiedDate": "2026-04-02T17:44:10.284Z",
+                "LastModifiedDate": "2026-05-05T03:22:59.581Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -292,7 +475,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
@@ -360,7 +571,7 @@
                     "3f2cb4da-a40f-4f7d-af71-475f704048c2"
                 ],
                 "CreationDate": "2026-04-02T17:34:32.391Z",
-                "LastModifiedDate": "2026-04-02T17:37:27.228Z",
+                "LastModifiedDate": "2026-05-05T03:23:20.089Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -391,7 +602,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
@@ -459,7 +698,7 @@
                     "4a9916cb-90bf-409f-aed2-d38cf6408b21"
                 ],
                 "CreationDate": "2026-04-02T17:34:31.998Z",
-                "LastModifiedDate": "2026-04-02T17:39:28.276Z",
+                "LastModifiedDate": "2026-05-05T03:23:40.035Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -490,7 +729,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
@@ -1270,7 +1537,7 @@
                     "1P"
                 ],
                 "CreationDate": "2026-03-16T18:27:31.132Z",
-                "LastModifiedDate": "2026-04-01T19:35:24.615Z",
+                "LastModifiedDate": "2026-05-05T03:15:19.06Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1301,7 +1568,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_hood",
                     "rarity": "rare",
@@ -30517,8 +30812,8 @@
                     }
                 ],
                 "Title": {
-                    "NEUTRAL": "MC Experience Cape",
-                    "neutral": "MC Experience Cape"
+                    "NEUTRAL": "Villager Rescue Cape",
+                    "neutral": "Villager Rescue Cape"
                 },
                 "Description": {
                     "NEUTRAL": "§",
@@ -30558,7 +30853,7 @@
                     "1P"
                 ],
                 "CreationDate": "2024-08-29T21:46:28.601Z",
-                "LastModifiedDate": "2024-11-11T23:52:22.427Z",
+                "LastModifiedDate": "2026-05-07T05:06:48.866Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -30629,7 +30924,8 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_capes",
-                    "rarity": "legendary"
+                    "rarity": "legendary",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
