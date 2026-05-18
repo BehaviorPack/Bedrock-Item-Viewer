@@ -1623,8 +1623,8 @@
                     }
                 ],
                 "Title": {
-                    "NEUTRAL": "me_placeholder",
-                    "neutral": "me_placeholder"
+                    "NEUTRAL": "Moonlight Trail Cape",
+                    "neutral": "Moonlight Trail Cape"
                 },
                 "Description": {
                     "NEUTRAL": "§",
@@ -1658,20 +1658,20 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "3185d1ea-d304-46dc-addf-bd6c6498ec71",
                     "fb61d2ba-2125-aca5-eda9-f3d9c7638205",
                     "hidden_offer",
-                    "1P",
-                    "3185d1ea-d304-46dc-addf-bd6c6498ec71"
+                    "1P"
                 ],
                 "CreationDate": "2026-02-26T18:01:34.144Z",
-                "LastModifiedDate": "2026-04-28T02:45:19.891Z",
+                "LastModifiedDate": "2026-05-18T21:03:36.217Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "5c0893cf-c7a0-414a-abd1-d16aa6d3b646",
+                        "Id": "b0762502-9ad6-47cf-91bb-dc1203f5ac2a",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/5c0893cf-c7a0-414a-abd1-d16aa6d3b646/me_placeholder_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/b0762502-9ad6-47cf-91bb-dc1203f5ac2a/moonlight_trail_cape_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -1690,7 +1690,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "fb61d2ba-2125-aca5-eda9-f3d9c7638205",
-                            "version": "1.0.0"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -1725,8 +1725,8 @@
                         "zh-CN": "",
                         "zh-TW": ""
                     },
-                    "pieceType": "persona_top",
-                    "rarity": "rare",
+                    "pieceType": "persona_capes",
+                    "rarity": "legendary",
                     "hardwareMemoryTier": 0
                 }
             },
