@@ -1,6 +1,6 @@
 {
     "data": {
-        "Count": 2706,
+        "Count": 2709,
         "Items": [
             {
                 "SourceEntity": {
@@ -185,6 +185,546 @@
                     },
                     "pieceType": "persona_mouth",
                     "rarity": "common",
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "508859b9-dfc2-4206-86ab-d59d3f4b5ce7",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "c056f3dc-6273-4b50-a37d-351c3b0173e5"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Sulfur Cube Head",
+                    "neutral": "Sulfur Cube Head"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "508859b9-dfc2-4206-86ab-d59d3f4b5ce7",
+                    "cbd94e6e-323d-424d-6397-1e9b3ace2f40",
+                    "1P"
+                ],
+                "CreationDate": "2026-06-04T17:10:43.1Z",
+                "LastModifiedDate": "2026-06-25T03:06:15.047Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "fd4c2309-ff53-48d6-af9b-4e4b156a6697",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/fd4c2309-ff53-48d6-af9b-4e4b156a6697/hat_rancher_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "08630b86-3302-4329-8332-46da0f4309ea",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "c056f3dc-6273-4b50-a37d-351c3b0173e5",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "cbd94e6e-323d-424d-6397-1e9b3ace2f40",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "uncommon",
+                    "requiresRedeem": true,
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "322bad6f-a030-4550-be09-d9a1f9a54212",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "8091f8b0-5c29-42da-8c2d-8e014973d542"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Brawler Helmet",
+                    "neutral": "Brawler Helmet"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "322bad6f-a030-4550-be09-d9a1f9a54212",
+                    "1f94ce13-36a5-2409-c71f-b5244f72f737",
+                    "1P"
+                ],
+                "CreationDate": "2026-06-04T17:10:38.823Z",
+                "LastModifiedDate": "2026-06-25T03:03:56.581Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "81ecb094-d9bc-4d8b-9cc3-0c8d1f9e3bb9",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/81ecb094-d9bc-4d8b-9cc3-0c8d1f9e3bb9/hat_brawler_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "873304dc-b9cb-428a-831a-69da5e86e9e3",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "8091f8b0-5c29-42da-8c2d-8e014973d542",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "1f94ce13-36a5-2409-c71f-b5244f72f737",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare",
+                    "requiresRedeem": true,
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "0eb40647-132a-41d8-995f-0aa5ca7fe8c2",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "52fcfcf8-cf9a-42f6-b648-889e44c39366"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Builder Helmet",
+                    "neutral": "Builder Helmet"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "0eb40647-132a-41d8-995f-0aa5ca7fe8c2",
+                    "81114858-cea5-6da7-f5b4-55d11d68a476",
+                    "1P"
+                ],
+                "CreationDate": "2026-06-04T17:10:36.899Z",
+                "LastModifiedDate": "2026-06-25T03:05:09.087Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "6d53cd8e-f7a5-4d72-a04e-f957250f2046",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/6d53cd8e-f7a5-4d72-a04e-f957250f2046/hat_builder_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "de370867-e509-4271-bb7f-6e24d8b82f29",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "52fcfcf8-cf9a-42f6-b648-889e44c39366",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "81114858-cea5-6da7-f5b4-55d11d68a476",
+                            "version": "1.1.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "epic",
+                    "requiresRedeem": true,
                     "hardwareMemoryTier": 0
                 }
             },
@@ -947,7 +1487,7 @@
                     "1P"
                 ],
                 "CreationDate": "2026-04-10T21:16:32.229Z",
-                "LastModifiedDate": "2026-06-11T06:02:30.005Z",
+                "LastModifiedDate": "2026-06-28T12:09:00.426Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1092,6 +1632,15 @@
                         "Amount": 1
                     }
                 ],
+                "Rating": {
+                    "Average": 5.0,
+                    "TotalCount": 1,
+                    "Count5Star": 1,
+                    "Count4Star": 0,
+                    "Count3Star": 0,
+                    "Count2Star": 0,
+                    "Count1Star": 0
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Minecraft",
