@@ -1,6 +1,6 @@
 {
     "data": {
-        "Count": 2709,
+        "Count": 2710,
         "Items": [
             {
                 "SourceEntity": {
@@ -185,6 +185,135 @@
                     },
                     "pieceType": "persona_mouth",
                     "rarity": "common",
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "7b5b09e2-811b-4d18-974f-40bea2fdf336",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "e594e9eb-9b13-4723-8bfe-460a767acc28"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Baby Axolotl Bucket Hat",
+                    "neutral": "Baby Axolotl Bucket Hat"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsStackable": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "09f2edeb-b371-3d49-d86b-5e3645482a69",
+                    "hidden_offer",
+                    "1P",
+                    "7b5b09e2-811b-4d18-974f-40bea2fdf336"
+                ],
+                "CreationDate": "2026-06-04T18:42:35.609Z",
+                "LastModifiedDate": "2026-07-01T07:53:19.034Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "133f2e1b-dd6d-4ab3-b5ad-d2d656b2b84a",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/133f2e1b-dd6d-4ab3-b5ad-d2d656b2b84a/baby_axolotl_bucket_hat_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "b1f147af-7f2f-4e99-948d-1bdb8e8bad5b",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "e594e9eb-9b13-4723-8bfe-460a767acc28",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "09f2edeb-b371-3d49-d86b-5e3645482a69",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare",
                     "hardwareMemoryTier": 0
                 }
             },
@@ -1487,7 +1616,7 @@
                     "1P"
                 ],
                 "CreationDate": "2026-04-10T21:16:32.229Z",
-                "LastModifiedDate": "2026-06-28T12:09:00.426Z",
+                "LastModifiedDate": "2026-06-29T12:56:42.285Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -454563,13 +454692,12 @@
                     "uwp.store.mobile",
                     "xboxone.store",
                     "title.bedrockvanilla",
-                    "title.earth",
-                    "nx2.store",
-                    "ps5.store"
+                    "title.earth"
                 ],
                 "Tags": [
                     "b029e688-8578-4076-94a7-b4b3e87432fc",
                     "e76f2b4a-a9c4-1b55-6444-bf5d49a0bb09",
+                    "hidden_offer",
                     "tag.animation",
                     "tag.animated",
                     "tag.sweater",
@@ -454581,14 +454709,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:52:46.165Z",
-                "LastModifiedDate": "2026-06-10T20:29:15.793Z",
+                "LastModifiedDate": "2026-07-01T00:11:03.675Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "d0fde2aa-5871-467d-9f7f-cbced11325bb",
+                        "Id": "7d48d4f2-fb53-4de0-af7e-af1b6aed5f3f",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/d0fde2aa-5871-467d-9f7f-cbced11325bb/Noxcrew_Shirt_2020_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/7d48d4f2-fb53-4de0-af7e-af1b6aed5f3f/Noxcrew_Shirt_2020_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -454597,63 +454725,13 @@
                         "Amount": 1
                     }
                 ],
-                "Price": {
-                    "Prices": [
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 240
-                                }
-                            ]
-                        },
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 240
-                                }
-                            ]
-                        }
-                    ],
-                    "RealPrices": []
-                },
-                "PriceOptions": {
-                    "Prices": [
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 240
-                                }
-                            ]
-                        },
-                        {
-                            "Amounts": [
-                                {
-                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 240
-                                }
-                            ]
-                        }
-                    ],
-                    "RealPrices": []
-                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "eeab4699-c21c-4713-9bf4-5c8cfbb6fbcf",
                     "originalCreatorId": "2535444494929832",
                     "price": 240,
-                    "purchasable": true,
+                    "purchasable": false,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -454928,14 +455006,11 @@
                     "uwp.store.mobile",
                     "xboxone.store",
                     "title.bedrockvanilla",
-                    "title.earth",
-                    "nx2.store",
-                    "ps5.store"
+                    "title.earth"
                 ],
                 "Tags": [
                     "f10ced62-74e2-48fb-abc5-72ad9f09d22e",
                     "e0f86a38-67d8-6c27-66b1-7a9ab1aab354",
-                    "hidden_offer",
                     "tag.glasses",
                     "tag.science",
                     "tag.eyes",
@@ -454947,14 +455022,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:55:17.31Z",
-                "LastModifiedDate": "2026-06-10T20:29:15.81Z",
+                "LastModifiedDate": "2026-07-02T09:56:18.179Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "7c77ad01-59f2-4f4c-b1c2-b1b162a98961",
+                        "Id": "27f49e28-ce7e-4135-803b-9719f07d1cd9",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/7c77ad01-59f2-4f4c-b1c2-b1b162a98961/GDL_Scientist_Disguise_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/27f49e28-ce7e-4135-803b-9719f07d1cd9/GDL_Scientist_Disguise_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -454963,13 +455038,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 120
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 120
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 120
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 120
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "e4defc39-77f3-49e4-bc4b-e7ee13c56f9c",
                     "originalCreatorId": "2535444494929832",
                     "price": 120,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -454979,7 +455104,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_face_accessory",
                     "rarity": "rare",
@@ -455057,14 +455210,11 @@
                     "uwp.store.mobile",
                     "xboxone.store",
                     "title.bedrockvanilla",
-                    "title.earth",
-                    "nx2.store",
-                    "ps5.store"
+                    "title.earth"
                 ],
                 "Tags": [
                     "68afb4a3-74fd-4e18-a14c-87c643f16493",
                     "4ab16a69-a631-ba66-b662-aac42d7ba5e4",
-                    "hidden_offer",
                     "tag.backpack",
                     "tag.armor",
                     "tag.futuristic",
@@ -455074,14 +455224,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:55:55.106Z",
-                "LastModifiedDate": "2026-06-10T20:29:16.271Z",
+                "LastModifiedDate": "2026-07-02T12:51:32.355Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "6bcc2a54-f5e6-40d1-964f-7f17a33c94e8",
+                        "Id": "71f8a705-3e9d-4940-a97f-24a61b35da18",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/6bcc2a54-f5e6-40d1-964f-7f17a33c94e8/GDL_Jetpack_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/71f8a705-3e9d-4940-a97f-24a61b35da18/GDL_Jetpack_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -455090,13 +455240,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "885449de-ab98-4e85-b2e5-0dfb50ced73f",
                     "originalCreatorId": "2535444494929832",
                     "price": 240,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -455106,7 +455306,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_back",
                     "rarity": "rare",
@@ -455186,14 +455414,11 @@
                     "uwp.store.mobile",
                     "xboxone.store",
                     "title.bedrockvanilla",
-                    "title.earth",
-                    "nx2.store",
-                    "ps5.store"
+                    "title.earth"
                 ],
                 "Tags": [
                     "ce670cb1-1838-4d9f-8dba-7d5507743374",
                     "c19af148-1bb3-4e67-9e00-dfb3e627c09f",
-                    "hidden_offer",
                     "tag.armor",
                     "tag.cape",
                     "tag.science_fiction",
@@ -455204,14 +455429,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:54:35.935Z",
-                "LastModifiedDate": "2026-06-10T20:29:16.276Z",
+                "LastModifiedDate": "2026-07-01T23:52:11.841Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "a6b84bfe-ca3a-4252-a3aa-2d0bfa53484c",
+                        "Id": "a6b0d5bb-96f2-464b-b9e1-b22610193f92",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a6b84bfe-ca3a-4252-a3aa-2d0bfa53484c/GDL_Flight_Suit_Wings_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/a6b0d5bb-96f2-464b-b9e1-b22610193f92/GDL_Flight_Suit_Wings_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -455220,13 +455445,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "ed193a46-43ba-4aca-afdf-6f621d372f8a",
                     "originalCreatorId": "2535444494929832",
                     "price": 240,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -455236,7 +455511,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_back",
                     "rarity": "rare",
@@ -455436,14 +455739,11 @@
                     "uwp.store.mobile",
                     "xboxone.store",
                     "title.bedrockvanilla",
-                    "title.earth",
-                    "nx2.store",
-                    "ps5.store"
+                    "title.earth"
                 ],
                 "Tags": [
                     "01068fde-9049-4590-804c-fcf757cc934f",
                     "b99ab28a-ebd6-06b6-d79b-d023b867d1c2",
-                    "hidden_offer",
                     "tag.cartoon",
                     "tag.colorful",
                     "tag.cute",
@@ -455454,14 +455754,14 @@
                     "custom.forgot"
                 ],
                 "CreationDate": "2020-12-05T00:56:37.552Z",
-                "LastModifiedDate": "2026-06-10T20:28:47.124Z",
+                "LastModifiedDate": "2026-07-01T23:33:18.757Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "c2d5dc55-fc5a-43b2-a12a-160a92fe2478",
+                        "Id": "68a4b0e8-dd69-45bb-abbe-37c75ad90d81",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/c2d5dc55-fc5a-43b2-a12a-160a92fe2478/Buildy_the_Pickaxe_Thumbnail_0.png"
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/68a4b0e8-dd69-45bb-abbe-37c75ad90d81/Buildy_the_Pickaxe_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -455470,13 +455770,63 @@
                         "Amount": 1
                     }
                 ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
                 "DeepLinks": [],
                 "DisplayProperties": {
                     "creatorName": "Noxcrew",
                     "offerId": "d299863e-fa8e-4fee-bc9f-2e2c0ad75fe1",
                     "originalCreatorId": "2535444494929832",
                     "price": 280,
-                    "purchasable": false,
+                    "purchasable": true,
                     "packIdentity": [
                         {
                             "type": "persona_piece",
@@ -455486,10 +455836,39 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
                 }
             },
             {
