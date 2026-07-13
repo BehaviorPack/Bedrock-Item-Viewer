@@ -19265,25 +19265,23 @@
                     "uwp.store.mobile",
                     "xboxone.store",
                     "title.bedrockvanilla",
-                    "title.earth",
-                    "nx2.store",
-                    "ps5.store"
+                    "title.earth"
                 ],
                 "Tags": [
+                    "c1e2a0f6-86f8-443e-a07a-3ac2a924dd37",
                     "47eb4389-4558-79d5-aad8-99f9d224f46c",
                     "1P",
-                    "c1e2a0f6-86f8-443e-a07a-3ac2a924dd37",
                     "custom.hellokitty"
                 ],
                 "CreationDate": "2024-12-03T21:20:39.793Z",
-                "LastModifiedDate": "2026-06-11T03:52:35.859Z",
+                "LastModifiedDate": "2026-07-07T11:47:11.027Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "13841b45-5f0a-405b-b447-01b3de2a561a",
+                        "Id": "f2358221-9e8e-470f-96c3-2a682a428094",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/13841b45-5f0a-405b-b447-01b3de2a561a/persona_keroppioutfit_outerwear_Thumbnail_0.png"
+                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f2358221-9e8e-470f-96c3-2a682a428094/persona_keroppioutfit_outerwear_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -19300,7 +19298,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 280
+                                    "Amount": 0
                                 }
                             ]
                         },
@@ -19310,7 +19308,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 280
+                                    "Amount": 0
                                 }
                             ]
                         }
@@ -19325,7 +19323,7 @@
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 280
+                                    "Amount": 0
                                 }
                             ]
                         },
@@ -19335,7 +19333,7 @@
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 280
+                                    "Amount": 0
                                 }
                             ]
                         }
@@ -19347,7 +19345,7 @@
                     "creatorName": "Minecraft",
                     "offerId": "1e5a0b51-3535-418d-af75-21fccf60e858",
                     "originalCreatorId": "2535448579972708",
-                    "price": 280,
+                    "price": 0,
                     "purchasable": true,
                     "packIdentity": [
                         {
@@ -19389,7 +19387,9 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_outerwear",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "requiresRedeem": true,
+                    "hardwareMemoryTier": 0
                 }
             },
             {
