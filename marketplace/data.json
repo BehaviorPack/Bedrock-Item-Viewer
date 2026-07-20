@@ -19252,7 +19252,7 @@
                     "Type": "master_player_account",
                     "TypeString": "master_player_account"
                 },
-                "IsStackable": false,
+                "IsHidden": false,
                 "Platforms": [
                     "android.amazonappstore",
                     "android.googleplay",
@@ -19274,14 +19274,14 @@
                     "custom.hellokitty"
                 ],
                 "CreationDate": "2024-12-03T21:20:39.793Z",
-                "LastModifiedDate": "2026-07-07T11:47:11.027Z",
+                "LastModifiedDate": "2026-07-14T17:34:37.313Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "f2358221-9e8e-470f-96c3-2a682a428094",
+                        "Id": "1fdda5cb-2b17-4197-8149-b31220140115",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets001.xboxlive.com/pf-namespace-b63a0803d3653643/f2358221-9e8e-470f-96c3-2a682a428094/persona_keroppioutfit_outerwear_Thumbnail_0.png"
+                        "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/1fdda5cb-2b17-4197-8149-b31220140115/persona_keroppioutfit_outerwear_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -19293,22 +19293,24 @@
                 "Price": {
                     "Prices": [
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -19318,22 +19320,24 @@
                 "PriceOptions": {
                     "Prices": [
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -19345,7 +19349,7 @@
                     "creatorName": "Minecraft",
                     "offerId": "1e5a0b51-3535-418d-af75-21fccf60e858",
                     "originalCreatorId": "2535448579972708",
-                    "price": 0,
+                    "price": 280,
                     "purchasable": true,
                     "packIdentity": [
                         {
@@ -19388,7 +19392,6 @@
                     },
                     "pieceType": "persona_outerwear",
                     "rarity": "rare",
-                    "requiresRedeem": true,
                     "hardwareMemoryTier": 0
                 }
             },
