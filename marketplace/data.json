@@ -113612,7 +113612,7 @@
                     "Type": "master_player_account",
                     "TypeString": "master_player_account"
                 },
-                "IsStackable": false,
+                "IsHidden": false,
                 "Platforms": [
                     "android.amazonappstore",
                     "android.googleplay",
@@ -113624,10 +113624,10 @@
                     "uwp.store",
                     "uwp.store.mobile",
                     "xboxone.store",
-                    "title.bedrockvanilla",
-                    "title.earth",
+                    "ps5.store",
                     "nx2.store",
-                    "ps5.store"
+                    "title.bedrockvanilla",
+                    "title.earth"
                 ],
                 "Tags": [
                     "41df8337-7f30-4ac2-8c6a-5742b58431e2",
@@ -113638,14 +113638,14 @@
                     "1P"
                 ],
                 "CreationDate": "2023-01-31T17:47:43.699Z",
-                "LastModifiedDate": "2026-06-11T02:18:13.169Z",
+                "LastModifiedDate": "2026-08-14T09:01:55.742Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "3383a3c0-2d7b-4da0-8c5e-165e0deeec55",
+                        "Id": "f3a18778-767f-411f-9332-e285ea027560",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/3383a3c0-2d7b-4da0-8c5e-165e0deeec55/WIther_Hoodie_Thumbnail_0.png"
+                        "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f3a18778-767f-411f-9332-e285ea027560/WIther_Hoodie_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -113657,6 +113657,7 @@
                 "Price": {
                     "Prices": [
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
@@ -113667,6 +113668,7 @@
                             ]
                         },
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
@@ -113682,6 +113684,7 @@
                 "PriceOptions": {
                     "Prices": [
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
@@ -113692,6 +113695,7 @@
                             ]
                         },
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
@@ -113715,7 +113719,7 @@
                         {
                             "type": "persona_piece",
                             "uuid": "e7d164e2-c8fc-20ba-efbc-9a9d1471f284",
-                            "version": "1.0.1"
+                            "version": "1.1.0"
                         }
                     ],
                     "publicChangelog": {
@@ -113751,7 +113755,9 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_hood",
-                    "rarity": "rare"
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 27806
                 }
             },
             {
