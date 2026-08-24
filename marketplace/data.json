@@ -1,7 +1,2434 @@
 {
     "data": {
-        "Count": 2712,
+        "Count": 2726,
         "Items": [
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "123c15e7-8933-45b7-b15f-12ab4a0179bf",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "7e1d7ea2-3758-4917-ab60-fe3c8aae3b71"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Shockwave Leg",
+                    "neutral": "Shockwave Leg"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "a2cf33b9-042b-8375-d4a6-5775cfcbbb5d",
+                    "tag.character_customization",
+                    "tag.robot",
+                    "tag.movie",
+                    "1P",
+                    "123c15e7-8933-45b7-b15f-12ab4a0179bf"
+                ],
+                "CreationDate": "2026-08-18T16:18:42.302Z",
+                "LastModifiedDate": "2026-08-18T16:23:40.445Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "3aa68d0a-5b72-466f-8cb1-eddc2f669bac",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3aa68d0a-5b72-466f-8cb1-eddc2f669bac/da_tf2_shockwave_leg_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "9d49206a-2a6c-4fc4-b9f2-5dba425b3b4e",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "7e1d7ea2-3758-4917-ab60-fe3c8aae3b71",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "a2cf33b9-042b-8375-d4a6-5775cfcbbb5d",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_legs",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 40138
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "e40fa4b4-99b5-480f-9084-50bb7fe617c5",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "f69743a2-fdcb-41ba-a8e3-f99a3b186321"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Soundwave Body",
+                    "neutral": "Soundwave Body"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "87b5fa73-e2d8-4d04-c92b-bdfce1626310",
+                    "tag.character_customization",
+                    "1P",
+                    "e40fa4b4-99b5-480f-9084-50bb7fe617c5"
+                ],
+                "CreationDate": "2026-08-17T17:28:30.359Z",
+                "LastModifiedDate": "2026-08-17T17:36:35.379Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "90d1a5e8-2dc3-4ca0-b938-13591e9eace2",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/90d1a5e8-2dc3-4ca0-b938-13591e9eace2/da_tf2_soundwave_body_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "4b28f40f-bd80-44a8-9e57-471aac6f9f61",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "f69743a2-fdcb-41ba-a8e3-f99a3b186321",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "87b5fa73-e2d8-4d04-c92b-bdfce1626310",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_top",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 46359
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "d04e4e40-9398-404b-be5d-b8e143403ccb",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "fbd2b214-ab1e-4d1b-b406-4f704f4aa4d6"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Soundwave Leg",
+                    "neutral": "Soundwave Leg"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "a1194952-2e05-23b7-c630-62a52deab0c2",
+                    "tag.movie",
+                    "tag.robot",
+                    "tag.character_customization",
+                    "1P",
+                    "d04e4e40-9398-404b-be5d-b8e143403ccb"
+                ],
+                "CreationDate": "2026-08-17T17:27:25.217Z",
+                "LastModifiedDate": "2026-08-17T17:30:17.039Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "bcf69e6b-c48c-4f42-9067-b99c57cfd286",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/bcf69e6b-c48c-4f42-9067-b99c57cfd286/da_tf2_soundwave_leg_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "11fc7793-91a8-4abf-b9d3-57e1c2d33b0e",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "fbd2b214-ab1e-4d1b-b406-4f704f4aa4d6",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "a1194952-2e05-23b7-c630-62a52deab0c2",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_legs",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 31321
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "03d50e82-8e0f-4afa-ba38-eab96d7f5368",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "c9739e3e-7492-4936-bfac-8054993e20a4"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Galvatron Arm",
+                    "neutral": "Galvatron Arm"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "03d50e82-8e0f-4afa-ba38-eab96d7f5368",
+                    "4d9c10c7-b981-aff1-d496-c7e56d4eb163",
+                    "tag.movie",
+                    "tag.robot",
+                    "tag.character_customization",
+                    "1P"
+                ],
+                "CreationDate": "2026-08-17T17:18:32.094Z",
+                "LastModifiedDate": "2026-08-17T17:25:27.156Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "c06978eb-9bed-4bbb-b701-454de773512b",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/c06978eb-9bed-4bbb-b701-454de773512b/da_tf2_galvatron_arm_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "93ff5acb-fbb0-4d28-878e-1790942e5130",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "c9739e3e-7492-4936-bfac-8054993e20a4",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "4d9c10c7-b981-aff1-d496-c7e56d4eb163",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_arms",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 83747
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "20701ce3-506f-4aa3-9345-525b8e8f1377",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "c2e2100f-5149-4ed1-aaf1-51cb725f06c7"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Soundwave Head",
+                    "neutral": "Soundwave Head"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "c4dbdfd6-76cd-f611-c28f-3bd4508741a8",
+                    "tag.movie",
+                    "tag.robot",
+                    "tag.character_customization",
+                    "1P",
+                    "20701ce3-506f-4aa3-9345-525b8e8f1377"
+                ],
+                "CreationDate": "2026-08-17T17:17:26.084Z",
+                "LastModifiedDate": "2026-08-17T17:22:57.099Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "5d563718-dc7d-4f6a-921e-6e7d4643ac34",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/5d563718-dc7d-4f6a-921e-6e7d4643ac34/da_tf2_soundwave_head_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "4416f8c1-be27-4ade-99a4-5c756f890392",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "c2e2100f-5149-4ed1-aaf1-51cb725f06c7",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 280,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "c4dbdfd6-76cd-f611-c28f-3bd4508741a8",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 31204
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "a04f07ff-c41c-4e24-9657-8cae26d23b41",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "a9f773cb-573a-4e66-8b04-eafefe597d49"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Grimlock Body",
+                    "neutral": "Grimlock Body"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "91ee47dd-d070-3267-1289-f8a606ea55ea",
+                    "tag.movie",
+                    "tag.robot",
+                    "tag.character_customization",
+                    "1P",
+                    "a04f07ff-c41c-4e24-9657-8cae26d23b41"
+                ],
+                "CreationDate": "2026-08-14T18:51:38.256Z",
+                "LastModifiedDate": "2026-08-14T18:56:50.117Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "47ce79d7-bc2d-4271-8665-5df9ee079c1a",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/47ce79d7-bc2d-4271-8665-5df9ee079c1a/da_tf2_grimlock_body_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "10002617-bc0c-48ec-8c67-50bfbc4f250a",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "a9f773cb-573a-4e66-8b04-eafefe597d49",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "91ee47dd-d070-3267-1289-f8a606ea55ea",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_top",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 36464
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "1a6850cb-ad33-4ae9-b762-2f05785214d8",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "77dad594-149f-489c-b2fb-a0391125940d"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Grimlock Leg",
+                    "neutral": "Grimlock Leg"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization",
+                            "Movie",
+                            "Robot"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization",
+                            "Movie",
+                            "Robot"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "3190b649-80f9-db54-a0db-c3de23e51656",
+                    "tag.character_customization",
+                    "tag.movie",
+                    "tag.robot",
+                    "1P",
+                    "1a6850cb-ad33-4ae9-b762-2f05785214d8"
+                ],
+                "CreationDate": "2026-08-14T18:51:30.022Z",
+                "LastModifiedDate": "2026-08-14T18:55:23.469Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "3bc7f585-4c04-4f63-8cb6-a0c8d5f56127",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/3bc7f585-4c04-4f63-8cb6-a0c8d5f56127/da_tf2_grimlock_leg_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "931d6938-e411-49d9-9cba-ac2334dae30a",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "77dad594-149f-489c-b2fb-a0391125940d",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "3190b649-80f9-db54-a0db-c3de23e51656",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_legs",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 37257
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "1126f1ee-b831-4a7f-8a86-409ceebf8697",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "f9dc3ae4-6895-43d1-bb70-9df80cc13f87"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Grimlock Head",
+                    "neutral": "Grimlock Head"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Movie",
+                            "Robot",
+                            "Character Customization"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "4b026537-eb34-b6bc-7bc8-fb7149a1cb57",
+                    "tag.movie",
+                    "tag.robot",
+                    "tag.character_customization",
+                    "1P",
+                    "1126f1ee-b831-4a7f-8a86-409ceebf8697"
+                ],
+                "CreationDate": "2026-08-14T18:49:29.548Z",
+                "LastModifiedDate": "2026-08-14T18:52:31.122Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "8d84114f-7217-4fd0-aff5-ebd7f61179de",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/8d84114f-7217-4fd0-aff5-ebd7f61179de/da_tf2_grimlock_head_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "6827ae3c-30af-42c4-9fba-ada8477c811b",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "f9dc3ae4-6895-43d1-bb70-9df80cc13f87",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 280,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "4b026537-eb34-b6bc-7bc8-fb7149a1cb57",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 31957
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "07f9db7f-4a23-4c5c-967d-ca115a441711",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "d9b3147c-7820-476d-a0ba-75875e2670de"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Starscream Wings",
+                    "neutral": "Starscream Wings"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Robot",
+                            "Wings",
+                            "Movie"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Robot",
+                            "Wings",
+                            "Movie"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "3273d186-fe10-8437-e163-9673641c9fed",
+                    "tag.robot",
+                    "tag.wings",
+                    "tag.movie",
+                    "1P",
+                    "07f9db7f-4a23-4c5c-967d-ca115a441711"
+                ],
+                "CreationDate": "2026-08-14T18:48:47.121Z",
+                "LastModifiedDate": "2026-08-14T18:53:23.037Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "992d0427-26a4-469e-b9bf-97ffa93aab54",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/992d0427-26a4-469e-b9bf-97ffa93aab54/da_tf2_starscream_wings_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "fdacd883-d330-468c-a1ab-f28f6db4f466",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "d9b3147c-7820-476d-a0ba-75875e2670de",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "3273d186-fe10-8437-e163-9673641c9fed",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_back",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 19249
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "dc0681a8-2da0-44fa-a26f-af1c21d7f1db",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "413c2628-6720-419e-96f2-3eda43b7b81a"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Starscream Leg",
+                    "neutral": "Starscream Leg"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "46b0f815-771e-a7ee-58e5-1bb9658b4ec1",
+                    "tag.character_customization",
+                    "tag.robot",
+                    "tag.movie",
+                    "1P",
+                    "dc0681a8-2da0-44fa-a26f-af1c21d7f1db"
+                ],
+                "CreationDate": "2026-08-14T18:48:44.358Z",
+                "LastModifiedDate": "2026-08-14T18:53:26.962Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "67ca14d0-90ce-4fe2-bd6c-d76ccd7a7d01",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/67ca14d0-90ce-4fe2-bd6c-d76ccd7a7d01/da_tf2_starscream_leg_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "e187c0f9-9f7e-4e31-8d12-c6aec347eec5",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "413c2628-6720-419e-96f2-3eda43b7b81a",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "46b0f815-771e-a7ee-58e5-1bb9658b4ec1",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_legs",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 35025
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "6d9e769a-dc66-4e50-b55a-c3d7d6076b26",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "38d3dbe6-96d6-4a4a-a0bc-19c0920d534f"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Grimlock Tail",
+                    "neutral": "Grimlock Tail"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "4d789a5f-2bc7-bae4-3287-2711368a61fd",
+                    "tag.character_customization",
+                    "tag.robot",
+                    "tag.movie",
+                    "1P",
+                    "6d9e769a-dc66-4e50-b55a-c3d7d6076b26"
+                ],
+                "CreationDate": "2026-08-14T18:48:32.953Z",
+                "LastModifiedDate": "2026-08-14T18:52:45.821Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "afc89791-c463-40cd-ab39-2ac16de1d25e",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/afc89791-c463-40cd-ab39-2ac16de1d25e/da_tf2_grimlock_tail_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "423687d7-c5e0-4187-8b69-7465dead73e6",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "38d3dbe6-96d6-4a4a-a0bc-19c0920d534f",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "4d789a5f-2bc7-bae4-3287-2711368a61fd",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_back",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 21756
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "ecc65d00-a50a-4acc-b13f-983c5204365e",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "15b3d362-23bf-496d-910a-15b30a830488"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Starscream Body",
+                    "neutral": "Starscream Body"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization",
+                            "Movie",
+                            "Robot"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization",
+                            "Movie",
+                            "Robot"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "dc10fcde-4e50-6a49-a4fc-ff8bc70f035b",
+                    "tag.character_customization",
+                    "tag.movie",
+                    "tag.robot",
+                    "1P",
+                    "ecc65d00-a50a-4acc-b13f-983c5204365e"
+                ],
+                "CreationDate": "2026-08-14T18:48:31.822Z",
+                "LastModifiedDate": "2026-08-14T18:55:15.206Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "2ca00370-3252-4084-ae74-815cd99fcf22",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/2ca00370-3252-4084-ae74-815cd99fcf22/da_tf2_starscream_body_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "299d5d6a-9920-4751-8b59-7642476ba947",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 240
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 240
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "15b3d362-23bf-496d-910a-15b30a830488",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 240,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "dc10fcde-4e50-6a49-a4fc-ff8bc70f035b",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_top",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 49370
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "ac6885a6-b789-45f3-8cb1-20b2187e90ad",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "cedc7128-dfbf-4849-b2ea-a8c5a778bfdd"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Starscream Head",
+                    "neutral": "Starscream Head"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "919002f0-9328-d783-4dff-d473aff6da48",
+                    "tag.character_customization",
+                    "tag.robot",
+                    "tag.movie",
+                    "1P",
+                    "ac6885a6-b789-45f3-8cb1-20b2187e90ad"
+                ],
+                "CreationDate": "2026-08-14T18:48:31.705Z",
+                "LastModifiedDate": "2026-08-14T18:52:13.278Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "846175b3-5fff-4423-afa5-b2ca227de575",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/846175b3-5fff-4423-afa5-b2ca227de575/da_tf2_starscream_head_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "558a67eb-34ea-4b47-929c-c9d371a61516",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 280
+                                }
+                            ]
+                        },
+                        {
+                            "UnitAmount": 1,
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 280
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "cedc7128-dfbf-4849-b2ea-a8c5a778bfdd",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 280,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "919002f0-9328-d783-4dff-d473aff6da48",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 22888
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "a89ec187-846d-4fe2-b54d-c2df479efb81",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "585ec465-05b6-431f-b4a7-8bb63097aea6"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Shockwave Head",
+                    "neutral": "Shockwave Head"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {
+                    "NEUTRAL": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    },
+                    "neutral": {
+                        "Values": [
+                            "Character Customization",
+                            "Robot",
+                            "Movie"
+                        ]
+                    }
+                },
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "fe1a8d1d-676d-6283-fb81-884fc5b62095",
+                    "tag.character_customization",
+                    "tag.robot",
+                    "tag.movie",
+                    "1P",
+                    "a89ec187-846d-4fe2-b54d-c2df479efb81"
+                ],
+                "CreationDate": "2026-08-14T18:45:25.537Z",
+                "LastModifiedDate": "2026-08-14T18:48:26.819Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "fa610735-730f-4dfc-a5e9-52bb6080136a",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/fa610735-730f-4dfc-a5e9-52bb6080136a/da_tf2_shockwave_head_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "5b1e40db-04f3-4b30-87be-398f73fb48f8",
+                        "Amount": 1
+                    }
+                ],
+                "Price": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "PriceOptions": {
+                    "Prices": [
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
+                                    "Amount": 0
+                                }
+                            ]
+                        },
+                        {
+                            "Amounts": [
+                                {
+                                    "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
+                                    "Amount": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "RealPrices": []
+                },
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "585ec465-05b6-431f-b4a7-8bb63097aea6",
+                    "originalCreatorId": "2535448579972708",
+                    "price": 0,
+                    "purchasable": true,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "fe1a8d1d-676d-6283-fb81-884fc5b62095",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": ""
+                    },
+                    "pieceType": "persona_head",
+                    "rarity": "rare",
+                    "requiresRedeem": true,
+                    "hardwareMemoryTier": 0,
+                    "totalContentFileSize": 18292
+                }
+            },
             {
                 "SourceEntity": {
                     "Id": "B63A0803D3653643",
@@ -113638,14 +116065,14 @@
                     "1P"
                 ],
                 "CreationDate": "2023-01-31T17:47:43.699Z",
-                "LastModifiedDate": "2026-08-14T09:01:55.742Z",
+                "LastModifiedDate": "2026-08-19T04:36:25.607Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "f3a18778-767f-411f-9332-e285ea027560",
+                        "Id": "5ffc43b5-4e30-4d28-9126-fcf5283e5da5",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/f3a18778-767f-411f-9332-e285ea027560/WIther_Hoodie_Thumbnail_0.png"
+                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/5ffc43b5-4e30-4d28-9126-fcf5283e5da5/WIther_Hoodie_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -113757,7 +116184,7 @@
                     "pieceType": "persona_hood",
                     "rarity": "rare",
                     "hardwareMemoryTier": 0,
-                    "totalContentFileSize": 27806
+                    "totalContentFileSize": 27805
                 }
             },
             {
