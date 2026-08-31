@@ -1,6 +1,6 @@
 {
     "data": {
-        "Count": 2726,
+        "Count": 2727,
         "Items": [
             {
                 "SourceEntity": {
@@ -82,7 +82,7 @@
                     "123c15e7-8933-45b7-b15f-12ab4a0179bf"
                 ],
                 "CreationDate": "2026-08-18T16:18:42.302Z",
-                "LastModifiedDate": "2026-08-18T16:23:40.445Z",
+                "LastModifiedDate": "2026-08-25T17:39:55.62Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -168,7 +168,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_legs",
                     "rarity": "rare",
@@ -250,7 +278,7 @@
                     "e40fa4b4-99b5-480f-9084-50bb7fe617c5"
                 ],
                 "CreationDate": "2026-08-17T17:28:30.359Z",
-                "LastModifiedDate": "2026-08-17T17:36:35.379Z",
+                "LastModifiedDate": "2026-08-25T14:01:12.122Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -336,7 +364,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_top",
                     "rarity": "rare",
@@ -424,7 +480,7 @@
                     "d04e4e40-9398-404b-be5d-b8e143403ccb"
                 ],
                 "CreationDate": "2026-08-17T17:27:25.217Z",
-                "LastModifiedDate": "2026-08-17T17:30:17.039Z",
+                "LastModifiedDate": "2026-08-25T13:59:48.584Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -510,7 +566,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_legs",
                     "rarity": "rare",
@@ -598,7 +682,7 @@
                     "1P"
                 ],
                 "CreationDate": "2026-08-17T17:18:32.094Z",
-                "LastModifiedDate": "2026-08-17T17:25:27.156Z",
+                "LastModifiedDate": "2026-08-25T13:58:22.812Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -684,7 +768,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_arms",
                     "rarity": "rare",
@@ -772,7 +884,7 @@
                     "20701ce3-506f-4aa3-9345-525b8e8f1377"
                 ],
                 "CreationDate": "2026-08-17T17:17:26.084Z",
-                "LastModifiedDate": "2026-08-17T17:22:57.099Z",
+                "LastModifiedDate": "2026-08-25T13:56:58.169Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -858,7 +970,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
@@ -946,7 +1086,7 @@
                     "a04f07ff-c41c-4e24-9657-8cae26d23b41"
                 ],
                 "CreationDate": "2026-08-14T18:51:38.256Z",
-                "LastModifiedDate": "2026-08-14T18:56:50.117Z",
+                "LastModifiedDate": "2026-08-25T14:18:53.549Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1032,7 +1172,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_top",
                     "rarity": "rare",
@@ -1120,7 +1288,7 @@
                     "1a6850cb-ad33-4ae9-b762-2f05785214d8"
                 ],
                 "CreationDate": "2026-08-14T18:51:30.022Z",
-                "LastModifiedDate": "2026-08-14T18:55:23.469Z",
+                "LastModifiedDate": "2026-08-25T14:17:23.151Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1206,7 +1374,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_legs",
                     "rarity": "rare",
@@ -1294,7 +1490,7 @@
                     "1126f1ee-b831-4a7f-8a86-409ceebf8697"
                 ],
                 "CreationDate": "2026-08-14T18:49:29.548Z",
-                "LastModifiedDate": "2026-08-14T18:52:31.122Z",
+                "LastModifiedDate": "2026-08-25T14:15:49.605Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1380,7 +1576,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
@@ -1468,7 +1692,7 @@
                     "07f9db7f-4a23-4c5c-967d-ca115a441711"
                 ],
                 "CreationDate": "2026-08-14T18:48:47.121Z",
-                "LastModifiedDate": "2026-08-14T18:53:23.037Z",
+                "LastModifiedDate": "2026-08-25T14:08:32.931Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1554,7 +1778,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_back",
                     "rarity": "rare",
@@ -1642,7 +1894,7 @@
                     "dc0681a8-2da0-44fa-a26f-af1c21d7f1db"
                 ],
                 "CreationDate": "2026-08-14T18:48:44.358Z",
-                "LastModifiedDate": "2026-08-14T18:53:26.962Z",
+                "LastModifiedDate": "2026-08-25T14:09:59.134Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1728,7 +1980,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_legs",
                     "rarity": "rare",
@@ -1816,7 +2096,7 @@
                     "6d9e769a-dc66-4e50-b55a-c3d7d6076b26"
                 ],
                 "CreationDate": "2026-08-14T18:48:32.953Z",
-                "LastModifiedDate": "2026-08-14T18:52:45.821Z",
+                "LastModifiedDate": "2026-08-25T14:14:25.436Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -1902,7 +2182,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_back",
                     "rarity": "rare",
@@ -1990,7 +2298,7 @@
                     "ecc65d00-a50a-4acc-b13f-983c5204365e"
                 ],
                 "CreationDate": "2026-08-14T18:48:31.822Z",
-                "LastModifiedDate": "2026-08-14T18:55:15.206Z",
+                "LastModifiedDate": "2026-08-25T14:12:56.207Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -2076,7 +2384,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_top",
                     "rarity": "rare",
@@ -2164,7 +2500,7 @@
                     "ac6885a6-b789-45f3-8cb1-20b2187e90ad"
                 ],
                 "CreationDate": "2026-08-14T18:48:31.705Z",
-                "LastModifiedDate": "2026-08-14T18:52:13.278Z",
+                "LastModifiedDate": "2026-08-25T14:11:28.715Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -2250,7 +2586,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
@@ -2338,7 +2702,7 @@
                     "a89ec187-846d-4fe2-b54d-c2df479efb81"
                 ],
                 "CreationDate": "2026-08-14T18:45:25.537Z",
-                "LastModifiedDate": "2026-08-14T18:48:26.819Z",
+                "LastModifiedDate": "2026-08-25T14:07:07.15Z",
                 "Contents": [],
                 "Images": [
                     {
@@ -2420,7 +2784,35 @@
                     ],
                     "publicChangelog": {
                         "neutral": "",
-                        "en-US": ""
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
@@ -2683,6 +3075,135 @@
                         "zh-TW": ""
                     },
                     "pieceType": "persona_hood",
+                    "rarity": "rare",
+                    "hardwareMemoryTier": 0
+                }
+            },
+            {
+                "SourceEntity": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "SourceEntityKey": {
+                    "Id": "B63A0803D3653643",
+                    "Type": "namespace",
+                    "TypeString": "namespace"
+                },
+                "Id": "69a2a006-87e3-4270-9035-666cd3ee21c4",
+                "Type": "bundle",
+                "AlternateIds": [
+                    {
+                        "Type": "FriendlyId",
+                        "Value": "1a4146ef-bda9-41ff-a8e9-765b81c57614"
+                    }
+                ],
+                "Title": {
+                    "NEUTRAL": "Warden Helmet",
+                    "neutral": "Warden Helmet"
+                },
+                "Description": {
+                    "NEUTRAL": "§",
+                    "neutral": "§"
+                },
+                "Keywords": {},
+                "ContentType": "PersonaDurable",
+                "CreatorEntityKey": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "CreatorEntity": {
+                    "Id": "301F442C3B63DC20",
+                    "Type": "master_player_account",
+                    "TypeString": "master_player_account"
+                },
+                "IsHidden": false,
+                "Platforms": [
+                    "android.amazonappstore",
+                    "android.googleplay",
+                    "b.store",
+                    "ios.store",
+                    "nx.store",
+                    "nx2.store",
+                    "oculus.store.gearvr",
+                    "oculus.store.rift",
+                    "ps5.store",
+                    "uwp.store",
+                    "uwp.store.mobile",
+                    "xboxone.store",
+                    "title.bedrockvanilla",
+                    "title.earth"
+                ],
+                "Tags": [
+                    "69a2a006-87e3-4270-9035-666cd3ee21c4",
+                    "c0e7c615-65e2-da4d-b22d-a29170464add",
+                    "hidden_offer",
+                    "1P"
+                ],
+                "CreationDate": "2026-07-23T16:56:45.357Z",
+                "LastModifiedDate": "2026-08-26T11:54:31.703Z",
+                "Contents": [],
+                "Images": [
+                    {
+                        "Id": "39cb1ad7-14c5-4b53-8963-8c8be077d395",
+                        "Tag": "Thumbnail",
+                        "Type": "Thumbnail",
+                        "Url": "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/39cb1ad7-14c5-4b53-8963-8c8be077d395/warden_helmet_blockception_Thumbnail_0.png"
+                    }
+                ],
+                "ItemReferences": [
+                    {
+                        "Id": "8b500534-e0a9-44c2-8430-5b408bf2ce9d",
+                        "Amount": 1
+                    }
+                ],
+                "DeepLinks": [],
+                "DisplayProperties": {
+                    "creatorName": "Minecraft",
+                    "offerId": "1a4146ef-bda9-41ff-a8e9-765b81c57614",
+                    "originalCreatorId": "2535448579972708",
+                    "purchasable": false,
+                    "packIdentity": [
+                        {
+                            "type": "persona_piece",
+                            "uuid": "c0e7c615-65e2-da4d-b22d-a29170464add",
+                            "version": "1.0.0"
+                        }
+                    ],
+                    "publicChangelog": {
+                        "neutral": "",
+                        "en-US": "",
+                        "bg-BG": "",
+                        "cs-CZ": "",
+                        "da-DK": "",
+                        "de-DE": "",
+                        "el-GR": "",
+                        "en-GB": "",
+                        "es-ES": "",
+                        "es-MX": "",
+                        "fi-FI": "",
+                        "fr-CA": "",
+                        "fr-FR": "",
+                        "hu-HU": "",
+                        "id-ID": "",
+                        "it-IT": "",
+                        "ja-JP": "",
+                        "ko-KR": "",
+                        "nb-NO": "",
+                        "nl-NL": "",
+                        "pl-PL": "",
+                        "pt-BR": "",
+                        "pt-PT": "",
+                        "ru-RU": "",
+                        "sk-SK": "",
+                        "sv-SE": "",
+                        "tr-TR": "",
+                        "uk-UA": "",
+                        "zh-CN": "",
+                        "zh-TW": ""
+                    },
+                    "pieceType": "persona_head",
                     "rarity": "rare",
                     "hardwareMemoryTier": 0
                 }
