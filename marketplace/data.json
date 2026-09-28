@@ -2694,22 +2694,22 @@
                     "title.earth"
                 ],
                 "Tags": [
+                    "a89ec187-846d-4fe2-b54d-c2df479efb81",
                     "fe1a8d1d-676d-6283-fb81-884fc5b62095",
                     "tag.character_customization",
                     "tag.robot",
                     "tag.movie",
-                    "1P",
-                    "a89ec187-846d-4fe2-b54d-c2df479efb81"
+                    "1P"
                 ],
                 "CreationDate": "2026-08-14T18:45:25.537Z",
-                "LastModifiedDate": "2026-08-25T14:07:07.15Z",
+                "LastModifiedDate": "2026-09-25T09:08:13.886Z",
                 "Contents": [],
                 "Images": [
                     {
-                        "Id": "fa610735-730f-4dfc-a5e9-52bb6080136a",
+                        "Id": "88d28202-52af-404d-bf01-329fa9341bf6",
                         "Tag": "Thumbnail",
                         "Type": "Thumbnail",
-                        "Url": "https://content2.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/fa610735-730f-4dfc-a5e9-52bb6080136a/da_tf2_shockwave_head_Thumbnail_0.png"
+                        "Url": "https://content1.prod.catalog.playfab.com/pf-namespace-b63a0803d3653643/88d28202-52af-404d-bf01-329fa9341bf6/da_tf2_shockwave_head_Thumbnail_0.png"
                     }
                 ],
                 "ItemReferences": [
@@ -2721,22 +2721,24 @@
                 "Price": {
                     "Prices": [
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -2746,22 +2748,24 @@
                 "PriceOptions": {
                     "Prices": [
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "Id": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
                                     "ItemId": "ecd19d3c-7635-402c-a185-eb11cb6c6946",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         },
                         {
+                            "UnitAmount": 1,
                             "Amounts": [
                                 {
                                     "CurrencyId": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "Id": "0113e233-7637-48e7-91b0-349fdc74713d",
                                     "ItemId": "0113e233-7637-48e7-91b0-349fdc74713d",
-                                    "Amount": 0
+                                    "Amount": 280
                                 }
                             ]
                         }
@@ -2773,7 +2777,7 @@
                     "creatorName": "Minecraft",
                     "offerId": "585ec465-05b6-431f-b4a7-8bb63097aea6",
                     "originalCreatorId": "2535448579972708",
-                    "price": 0,
+                    "price": 280,
                     "purchasable": true,
                     "packIdentity": [
                         {
@@ -2816,9 +2820,8 @@
                     },
                     "pieceType": "persona_head",
                     "rarity": "rare",
-                    "requiresRedeem": true,
                     "hardwareMemoryTier": 0,
-                    "totalContentFileSize": 18292
+                    "totalContentFileSize": 18286
                 }
             },
             {
